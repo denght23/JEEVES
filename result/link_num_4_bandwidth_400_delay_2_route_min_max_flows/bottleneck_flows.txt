@@ -1,0 +1,1403 @@
+{'time': 0.012, 'bottleneck_flows': {'DATA_F1a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.012, 'bottleneck_flows': {'DATA_F1a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.012, 'bottleneck_flows': {'DATA_F1a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.012, 'bottleneck_flows': {'DATA_F1a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.024, 'bottleneck_flows': {'DATA_F2a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.024, 'bottleneck_flows': {'DATA_F2a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.024, 'bottleneck_flows': {'DATA_F2a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.024, 'bottleneck_flows': {'DATA_F2a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.0249, 'bottleneck_flows': {'DATA_F1a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.0249, 'bottleneck_flows': {'DATA_F1a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.0249, 'bottleneck_flows': {'DATA_F1a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.0249, 'bottleneck_flows': {'DATA_F1a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.036000000000000004, 'bottleneck_flows': {'DATA_F3a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.036000000000000004, 'bottleneck_flows': {'DATA_F3a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.036000000000000004, 'bottleneck_flows': {'DATA_F3a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.036000000000000004, 'bottleneck_flows': {'DATA_F3a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.0369, 'bottleneck_flows': {'DATA_F2a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.0369, 'bottleneck_flows': {'DATA_F2a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.0369, 'bottleneck_flows': {'DATA_F2a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.0369, 'bottleneck_flows': {'DATA_F2a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.039999999999999994, 'bottleneck_flows': {'DATA_F1a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.039999999999999994, 'bottleneck_flows': {'DATA_F1a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.039999999999999994, 'bottleneck_flows': {'DATA_F1a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.039999999999999994, 'bottleneck_flows': {'DATA_F1a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.048, 'bottleneck_flows': {'DATA_F4a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.048, 'bottleneck_flows': {'DATA_F4a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.048, 'bottleneck_flows': {'DATA_F4a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.048, 'bottleneck_flows': {'DATA_F4a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.04890000000000001, 'bottleneck_flows': {'DATA_F3a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.04890000000000001, 'bottleneck_flows': {'DATA_F3a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.04890000000000001, 'bottleneck_flows': {'DATA_F3a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.04890000000000001, 'bottleneck_flows': {'DATA_F3a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.052000000000000005, 'bottleneck_flows': {'DATA_F2a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.052000000000000005, 'bottleneck_flows': {'DATA_F2a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.052000000000000005, 'bottleneck_flows': {'DATA_F2a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.052000000000000005, 'bottleneck_flows': {'DATA_F2a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.0529, 'bottleneck_flows': {'DATA_F1b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.0529, 'bottleneck_flows': {'DATA_F1b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.0529, 'bottleneck_flows': {'DATA_F1b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.0529, 'bottleneck_flows': {'DATA_F1b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.06090000000000001, 'bottleneck_flows': {'DATA_F4a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.06090000000000001, 'bottleneck_flows': {'DATA_F4a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.06090000000000001, 'bottleneck_flows': {'DATA_F4a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.06090000000000001, 'bottleneck_flows': {'DATA_F4a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.06400000000000002, 'bottleneck_flows': {'DATA_F3a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.06400000000000002, 'bottleneck_flows': {'DATA_F3a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.06400000000000002, 'bottleneck_flows': {'DATA_F3a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.06400000000000002, 'bottleneck_flows': {'DATA_F3a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.06490000000000001, 'bottleneck_flows': {'DATA_F2b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.06490000000000001, 'bottleneck_flows': {'DATA_F2b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.06490000000000001, 'bottleneck_flows': {'DATA_F2b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.06490000000000001, 'bottleneck_flows': {'DATA_F2b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.068, 'bottleneck_flows': {'DATA_F1b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.068, 'bottleneck_flows': {'DATA_F1b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.068, 'bottleneck_flows': {'DATA_F1b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.068, 'bottleneck_flows': {'DATA_F1b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.07600000000000001, 'bottleneck_flows': {'DATA_F4a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.07600000000000001, 'bottleneck_flows': {'DATA_F4a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.07600000000000001, 'bottleneck_flows': {'DATA_F4a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.07600000000000001, 'bottleneck_flows': {'DATA_F4a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.07690000000000001, 'bottleneck_flows': {'DATA_F3b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.07690000000000001, 'bottleneck_flows': {'DATA_F3b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.07690000000000001, 'bottleneck_flows': {'DATA_F3b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.07690000000000001, 'bottleneck_flows': {'DATA_F3b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.08, 'bottleneck_flows': {'DATA_F2b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.08, 'bottleneck_flows': {'DATA_F2b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.08, 'bottleneck_flows': {'DATA_F2b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.08, 'bottleneck_flows': {'DATA_F2b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.0809, 'bottleneck_flows': {'DATA_F1b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.0809, 'bottleneck_flows': {'DATA_F1b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.0809, 'bottleneck_flows': {'DATA_F1b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.0809, 'bottleneck_flows': {'DATA_F1b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.0889, 'bottleneck_flows': {'DATA_F4b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.0889, 'bottleneck_flows': {'DATA_F4b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.0889, 'bottleneck_flows': {'DATA_F4b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.0889, 'bottleneck_flows': {'DATA_F4b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.092, 'bottleneck_flows': {'DATA_F3b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.092, 'bottleneck_flows': {'DATA_F3b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.092, 'bottleneck_flows': {'DATA_F3b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.092, 'bottleneck_flows': {'DATA_F3b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.0929, 'bottleneck_flows': {'DATA_F2b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.0929, 'bottleneck_flows': {'DATA_F2b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.0929, 'bottleneck_flows': {'DATA_F2b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.0929, 'bottleneck_flows': {'DATA_F2b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.09599999999999999, 'bottleneck_flows': {'DATA_F1b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.09599999999999999, 'bottleneck_flows': {'DATA_F1b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.09599999999999999, 'bottleneck_flows': {'DATA_F1b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.09599999999999999, 'bottleneck_flows': {'DATA_F1b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.104, 'bottleneck_flows': {'DATA_F4b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.104, 'bottleneck_flows': {'DATA_F4b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.104, 'bottleneck_flows': {'DATA_F4b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.104, 'bottleneck_flows': {'DATA_F4b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.1049, 'bottleneck_flows': {'DATA_F3b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.1049, 'bottleneck_flows': {'DATA_F3b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.1049, 'bottleneck_flows': {'DATA_F3b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.1049, 'bottleneck_flows': {'DATA_F3b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.10799999999999998, 'bottleneck_flows': {'DATA_F2b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.10799999999999998, 'bottleneck_flows': {'DATA_F2b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.10799999999999998, 'bottleneck_flows': {'DATA_F2b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.10799999999999998, 'bottleneck_flows': {'DATA_F2b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.11599999999999999, 'bottleneck_flows': {'DATA_F5a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.11599999999999999, 'bottleneck_flows': {'DATA_F5a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.11599999999999999, 'bottleneck_flows': {'DATA_F5a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.11599999999999999, 'bottleneck_flows': {'DATA_F5a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.11689999999999999, 'bottleneck_flows': {'DATA_F4b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.11689999999999999, 'bottleneck_flows': {'DATA_F4b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.11689999999999999, 'bottleneck_flows': {'DATA_F4b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.11689999999999999, 'bottleneck_flows': {'DATA_F4b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.11999999999999998, 'bottleneck_flows': {'DATA_F3b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.11999999999999998, 'bottleneck_flows': {'DATA_F3b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.11999999999999998, 'bottleneck_flows': {'DATA_F3b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.11999999999999998, 'bottleneck_flows': {'DATA_F3b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.12789999999999999, 'bottleneck_flows': {'DATA_B1b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.12789999999999999, 'bottleneck_flows': {'DATA_B1b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.12789999999999999, 'bottleneck_flows': {'DATA_B1b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.12789999999999999, 'bottleneck_flows': {'DATA_B1b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.128, 'bottleneck_flows': {'DATA_F6a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.128, 'bottleneck_flows': {'DATA_F6a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.128, 'bottleneck_flows': {'DATA_F6a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.128, 'bottleneck_flows': {'DATA_F6a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.1289, 'bottleneck_flows': {'DATA_F5a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.1289, 'bottleneck_flows': {'DATA_F5a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.1289, 'bottleneck_flows': {'DATA_F5a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.1289, 'bottleneck_flows': {'DATA_F5a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.13199999999999998, 'bottleneck_flows': {'DATA_F4b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.13199999999999998, 'bottleneck_flows': {'DATA_F4b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.13199999999999998, 'bottleneck_flows': {'DATA_F4b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.13199999999999998, 'bottleneck_flows': {'DATA_F4b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.13989999999999997, 'bottleneck_flows': {'DATA_B2b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.13989999999999997, 'bottleneck_flows': {'DATA_B2b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.13989999999999997, 'bottleneck_flows': {'DATA_B2b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.13989999999999997, 'bottleneck_flows': {'DATA_B2b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.14, 'bottleneck_flows': {'DATA_F7a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.14, 'bottleneck_flows': {'DATA_F7a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.14, 'bottleneck_flows': {'DATA_F7a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.14, 'bottleneck_flows': {'DATA_F7a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.1409, 'bottleneck_flows': {'DATA_F6a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.1409, 'bottleneck_flows': {'DATA_F6a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.1409, 'bottleneck_flows': {'DATA_F6a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.1409, 'bottleneck_flows': {'DATA_F6a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.144, 'bottleneck_flows': {'DATA_F5a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.144, 'bottleneck_flows': {'DATA_F5a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.144, 'bottleneck_flows': {'DATA_F5a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.144, 'bottleneck_flows': {'DATA_F5a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.14779999999999996, 'bottleneck_flows': {'DATA_B1b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.14779999999999996, 'bottleneck_flows': {'DATA_B1b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.14779999999999996, 'bottleneck_flows': {'DATA_B1b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.14779999999999996, 'bottleneck_flows': {'DATA_B1b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.15189999999999998, 'bottleneck_flows': {'DATA_B3b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.15189999999999998, 'bottleneck_flows': {'DATA_B3b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.15189999999999998, 'bottleneck_flows': {'DATA_B3b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.15189999999999998, 'bottleneck_flows': {'DATA_B3b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.1529, 'bottleneck_flows': {'DATA_F7a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.1529, 'bottleneck_flows': {'DATA_F7a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.1529, 'bottleneck_flows': {'DATA_F7a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.1529, 'bottleneck_flows': {'DATA_F7a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.156, 'bottleneck_flows': {'DATA_F6a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.156, 'bottleneck_flows': {'DATA_F6a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.156, 'bottleneck_flows': {'DATA_F6a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.156, 'bottleneck_flows': {'DATA_F6a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.15689999999999998, 'bottleneck_flows': {'DATA_F5b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.15689999999999998, 'bottleneck_flows': {'DATA_F5b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.15689999999999998, 'bottleneck_flows': {'DATA_F5b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.15689999999999998, 'bottleneck_flows': {'DATA_F5b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.15979999999999994, 'bottleneck_flows': {'DATA_F5b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B2b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B2b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F5b_DP1_PP3_TP0_Rank13_Rank1']}}
+{'time': 0.15979999999999994, 'bottleneck_flows': {'DATA_F5b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B2b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B2b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F5b_DP2_PP3_TP0_Rank14_Rank2']}}
+{'time': 0.15979999999999994, 'bottleneck_flows': {'DATA_F5b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B2b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B2b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F5b_DP0_PP3_TP0_Rank12_Rank0']}}
+{'time': 0.15979999999999994, 'bottleneck_flows': {'DATA_B2b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F5b_DP3_PP3_TP0_Rank15_Rank3'], 'DATA_F5b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B2b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.15999999999999998, 'bottleneck_flows': {'DATA_B2b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.15999999999999998, 'bottleneck_flows': {'DATA_B2b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.15999999999999998, 'bottleneck_flows': {'DATA_B2b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.15999999999999998, 'bottleneck_flows': {'DATA_B2b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.16389999999999996, 'bottleneck_flows': {'DATA_B4b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.16389999999999996, 'bottleneck_flows': {'DATA_B4b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.16389999999999996, 'bottleneck_flows': {'DATA_B4b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.16389999999999996, 'bottleneck_flows': {'DATA_B4b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.168, 'bottleneck_flows': {'DATA_F7a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.168, 'bottleneck_flows': {'DATA_F7a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.168, 'bottleneck_flows': {'DATA_F7a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.168, 'bottleneck_flows': {'DATA_F7a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.1689, 'bottleneck_flows': {'DATA_F6b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.1689, 'bottleneck_flows': {'DATA_F6b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.1689, 'bottleneck_flows': {'DATA_F6b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.1689, 'bottleneck_flows': {'DATA_F6b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.16989999999999994, 'bottleneck_flows': {'DATA_F6b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B1b_DP1_PP1_TP0_Rank5_Rank1'], 'DATA_B1b_DP1_PP1_TP0_Rank5_Rank1': ['DATA_F6b_DP1_PP3_TP0_Rank13_Rank1']}}
+{'time': 0.16989999999999994, 'bottleneck_flows': {'DATA_B1b_DP2_PP1_TP0_Rank6_Rank2': ['DATA_F6b_DP2_PP3_TP0_Rank14_Rank2'], 'DATA_F6b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B1b_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.16989999999999994, 'bottleneck_flows': {'DATA_F6b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B1b_DP3_PP1_TP0_Rank7_Rank3'], 'DATA_B1b_DP3_PP1_TP0_Rank7_Rank3': ['DATA_F6b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.16989999999999994, 'bottleneck_flows': {'DATA_F6b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B1b_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B1b_DP0_PP1_TP0_Rank4_Rank0': ['DATA_F6b_DP0_PP3_TP0_Rank12_Rank0']}}
+{'time': 0.17159999999999992, 'bottleneck_flows': {'DATA_F6b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.17159999999999992, 'bottleneck_flows': {'DATA_F6b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.17159999999999992, 'bottleneck_flows': {'DATA_F6b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.17159999999999992, 'bottleneck_flows': {'DATA_F6b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.17179999999999995, 'bottleneck_flows': {'DATA_B3b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F6b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F6b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B3b_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.17179999999999995, 'bottleneck_flows': {'DATA_F6b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B3b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B3b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F6b_DP1_PP3_TP0_Rank13_Rank1']}}
+{'time': 0.17179999999999995, 'bottleneck_flows': {'DATA_B3b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F6b_DP2_PP3_TP0_Rank14_Rank2'], 'DATA_F6b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B3b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.17179999999999995, 'bottleneck_flows': {'DATA_F6b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B3b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B3b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F6b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.172, 'bottleneck_flows': {'DATA_B3b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F5b_DP3_PP0_TP0_Rank3_Rank7'], 'DATA_F5b_DP3_PP0_TP0_Rank3_Rank7': ['DATA_B3b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.172, 'bottleneck_flows': {'DATA_B3b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F5b_DP0_PP0_TP0_Rank0_Rank4'], 'DATA_F5b_DP0_PP0_TP0_Rank0_Rank4': ['DATA_B3b_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.172, 'bottleneck_flows': {'DATA_F5b_DP2_PP0_TP0_Rank2_Rank6': ['DATA_B3b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B3b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F5b_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.172, 'bottleneck_flows': {'DATA_B3b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F5b_DP1_PP0_TP0_Rank1_Rank5'], 'DATA_F5b_DP1_PP0_TP0_Rank1_Rank5': ['DATA_B3b_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.17284999999999998, 'bottleneck_flows': {'DATA_B3b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F5b_DP0_PP0_TP0_Rank0_Rank4']}}
+{'time': 0.17284999999999998, 'bottleneck_flows': {'DATA_B3b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F5b_DP3_PP0_TP0_Rank3_Rank7']}}
+{'time': 0.17284999999999998, 'bottleneck_flows': {'DATA_B3b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F5b_DP1_PP0_TP0_Rank1_Rank5']}}
+{'time': 0.17284999999999998, 'bottleneck_flows': {'DATA_B3b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F5b_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.17369999999999997, 'bottleneck_flows': {'DATA_B3b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.17369999999999997, 'bottleneck_flows': {'DATA_B3b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.17369999999999997, 'bottleneck_flows': {'DATA_B3b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.17369999999999997, 'bottleneck_flows': {'DATA_B3b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.1809, 'bottleneck_flows': {'DATA_F7b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.1809, 'bottleneck_flows': {'DATA_F7b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.1809, 'bottleneck_flows': {'DATA_F7b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.1809, 'bottleneck_flows': {'DATA_F7b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.18189999999999992, 'bottleneck_flows': {'DATA_B2b_DP1_PP1_TP0_Rank5_Rank1': ['DATA_F7b_DP1_PP3_TP0_Rank13_Rank1'], 'DATA_F7b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B2b_DP1_PP1_TP0_Rank5_Rank1']}}
+{'time': 0.18189999999999992, 'bottleneck_flows': {'DATA_B2b_DP0_PP1_TP0_Rank4_Rank0': ['DATA_F7b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F7b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B2b_DP0_PP1_TP0_Rank4_Rank0']}}
+{'time': 0.18189999999999992, 'bottleneck_flows': {'DATA_B2b_DP2_PP1_TP0_Rank6_Rank2': ['DATA_F7b_DP2_PP3_TP0_Rank14_Rank2'], 'DATA_F7b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B2b_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.18189999999999992, 'bottleneck_flows': {'DATA_B2b_DP3_PP1_TP0_Rank7_Rank3': ['DATA_F7b_DP3_PP3_TP0_Rank15_Rank3'], 'DATA_F7b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B2b_DP3_PP1_TP0_Rank7_Rank3']}}
+{'time': 0.1835999999999999, 'bottleneck_flows': {'DATA_F7b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.1835999999999999, 'bottleneck_flows': {'DATA_F7b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.1835999999999999, 'bottleneck_flows': {'DATA_F7b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.1835999999999999, 'bottleneck_flows': {'DATA_F7b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.18379999999999994, 'bottleneck_flows': {'DATA_B4b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F7b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F7b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B4b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.18379999999999994, 'bottleneck_flows': {'DATA_F7b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B4b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B4b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F7b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.18379999999999994, 'bottleneck_flows': {'DATA_F7b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B4b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B4b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F7b_DP1_PP3_TP0_Rank13_Rank1']}}
+{'time': 0.18379999999999994, 'bottleneck_flows': {'DATA_B4b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F7b_DP2_PP3_TP0_Rank14_Rank2'], 'DATA_F7b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B4b_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.18485, 'bottleneck_flows': {'DATA_B4b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.18485, 'bottleneck_flows': {'DATA_B4b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.18485, 'bottleneck_flows': {'DATA_B4b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.18485, 'bottleneck_flows': {'DATA_F6b_DP2_PP0_TP0_Rank2_Rank6': ['DATA_B4b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B4b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F6b_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.18485, 'bottleneck_flows': {'DATA_B4b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F6b_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.18485, 'bottleneck_flows': {'DATA_B4b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F6b_DP0_PP0_TP0_Rank0_Rank4'], 'DATA_F6b_DP0_PP0_TP0_Rank0_Rank4': ['DATA_B4b_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.18485, 'bottleneck_flows': {'DATA_F6b_DP1_PP0_TP0_Rank1_Rank5': ['DATA_B4b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B4b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F6b_DP1_PP0_TP0_Rank1_Rank5']}}
+{'time': 0.18485, 'bottleneck_flows': {'DATA_F6b_DP3_PP0_TP0_Rank3_Rank7': ['DATA_B4b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B4b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F6b_DP3_PP0_TP0_Rank3_Rank7']}}
+{'time': 0.18569999999999998, 'bottleneck_flows': {'DATA_F5b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.18569999999999998, 'bottleneck_flows': {'DATA_F5b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.18569999999999998, 'bottleneck_flows': {'DATA_F5b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.18569999999999998, 'bottleneck_flows': {'DATA_F5b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.18654999999999997, 'bottleneck_flows': {'DATA_B4b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.18654999999999997, 'bottleneck_flows': {'DATA_B4b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.18654999999999997, 'bottleneck_flows': {'DATA_B4b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.18654999999999997, 'bottleneck_flows': {'DATA_B4b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.1905999999999999, 'bottleneck_flows': {'DATA_B1a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.1905999999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.1905999999999999, 'bottleneck_flows': {'DATA_B1a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.1905999999999999, 'bottleneck_flows': {'DATA_B1a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.19474999999999992, 'bottleneck_flows': {'DATA_B3b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.19474999999999992, 'bottleneck_flows': {'DATA_B3b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.19474999999999992, 'bottleneck_flows': {'DATA_B3b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.19474999999999992, 'bottleneck_flows': {'DATA_B3b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.19685, 'bottleneck_flows': {'DATA_F7b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.19685, 'bottleneck_flows': {'DATA_F7b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.19685, 'bottleneck_flows': {'DATA_F7b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.19685, 'bottleneck_flows': {'DATA_F7b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.19854999999999998, 'bottleneck_flows': {'DATA_F6b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.19854999999999998, 'bottleneck_flows': {'DATA_F6b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.19854999999999998, 'bottleneck_flows': {'DATA_F6b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.19854999999999998, 'bottleneck_flows': {'DATA_F6b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.20079999999999998, 'bottleneck_flows': {'DATA_F5b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.20079999999999998, 'bottleneck_flows': {'DATA_F5b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.20079999999999998, 'bottleneck_flows': {'DATA_F5b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.20079999999999998, 'bottleneck_flows': {'DATA_F5b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.2025999999999999, 'bottleneck_flows': {'DATA_B2a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.2025999999999999, 'bottleneck_flows': {'DATA_B2a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.2025999999999999, 'bottleneck_flows': {'DATA_B2a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.2025999999999999, 'bottleneck_flows': {'DATA_B2a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.20259999999999992, 'bottleneck_flows': {'DATA_F8a_DP2_PP0_TP0_Rank2_Rank6': ['DATA_B2a_DP2_PP0_TP0_Rank2_Rank14'], 'DATA_B2a_DP2_PP0_TP0_Rank2_Rank14': ['DATA_F8a_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.20259999999999992, 'bottleneck_flows': {'DATA_B2a_DP0_PP0_TP0_Rank0_Rank12': ['DATA_F8a_DP0_PP0_TP0_Rank0_Rank4'], 'DATA_F8a_DP0_PP0_TP0_Rank0_Rank4': ['DATA_B2a_DP0_PP0_TP0_Rank0_Rank12']}}
+{'time': 0.20259999999999992, 'bottleneck_flows': {'DATA_B2a_DP1_PP0_TP0_Rank1_Rank13': ['DATA_F8a_DP1_PP0_TP0_Rank1_Rank5'], 'DATA_F8a_DP1_PP0_TP0_Rank1_Rank5': ['DATA_B2a_DP1_PP0_TP0_Rank1_Rank13']}}
+{'time': 0.20259999999999992, 'bottleneck_flows': {'DATA_B2a_DP3_PP0_TP0_Rank3_Rank15': ['DATA_F8a_DP3_PP0_TP0_Rank3_Rank7'], 'DATA_F8a_DP3_PP0_TP0_Rank3_Rank7': ['DATA_B2a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.2042999999999999, 'bottleneck_flows': {'DATA_B2a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.2042999999999999, 'bottleneck_flows': {'DATA_B2a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.2042999999999999, 'bottleneck_flows': {'DATA_B2a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.2042999999999999, 'bottleneck_flows': {'DATA_B2a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.2067499999999999, 'bottleneck_flows': {'DATA_B4b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2067499999999999, 'bottleneck_flows': {'DATA_B4b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.2067499999999999, 'bottleneck_flows': {'DATA_B4b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.2067499999999999, 'bottleneck_flows': {'DATA_B4b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.20975, 'bottleneck_flows': {'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.20975, 'bottleneck_flows': {'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.20975, 'bottleneck_flows': {'DATA_F7b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.20975, 'bottleneck_flows': {'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.2126999999999999, 'bottleneck_flows': {'DATA_F7b_DP0_PP1_TP0_Rank4_Rank8': ['DATA_B1a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA_B1a_DP0_PP3_TP0_Rank12_Rank8': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8']}}
+{'time': 0.21070000000000008, 'bottleneck_flows': {'DATA_B1a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.2126999999999999, 'bottleneck_flows': {'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B1a_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_B1a_DP2_PP3_TP0_Rank14_Rank10': ['DATA_F7b_DP2_PP1_TP0_Rank6_Rank10']}}
+{'time': 0.21070000000000008, 'bottleneck_flows': {'DATA_B1a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.2126999999999999, 'bottleneck_flows': {'DATA_B1a_DP1_PP3_TP0_Rank13_Rank9': ['DATA_F7b_DP1_PP1_TP0_Rank5_Rank9'], 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9': ['DATA_B1a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.21070000000000008, 'bottleneck_flows': {'DATA_B1a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.2126999999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP3_TP0_Rank15_Rank11': ['DATA_F7b_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11': ['DATA_B1a_DP3_PP3_TP0_Rank15_Rank11']}}
+{'time': 0.21070000000000008, 'bottleneck_flows': {'DATA_B1a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.21364999999999998, 'bottleneck_flows': {'DATA_F6b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.21364999999999998, 'bottleneck_flows': {'DATA_F6b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.21364999999999998, 'bottleneck_flows': {'DATA_F6b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.21364999999999998, 'bottleneck_flows': {'DATA_F6b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.2146499999999999, 'bottleneck_flows': {'DATA_B3a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.2146499999999999, 'bottleneck_flows': {'DATA_B3a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.2146499999999999, 'bottleneck_flows': {'DATA_B3a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.2146499999999999, 'bottleneck_flows': {'DATA_B3a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.2162999999999999, 'bottleneck_flows': {'DATA_F8a_DP3_PP1_TP0_Rank7_Rank11': ['DATA_B3a_DP2_PP0_TP0_Rank2_Rank14'], 'DATA_B3a_DP2_PP0_TP0_Rank2_Rank14': ['DATA_F8a_DP3_PP1_TP0_Rank7_Rank11']}}
+{'time': 0.2162999999999999, 'bottleneck_flows': {'DATA_B3a_DP0_PP0_TP0_Rank0_Rank12': ['DATA_F8a_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8': ['DATA_B3a_DP0_PP0_TP0_Rank0_Rank12']}}
+{'time': 0.2162999999999999, 'bottleneck_flows': {'DATA_F8a_DP1_PP1_TP0_Rank5_Rank9': ['DATA_B3a_DP3_PP0_TP0_Rank3_Rank15'], 'DATA_B3a_DP3_PP0_TP0_Rank3_Rank15': ['DATA_F8a_DP1_PP1_TP0_Rank5_Rank9']}}
+{'time': 0.2162999999999999, 'bottleneck_flows': {'DATA_B3a_DP1_PP0_TP0_Rank1_Rank13': ['DATA_F8a_DP2_PP1_TP0_Rank6_Rank10'], 'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B3a_DP1_PP0_TP0_Rank1_Rank13']}}
+{'time': 0.2177499999999999, 'bottleneck_flows': {'DATA_F8a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.2177499999999999, 'bottleneck_flows': {'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.2177499999999999, 'bottleneck_flows': {'DATA_F8a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.2177499999999999, 'bottleneck_flows': {'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.2227000000000001, 'bottleneck_flows': {'DATA_F7b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.2227000000000001, 'bottleneck_flows': {'DATA_F7b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.2227000000000001, 'bottleneck_flows': {'DATA_F7b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.2227000000000001, 'bottleneck_flows': {'DATA_F7b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.22554999999999986, 'bottleneck_flows': {'DATA_B2a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.22554999999999986, 'bottleneck_flows': {'DATA_B2a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.22554999999999986, 'bottleneck_flows': {'DATA_B2a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.22554999999999986, 'bottleneck_flows': {'DATA_B2a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.22664999999999988, 'bottleneck_flows': {'DATA_B4a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.22664999999999988, 'bottleneck_flows': {'DATA_B4a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.22664999999999988, 'bottleneck_flows': {'DATA_B4a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.22664999999999988, 'bottleneck_flows': {'DATA_B4a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.2313999999999999, 'bottleneck_flows': {'DATA_F8a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.2313999999999999, 'bottleneck_flows': {'DATA_F8a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.2313999999999999, 'bottleneck_flows': {'DATA_F8a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.2313999999999999, 'bottleneck_flows': {'DATA_F8a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.23159999999999997, 'bottleneck_flows': {'DATA_B1a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F8a_DP1_PP2_TP0_Rank9_Rank13'], 'DATA_F8a_DP1_PP2_TP0_Rank9_Rank13': ['DATA_B1a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.23159999999999997, 'bottleneck_flows': {'DATA_F8a_DP0_PP2_TP0_Rank8_Rank12': ['DATA_B1a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B1a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F8a_DP0_PP2_TP0_Rank8_Rank12'], 'DATA_B1a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F8a_DP1_PP2_TP0_Rank9_Rank13']}}
+{'time': 0.23159999999999997, 'bottleneck_flows': {'DATA_B1a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F8a_DP2_PP2_TP0_Rank10_Rank14'], 'DATA_F8a_DP2_PP2_TP0_Rank10_Rank14': ['DATA_B1a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.23159999999999997, 'bottleneck_flows': {'DATA_B1a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F8a_DP2_PP2_TP0_Rank10_Rank14'], 'DATA_B1a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F8a_DP3_PP2_TP0_Rank11_Rank15'], 'DATA_F8a_DP3_PP2_TP0_Rank11_Rank15': ['DATA_B1a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.23269999999999996, 'bottleneck_flows': {'DATA_B5b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.23269999999999996, 'bottleneck_flows': {'DATA_B5b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.23269999999999996, 'bottleneck_flows': {'DATA_B5b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.23269999999999996, 'bottleneck_flows': {'DATA_B5b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.23289999999999983, 'bottleneck_flows': {'DATA_B1a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B1a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.23289999999999983, 'bottleneck_flows': {'DATA_B1a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B1a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.23289999999999983, 'bottleneck_flows': {'DATA_B1a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_B1a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.23289999999999983, 'bottleneck_flows': {'DATA_B1a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B1a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.2353499999999999, 'bottleneck_flows': {'DATA_B1a_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.2353499999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.23674999999999988, 'bottleneck_flows': {'DATA_B3a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.23674999999999988, 'bottleneck_flows': {'DATA_B3a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.23674999999999988, 'bottleneck_flows': {'DATA_B3a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.23674999999999988, 'bottleneck_flows': {'DATA_B3a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.24489999999999984, 'bottleneck_flows': {'DATA_F8b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.24489999999999984, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.24489999999999984, 'bottleneck_flows': {'DATA_F8b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.24489999999999984, 'bottleneck_flows': {'DATA_F8b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.24544999999999983, 'bottleneck_flows': {'DATA_B2a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F8b_DP3_PP3_TP0_Rank15_Rank3'], 'DATA_F8b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B2a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.24544999999999983, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B2a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B2a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F8b_DP2_PP3_TP0_Rank14_Rank2']}}
+{'time': 0.24544999999999983, 'bottleneck_flows': {'DATA_F8b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B2a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B2a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F8b_DP1_PP3_TP0_Rank13_Rank1']}}
+{'time': 0.24544999999999983, 'bottleneck_flows': {'DATA_B2a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F8b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F8b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B2a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.24554999999999996, 'bottleneck_flows': {'DATA_B6b_DP0_PP3_TP0_Rank12_Rank8': ['DATA_F8b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F8b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B6b_DP0_PP3_TP0_Rank12_Rank8']}}
+{'time': 0.24554999999999996, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B6b_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_B6b_DP2_PP3_TP0_Rank14_Rank10': ['DATA_F8b_DP2_PP3_TP0_Rank14_Rank2']}}
+{'time': 0.24554999999999996, 'bottleneck_flows': {'DATA_B6b_DP1_PP3_TP0_Rank13_Rank9': ['DATA_F8b_DP1_PP3_TP0_Rank13_Rank1'], 'DATA_F8b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B6b_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.24554999999999996, 'bottleneck_flows': {'DATA_F8b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B6b_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B6b_DP3_PP3_TP0_Rank15_Rank11': ['DATA_F8b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.24724999999999994, 'bottleneck_flows': {'DATA_F8b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B2a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.24724999999999994, 'bottleneck_flows': {'DATA_F8b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B2a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.24724999999999994, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B2a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.24724999999999994, 'bottleneck_flows': {'DATA_F8b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B2a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.24854999999999983, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.24854999999999983, 'bottleneck_flows': {'DATA_F8b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.24854999999999983, 'bottleneck_flows': {'DATA_F8b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.24854999999999983, 'bottleneck_flows': {'DATA_F8b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.24874999999999986, 'bottleneck_flows': {'DATA_B4a_DP1_PP3_TP0_Rank13_Rank9': ['DATA_F8b_DP1_PP3_TP0_Rank13_Rank1'], 'DATA_F8b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B4a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.24664999999999979, 'bottleneck_flows': {'DATA_B4a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.24874999999999986, 'bottleneck_flows': {'DATA_F8b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B4a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B4a_DP3_PP3_TP0_Rank15_Rank11': ['DATA_F8b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.24664999999999979, 'bottleneck_flows': {'DATA_B4a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.24874999999999986, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B4a_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_B4a_DP2_PP3_TP0_Rank14_Rank10': ['DATA_F8b_DP2_PP3_TP0_Rank14_Rank2']}}
+{'time': 0.24664999999999979, 'bottleneck_flows': {'DATA_B4a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.24874999999999986, 'bottleneck_flows': {'DATA_B4a_DP0_PP3_TP0_Rank12_Rank8': ['DATA_F8b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F8b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B4a_DP0_PP3_TP0_Rank12_Rank8']}}
+{'time': 0.24664999999999979, 'bottleneck_flows': {'DATA_B4a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.25259999999999994, 'bottleneck_flows': {'DATA_B5b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.25259999999999994, 'bottleneck_flows': {'DATA_B5b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.25259999999999994, 'bottleneck_flows': {'DATA_B5b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.25259999999999994, 'bottleneck_flows': {'DATA_B5b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.2543499999999999, 'bottleneck_flows': {'DATA_B1a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.2543499999999999, 'bottleneck_flows': {'DATA_B1a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.2543499999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.2543499999999999, 'bottleneck_flows': {'DATA_B1a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2546000000000001, 'bottleneck_flows': {'DATA_B7b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.2546000000000001, 'bottleneck_flows': {'DATA_B7b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.2546000000000001, 'bottleneck_flows': {'DATA_B7b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.2546000000000001, 'bottleneck_flows': {'DATA_B7b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.2566499999999999, 'bottleneck_flows': {'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.2566499999999999, 'bottleneck_flows': {'DATA_B3a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.2566499999999999, 'bottleneck_flows': {'DATA_B3a_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.2566499999999999, 'bottleneck_flows': {'DATA_B3a_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.25864999999999977, 'bottleneck_flows': {'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F8b_DP2_PP0_TP0_Rank2_Rank6'], 'DATA_F8b_DP2_PP0_TP0_Rank2_Rank6': ['DATA_B3a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.25855, 'bottleneck_flows': {'DATA_F8b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.25864999999999977, 'bottleneck_flows': {'DATA_F8b_DP0_PP0_TP0_Rank0_Rank4': ['DATA_B3a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B3a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F8b_DP0_PP0_TP0_Rank0_Rank4']}}
+{'time': 0.25855, 'bottleneck_flows': {'DATA_F8b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.25864999999999977, 'bottleneck_flows': {'DATA_F8b_DP3_PP0_TP0_Rank3_Rank7': ['DATA_B3a_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B3a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F8b_DP3_PP0_TP0_Rank3_Rank7']}}
+{'time': 0.25855, 'bottleneck_flows': {'DATA_F8b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.25864999999999977, 'bottleneck_flows': {'DATA_B3a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F8b_DP1_PP0_TP0_Rank1_Rank5'], 'DATA_F8b_DP1_PP0_TP0_Rank1_Rank5': ['DATA_B3a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.25855, 'bottleneck_flows': {'DATA_F8b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.26624999999999993, 'bottleneck_flows': {'DATA_B6b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.26624999999999993, 'bottleneck_flows': {'DATA_B6b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.26624999999999993, 'bottleneck_flows': {'DATA_B6b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.26624999999999993, 'bottleneck_flows': {'DATA_B6b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.26754999999999984, 'bottleneck_flows': {'DATA_B2a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.26754999999999984, 'bottleneck_flows': {'DATA_B2a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.26754999999999984, 'bottleneck_flows': {'DATA_B2a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.26754999999999984, 'bottleneck_flows': {'DATA_B2a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.26759999999999984, 'bottleneck_flows': {'DATA_B6b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_B4a_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B6b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B4a_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B4a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_B6b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.26759999999999984, 'bottleneck_flows': {'DATA_B6b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B4a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B6b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B4a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B4a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B6b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.26759999999999984, 'bottleneck_flows': {'DATA_B4a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B6b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B6b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B4a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B6b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B4a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.26759999999999984, 'bottleneck_flows': {'DATA_B4a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B6b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B6b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_B4a_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B6b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B4a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.26880000000000004, 'bottleneck_flows': {'DATA_B4a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B6b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B4a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B6b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.26880000000000004, 'bottleneck_flows': {'DATA_B4a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B6b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B4a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_B6b_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.26880000000000004, 'bottleneck_flows': {'DATA_B4a_DP0_PP2_TP0_Rank8_Rank4': [], 'DATA_B4a_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.26880000000000004, 'bottleneck_flows': {'DATA_B4a_DP1_PP2_TP0_Rank9_Rank5': [], 'DATA_B4a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.2714999999999999, 'bottleneck_flows': {'DATA_F8b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.2714999999999999, 'bottleneck_flows': {'DATA_F8b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.2714999999999999, 'bottleneck_flows': {'DATA_F8b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.2714999999999999, 'bottleneck_flows': {'DATA_F8b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.27450000000000013, 'bottleneck_flows': {'DATA_B7b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.27450000000000013, 'bottleneck_flows': {'DATA_B7b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.27450000000000013, 'bottleneck_flows': {'DATA_B7b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.27450000000000013, 'bottleneck_flows': {'DATA_B7b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.2747, 'bottleneck_flows': {'DATA_B5b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2747, 'bottleneck_flows': {'DATA_B5b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.2747, 'bottleneck_flows': {'DATA_B5b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.2747, 'bottleneck_flows': {'DATA_B5b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.27755, 'bottleneck_flows': {'DATA_B3a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.27755, 'bottleneck_flows': {'DATA_B3a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.27755, 'bottleneck_flows': {'DATA_B3a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.27755, 'bottleneck_flows': {'DATA_B3a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.28659999999999997, 'bottleneck_flows': {'DATA_F8b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.28659999999999997, 'bottleneck_flows': {'DATA_F8b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.28659999999999997, 'bottleneck_flows': {'DATA_F8b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.28659999999999997, 'bottleneck_flows': {'DATA_F8b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.28780000000000006, 'bottleneck_flows': {'DATA_B6b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.28780000000000006, 'bottleneck_flows': {'DATA_B6b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.28780000000000006, 'bottleneck_flows': {'DATA_B6b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.28780000000000006, 'bottleneck_flows': {'DATA_B6b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2903, 'bottleneck_flows': {'DATA_B4a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.2903, 'bottleneck_flows': {'DATA_B4a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.2903, 'bottleneck_flows': {'DATA_B4a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2903, 'bottleneck_flows': {'DATA_B4a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.29460000000000003, 'bottleneck_flows': {'DATA_B5a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.29460000000000003, 'bottleneck_flows': {'DATA_B5a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.29460000000000003, 'bottleneck_flows': {'DATA_B5a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.29460000000000003, 'bottleneck_flows': {'DATA_B5a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.2966000000000002, 'bottleneck_flows': {'DATA_B7b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.2966000000000002, 'bottleneck_flows': {'DATA_B7b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2966000000000002, 'bottleneck_flows': {'DATA_B7b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.2966000000000002, 'bottleneck_flows': {'DATA_B7b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.3077000000000001, 'bottleneck_flows': {'DATA_B6a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.3077000000000001, 'bottleneck_flows': {'DATA_B6a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.3077000000000001, 'bottleneck_flows': {'DATA_B6a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.3077000000000001, 'bottleneck_flows': {'DATA_B6a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.3165000000000002, 'bottleneck_flows': {'DATA_B7a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.3165000000000002, 'bottleneck_flows': {'DATA_B7a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.3165000000000002, 'bottleneck_flows': {'DATA_B7a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.3165000000000002, 'bottleneck_flows': {'DATA_B7a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.3167000000000001, 'bottleneck_flows': {'DATA_B5a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.3167000000000001, 'bottleneck_flows': {'DATA_B5a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.3167000000000001, 'bottleneck_flows': {'DATA_B5a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.3167000000000001, 'bottleneck_flows': {'DATA_B5a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.3185, 'bottleneck_flows': {'DATA_B8b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.3185, 'bottleneck_flows': {'DATA_B7a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B7a_DP0_PP0_TP0_Rank0_Rank12']}}
+{'time': 0.31840000000000046, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.3185, 'bottleneck_flows': {'DATA_B7a_DP3_PP0_TP0_Rank3_Rank15': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B7a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.31840000000000046, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.3185, 'bottleneck_flows': {'DATA_B8b_DP2_PP3_TP0_Rank14_Rank10': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B8b_DP2_PP3_TP0_Rank14_Rank10']}}
+{'time': 0.3185, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B7a_DP2_PP0_TP0_Rank2_Rank14'], 'DATA_B7a_DP2_PP0_TP0_Rank2_Rank14': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14']}}
+{'time': 0.31840000000000046, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.3185, 'bottleneck_flows': {'DATA_B8b_DP1_PP3_TP0_Rank13_Rank9': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B8b_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.3185, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B8b_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B8b_DP3_PP3_TP0_Rank15_Rank11': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.3185, 'bottleneck_flows': {'DATA_B8b_DP0_PP3_TP0_Rank12_Rank8': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B7a_DP1_PP0_TP0_Rank1_Rank13', 'DATA_B8b_DP0_PP3_TP0_Rank12_Rank8'], 'DATA_B7a_DP1_PP0_TP0_Rank1_Rank13': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.31840000000000046, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B8b_DP0_PP3_TP0_Rank12_Rank8']}}
+{'time': 0.3202, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.3202, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.3202, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.3202, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.32980000000000015, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B6a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B6a_DP3_PP3_TP0_Rank15_Rank11': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.32980000000000015, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B6a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA_B6a_DP0_PP3_TP0_Rank12_Rank8': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.32980000000000015, 'bottleneck_flows': {'DATA_B6a_DP1_PP3_TP0_Rank13_Rank9': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B6a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.32980000000000015, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B6a_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_B6a_DP2_PP3_TP0_Rank14_Rank10': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 0.33150000000000013, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.33150000000000013, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.33150000000000013, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.33150000000000013, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.3366000000000001, 'bottleneck_flows': {'DATA_B5a_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.3366000000000001, 'bottleneck_flows': {'DATA_B5a_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.3366000000000001, 'bottleneck_flows': {'DATA_B5a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.3366000000000001, 'bottleneck_flows': {'DATA_B5a_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.3374000000000005, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B7a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA_B7a_DP0_PP3_TP0_Rank12_Rank8': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.3374000000000005, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B7a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B7a_DP3_PP3_TP0_Rank15_Rank11': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.3374000000000005, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B7a_DP1_PP3_TP0_Rank13_Rank9'], 'DATA_B7a_DP1_PP3_TP0_Rank13_Rank9': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14']}}
+{'time': 0.3374000000000005, 'bottleneck_flows': {'DATA_B7a_DP2_PP3_TP0_Rank14_Rank10': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B7a_DP2_PP3_TP0_Rank14_Rank10']}}
+{'time': 0.33910000000000046, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.33910000000000046, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.33910000000000046, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.33910000000000046, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.3392, 'bottleneck_flows': {'DATA_B5a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B8b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B5a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.33790000000000026, 'bottleneck_flows': {'DATA_B8b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.3392, 'bottleneck_flows': {'DATA_B5a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B5a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.33790000000000026, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.3392, 'bottleneck_flows': {'DATA_B5a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B8b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B5a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B8b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B8b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.33790000000000026, 'bottleneck_flows': {'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.3392, 'bottleneck_flows': {'DATA_B8b_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA_B5a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B8b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B8b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.3392, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B8b_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10']}}
+{'time': 0.3392, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B5a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B5a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9']}}
+{'time': 0.33790000000000026, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': [], 'DATA_B8b_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8']}}
+{'time': 0.3392, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B8b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B8b_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA_B8b_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9']}}
+{'time': 0.3392, 'bottleneck_flows': {'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B8b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.34180000000000027, 'bottleneck_flows': {'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.34180000000000027, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.3431, 'bottleneck_flows': {'DATA_B8b_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.3431, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 0.35050000000000014, 'bottleneck_flows': {'DATA_B6a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B6a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.35050000000000014, 'bottleneck_flows': {'DATA_B6a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B6a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B6a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10']}}
+{'time': 0.35050000000000014, 'bottleneck_flows': {'DATA_B6a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B6a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.35050000000000014, 'bottleneck_flows': {'DATA_B6a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B6a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B6a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8']}}
+{'time': 0.35440000000000016, 'bottleneck_flows': {'DATA_B6a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.35440000000000016, 'bottleneck_flows': {'DATA_B6a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.35440000000000016, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.35440000000000016, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 0.3569000000000003, 'bottleneck_flows': {'DATA_B5a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.3569000000000003, 'bottleneck_flows': {'DATA_B5a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.3569000000000003, 'bottleneck_flows': {'DATA_B5a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.3569000000000003, 'bottleneck_flows': {'DATA_B5a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.3581000000000005, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B7a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B7a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11']}}
+{'time': 0.3581000000000005, 'bottleneck_flows': {'DATA_B7a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B7a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B7a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11']}}
+{'time': 0.3581000000000005, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B7a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B7a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9']}}
+{'time': 0.3581000000000005, 'bottleneck_flows': {'DATA_B7a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA_B7a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B7a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.3608000000000003, 'bottleneck_flows': {'DATA_B8b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.3608000000000003, 'bottleneck_flows': {'DATA_B8b_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA_B7a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8', 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B7a_DP3_PP2_TP0_Rank11_Rank7', 'DATA_B8b_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.3608000000000003, 'bottleneck_flows': {'DATA_B8b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.3608000000000003, 'bottleneck_flows': {'DATA_B7a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B8b_DP1_PP1_TP0_Rank5_Rank1', 'DATA_B7a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B8b_DP1_PP1_TP0_Rank5_Rank1': ['DATA0_F999_DP4_PP1_TP0_Rank5_Rank6']}}
+{'time': 0.3620000000000005, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B8b_DP2_PP1_TP0_Rank6_Rank2'], 'DATA_B7a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.3620000000000005, 'bottleneck_flows': {'DATA_B7a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B8b_DP1_PP1_TP0_Rank5_Rank1'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.3620000000000005, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 0.3620000000000005, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.36210000000000003, 'bottleneck_flows': {'DATA_B8b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.36210000000000003, 'bottleneck_flows': {'DATA_B8b_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4'], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B8b_DP3_PP1_TP0_Rank7_Rank3']}}
+{'time': 0.36210000000000003, 'bottleneck_flows': {'DATA_B8b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.36210000000000003, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B8b_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B8b_DP0_PP1_TP0_Rank4_Rank0': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 0.36250000000000027, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.36250000000000027, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.3638, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.3638, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 0.3734000000000002, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B6a_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B6a_DP0_PP1_TP0_Rank4_Rank0': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 0.3734000000000002, 'bottleneck_flows': {'DATA_B6a_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B6a_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.3734000000000002, 'bottleneck_flows': {'DATA_B6a_DP1_PP1_TP0_Rank5_Rank1': ['DATA0_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B6a_DP1_PP1_TP0_Rank5_Rank1']}}
+{'time': 0.3734000000000002, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B6a_DP3_PP1_TP0_Rank7_Rank3'], 'DATA_B6a_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 0.37510000000000016, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.37510000000000016, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.37510000000000016, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 0.37510000000000016, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.3810000000000005, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B7a_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B7a_DP0_PP1_TP0_Rank4_Rank0': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 0.3810000000000005, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B7a_DP1_PP1_TP0_Rank5_Rank1'], 'DATA_B7a_DP1_PP1_TP0_Rank5_Rank1': ['DATA0_F999_DP4_PP1_TP0_Rank5_Rank6']}}
+{'time': 0.3810000000000005, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B7a_DP3_PP1_TP0_Rank7_Rank3'], 'DATA_B7a_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 0.3810000000000005, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B7a_DP2_PP1_TP0_Rank6_Rank2'], 'DATA_B7a_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP4_PP1_TP0_Rank6_Rank7']}}
+{'time': 0.3815000000000003, 'bottleneck_flows': {'DATA_B8a_DP2_PP0_TP0_Rank2_Rank14': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B8a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.3815000000000003, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA_B7a_DP2_PP1_TP0_Rank6_Rank2'], 'DATA_B7a_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP0_PP0_TP0_Rank1_Rank2', 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7']}}
+{'time': 0.3815000000000003, 'bottleneck_flows': {'DATA_B8a_DP2_PP0_TP0_Rank2_Rank14': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14', 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3'], 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA_B7a_DP3_PP1_TP0_Rank7_Rank3', 'DATA_B8a_DP2_PP0_TP0_Rank2_Rank14'], 'DATA_B7a_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3']}}
+{'time': 0.3815000000000003, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA_B8a_DP1_PP0_TP0_Rank1_Rank13', 'DATA_B7a_DP2_PP1_TP0_Rank6_Rank2'], 'DATA_B8a_DP2_PP0_TP0_Rank2_Rank14': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14', 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3'], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B8a_DP1_PP0_TP0_Rank1_Rank13'], 'DATA_B8a_DP1_PP0_TP0_Rank1_Rank13': ['DATA0_F999_DP0_PP0_TP0_Rank1_Rank2', 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.3827000000000005, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': [], 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA_B8a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.3827000000000005, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA_B8a_DP1_PP0_TP0_Rank1_Rank13'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.3827000000000005, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 0.3827000000000005, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.38280000000000003, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B8a_DP0_PP0_TP0_Rank0_Rank12'], 'DATA_B8a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.38280000000000003, 'bottleneck_flows': {'DATA_B8a_DP3_PP0_TP0_Rank3_Rank15': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA_B8a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B8a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.38280000000000003, 'bottleneck_flows': {'DATA_B8a_DP3_PP0_TP0_Rank3_Rank15': ['DATA0_F999_DP0_PP0_TP0_Rank3_Rank0', 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA_B8a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.38280000000000003, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA_B8a_DP0_PP0_TP0_Rank0_Rank12'], 'DATA_B8a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP0_PP0_TP0_Rank0_Rank1', 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.3854000000000003, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': [], 'DATA_B8a_DP2_PP0_TP0_Rank2_Rank14': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14', 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3'], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.3854000000000003, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': [], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.38670000000000004, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': [], 'DATA_B8a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP0_PP0_TP0_Rank0_Rank1', 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 0.38670000000000004, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': [], 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.4044000000000003, 'bottleneck_flows': {'DATA_B8a_DP1_PP3_TP0_Rank13_Rank9': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9', 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B8a_DP1_PP3_TP0_Rank13_Rank9'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B8a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.4044000000000003, 'bottleneck_flows': {'DATA_B8a_DP2_PP3_TP0_Rank14_Rank10': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8a_DP2_PP3_TP0_Rank14_Rank10'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B8a_DP2_PP3_TP0_Rank14_Rank10']}}
+{'time': 0.40570000000000006, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B8a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B8a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B8a_DP3_PP3_TP0_Rank15_Rank11': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.40570000000000006, 'bottleneck_flows': {'DATA_B8a_DP0_PP3_TP0_Rank12_Rank8': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13', 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B8a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B8a_DP0_PP3_TP0_Rank12_Rank8']}}
+{'time': 0.4061000000000003, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': [], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.4061000000000003, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': [], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.40740000000000004, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': [], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.40740000000000004, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': [], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.4251000000000003, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B8a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B8a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.4251000000000003, 'bottleneck_flows': {'DATA_B8a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B8a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B8a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B8a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.42640000000000006, 'bottleneck_flows': {'DATA_B8a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B8a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B8a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.42640000000000006, 'bottleneck_flows': {'DATA_B8a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B8a_DP3_PP2_TP0_Rank11_Rank7'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B8a_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B8a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8', 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7']}}
+{'time': 0.4290000000000003, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': [], 'DATA_B8a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.4290000000000003, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': [], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.43030000000000007, 'bottleneck_flows': {'DATA_B8a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': [], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.43030000000000007, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': [], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.44800000000000034, 'bottleneck_flows': {'DATA_B8a_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP0_PP0_TP0_Rank1_Rank2', 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA_B8a_DP2_PP1_TP0_Rank6_Rank2'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B8a_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.44800000000000034, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA_B8a_DP1_PP1_TP0_Rank5_Rank1'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B8a_DP1_PP1_TP0_Rank5_Rank1'], 'DATA_B8a_DP1_PP1_TP0_Rank5_Rank1': ['DATA0_F999_DP0_PP0_TP0_Rank0_Rank1', 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6']}}
+{'time': 0.4493000000000001, 'bottleneck_flows': {'DATA_B8a_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3'], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B8a_DP3_PP1_TP0_Rank7_Rank3'], 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA_B8a_DP3_PP1_TP0_Rank7_Rank3']}}
+{'time': 0.4493000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B8a_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B8a_DP0_PP1_TP0_Rank4_Rank0': ['DATA0_F999_DP0_PP0_TP0_Rank3_Rank0', 'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5'], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA_B8a_DP0_PP1_TP0_Rank4_Rank0']}}
+{'time': 0.4497000000000003, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': [], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.4497000000000003, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': [], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.45100000000000007, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': [], 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 0.45100000000000007, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': [], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 0.6039000000000002, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.6039000000000002, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA1_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.6038999999999997, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.6038999999999997, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.6039000000000002, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.6273000000000002, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.6273000000000002, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.6273000000000002, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 0.6273000000000002, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.6462500000000002, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4'], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA1_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 0.6462500000000002, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.64755, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.6487499999999997, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.6487499999999997, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 0.6644000000000003, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 0.6644000000000003, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA0_F999_DP0_PP0_TP0_Rank3_Rank0'], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA1_F999_DP0_PP0_TP0_Rank3_Rank0']}}
+{'time': 0.6657, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 0.6668999999999997, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 0.6668999999999997, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 0.8839999999999997, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA2_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA2_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA1_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 0.8839000000000008, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.8839000000000008, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA1_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA1_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA2_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.8839999999999997, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.8839999999999997, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA2_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA2_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA1_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.8839000000000002, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.8839000000000002, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.9074000000000002, 'bottleneck_flows': {'DATA2_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.9074000000000002, 'bottleneck_flows': {'DATA2_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.9074000000000002, 'bottleneck_flows': {'DATA2_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 0.9074000000000002, 'bottleneck_flows': {'DATA2_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.9263500000000002, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA2_F999_DP4_PP1_TP0_Rank7_Rank4'], 'DATA2_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA1_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 0.92765, 'bottleneck_flows': {'DATA2_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.9287499999999997, 'bottleneck_flows': {'DATA2_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.9287499999999997, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA2_F999_DP4_PP1_TP0_Rank4_Rank5'], 'DATA2_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA1_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 0.9288499999999996, 'bottleneck_flows': {'DATA2_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 0.9288499999999996, 'bottleneck_flows': {'DATA2_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.9445000000000003, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA2_F999_DP0_PP0_TP0_Rank3_Rank0'], 'DATA2_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA1_F999_DP0_PP0_TP0_Rank3_Rank0']}}
+{'time': 0.9458, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 0.9468999999999996, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 0.9468999999999996, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA1_F999_DP0_PP0_TP0_Rank0_Rank1'], 'DATA1_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA2_F999_DP0_PP0_TP0_Rank0_Rank1']}}
+{'time': 0.9469999999999997, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 0.9469999999999997, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 1.1640000000000004, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA2_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA2_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA3_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 1.1640000000000001, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 1.1640000000000001, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA3_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA3_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA2_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 1.1640000000000004, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 1.1640000000000004, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA2_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA2_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA3_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 1.1639999999999995, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 1.1639999999999995, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 1.1875000000000002, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 1.1875000000000002, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 1.1875000000000002, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 1.1875000000000002, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 1.20765, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA2_F999_DP4_PP1_TP0_Rank4_Rank5'], 'DATA2_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA3_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 1.20775, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 1.2089499999999995, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 1.2100499999999996, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 1.2100499999999996, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 1.2258, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA3_F999_DP0_PP0_TP0_Rank0_Rank1'], 'DATA3_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA2_F999_DP0_PP0_TP0_Rank0_Rank1']}}
+{'time': 1.2259, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 1.2270999999999999, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 1.2281999999999995, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 1.2281999999999995, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 1.4440999999999995, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA4_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA4_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA3_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 1.444000000000001, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 1.444000000000001, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA3_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA3_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA4_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 1.4440999999999995, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 1.4440999999999995, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA4_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA4_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA3_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 1.4440000000000004, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 1.4440000000000004, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 1.4676000000000002, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 1.4676000000000002, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 1.4676000000000002, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 1.4676000000000002, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 1.4878500000000001, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA4_F999_DP4_PP1_TP0_Rank4_Rank5'], 'DATA4_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA3_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 1.4890499999999995, 'bottleneck_flows': {'DATA4_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 1.4899499999999994, 'bottleneck_flows': {'DATA4_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 1.4899499999999994, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA4_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA4_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA3_F999_DP4_PP1_TP0_Rank5_Rank6']}}
+{'time': 1.4902499999999999, 'bottleneck_flows': {'DATA4_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 1.4902499999999999, 'bottleneck_flows': {'DATA4_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 1.506, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA3_F999_DP0_PP0_TP0_Rank0_Rank1'], 'DATA3_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA4_F999_DP0_PP0_TP0_Rank0_Rank1']}}
+{'time': 1.5071999999999999, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 1.5080999999999996, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 1.5080999999999996, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA4_F999_DP0_PP0_TP0_Rank1_Rank2'], 'DATA4_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA3_F999_DP0_PP0_TP0_Rank1_Rank2']}}
+{'time': 1.5083999999999995, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 1.5083999999999995, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 1.7241000000000004, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA4_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA4_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA5_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 1.7241000000000002, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 1.7241000000000002, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA5_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA5_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA4_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 1.7241000000000004, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 1.7241000000000004, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA4_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA4_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA5_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 1.7240999999999995, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 1.7240999999999995, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 1.7477000000000003, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 1.7477000000000003, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 1.7477000000000003, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 1.7477000000000003, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 1.7689999999999997, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA4_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA4_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA5_F999_DP4_PP1_TP0_Rank5_Rank6']}}
+{'time': 1.7691499999999996, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 1.7703499999999999, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 1.7712999999999997, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 1.7712999999999997, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 1.7871499999999998, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA4_F999_DP0_PP0_TP0_Rank1_Rank2'], 'DATA4_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA5_F999_DP0_PP0_TP0_Rank1_Rank2']}}
+{'time': 1.7872999999999999, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 1.7884999999999995, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 1.789449999999999, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 1.789449999999999, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 0.012, 'bottleneck_flows': {'DATA_F1a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.012, 'bottleneck_flows': {'DATA_F1a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.012, 'bottleneck_flows': {'DATA_F1a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.012, 'bottleneck_flows': {'DATA_F1a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.024, 'bottleneck_flows': {'DATA_F2a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.024, 'bottleneck_flows': {'DATA_F2a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.024, 'bottleneck_flows': {'DATA_F2a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.024, 'bottleneck_flows': {'DATA_F2a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.0249, 'bottleneck_flows': {'DATA_F1a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.0249, 'bottleneck_flows': {'DATA_F1a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.0249, 'bottleneck_flows': {'DATA_F1a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.0249, 'bottleneck_flows': {'DATA_F1a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.036000000000000004, 'bottleneck_flows': {'DATA_F3a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.036000000000000004, 'bottleneck_flows': {'DATA_F3a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.036000000000000004, 'bottleneck_flows': {'DATA_F3a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.036000000000000004, 'bottleneck_flows': {'DATA_F3a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.0369, 'bottleneck_flows': {'DATA_F2a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.0369, 'bottleneck_flows': {'DATA_F2a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.0369, 'bottleneck_flows': {'DATA_F2a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.0369, 'bottleneck_flows': {'DATA_F2a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.039999999999999994, 'bottleneck_flows': {'DATA_F1a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.039999999999999994, 'bottleneck_flows': {'DATA_F1a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.039999999999999994, 'bottleneck_flows': {'DATA_F1a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.039999999999999994, 'bottleneck_flows': {'DATA_F1a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.048, 'bottleneck_flows': {'DATA_F4a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.048, 'bottleneck_flows': {'DATA_F4a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.048, 'bottleneck_flows': {'DATA_F4a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.048, 'bottleneck_flows': {'DATA_F4a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.04890000000000001, 'bottleneck_flows': {'DATA_F3a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.04890000000000001, 'bottleneck_flows': {'DATA_F3a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.04890000000000001, 'bottleneck_flows': {'DATA_F3a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.04890000000000001, 'bottleneck_flows': {'DATA_F3a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.052000000000000005, 'bottleneck_flows': {'DATA_F2a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.052000000000000005, 'bottleneck_flows': {'DATA_F2a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.052000000000000005, 'bottleneck_flows': {'DATA_F2a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.052000000000000005, 'bottleneck_flows': {'DATA_F2a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.0529, 'bottleneck_flows': {'DATA_F1b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.0529, 'bottleneck_flows': {'DATA_F1b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.0529, 'bottleneck_flows': {'DATA_F1b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.0529, 'bottleneck_flows': {'DATA_F1b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.06090000000000001, 'bottleneck_flows': {'DATA_F4a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.06090000000000001, 'bottleneck_flows': {'DATA_F4a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.06090000000000001, 'bottleneck_flows': {'DATA_F4a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.06090000000000001, 'bottleneck_flows': {'DATA_F4a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.06400000000000002, 'bottleneck_flows': {'DATA_F3a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.06400000000000002, 'bottleneck_flows': {'DATA_F3a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.06400000000000002, 'bottleneck_flows': {'DATA_F3a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.06400000000000002, 'bottleneck_flows': {'DATA_F3a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.06490000000000001, 'bottleneck_flows': {'DATA_F2b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.06490000000000001, 'bottleneck_flows': {'DATA_F2b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.06490000000000001, 'bottleneck_flows': {'DATA_F2b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.06490000000000001, 'bottleneck_flows': {'DATA_F2b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.068, 'bottleneck_flows': {'DATA_F1b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.068, 'bottleneck_flows': {'DATA_F1b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.068, 'bottleneck_flows': {'DATA_F1b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.068, 'bottleneck_flows': {'DATA_F1b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.07600000000000001, 'bottleneck_flows': {'DATA_F4a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.07600000000000001, 'bottleneck_flows': {'DATA_F4a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.07600000000000001, 'bottleneck_flows': {'DATA_F4a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.07600000000000001, 'bottleneck_flows': {'DATA_F4a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.07690000000000001, 'bottleneck_flows': {'DATA_F3b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.07690000000000001, 'bottleneck_flows': {'DATA_F3b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.07690000000000001, 'bottleneck_flows': {'DATA_F3b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.07690000000000001, 'bottleneck_flows': {'DATA_F3b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.08, 'bottleneck_flows': {'DATA_F2b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.08, 'bottleneck_flows': {'DATA_F2b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.08, 'bottleneck_flows': {'DATA_F2b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.08, 'bottleneck_flows': {'DATA_F2b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.0809, 'bottleneck_flows': {'DATA_F1b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.0809, 'bottleneck_flows': {'DATA_F1b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.0809, 'bottleneck_flows': {'DATA_F1b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.0809, 'bottleneck_flows': {'DATA_F1b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.0889, 'bottleneck_flows': {'DATA_F4b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.0889, 'bottleneck_flows': {'DATA_F4b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.0889, 'bottleneck_flows': {'DATA_F4b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.0889, 'bottleneck_flows': {'DATA_F4b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.092, 'bottleneck_flows': {'DATA_F3b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.092, 'bottleneck_flows': {'DATA_F3b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.092, 'bottleneck_flows': {'DATA_F3b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.092, 'bottleneck_flows': {'DATA_F3b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.0929, 'bottleneck_flows': {'DATA_F2b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.0929, 'bottleneck_flows': {'DATA_F2b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.0929, 'bottleneck_flows': {'DATA_F2b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.0929, 'bottleneck_flows': {'DATA_F2b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.09599999999999999, 'bottleneck_flows': {'DATA_F1b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.09599999999999999, 'bottleneck_flows': {'DATA_F1b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.09599999999999999, 'bottleneck_flows': {'DATA_F1b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.09599999999999999, 'bottleneck_flows': {'DATA_F1b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.104, 'bottleneck_flows': {'DATA_F4b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.104, 'bottleneck_flows': {'DATA_F4b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.104, 'bottleneck_flows': {'DATA_F4b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.104, 'bottleneck_flows': {'DATA_F4b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.1049, 'bottleneck_flows': {'DATA_F3b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.1049, 'bottleneck_flows': {'DATA_F3b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.1049, 'bottleneck_flows': {'DATA_F3b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.1049, 'bottleneck_flows': {'DATA_F3b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.10799999999999998, 'bottleneck_flows': {'DATA_F2b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.10799999999999998, 'bottleneck_flows': {'DATA_F2b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.10799999999999998, 'bottleneck_flows': {'DATA_F2b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.10799999999999998, 'bottleneck_flows': {'DATA_F2b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.11599999999999999, 'bottleneck_flows': {'DATA_F5a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.11599999999999999, 'bottleneck_flows': {'DATA_F5a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.11599999999999999, 'bottleneck_flows': {'DATA_F5a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.11599999999999999, 'bottleneck_flows': {'DATA_F5a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.11689999999999999, 'bottleneck_flows': {'DATA_F4b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.11689999999999999, 'bottleneck_flows': {'DATA_F4b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.11689999999999999, 'bottleneck_flows': {'DATA_F4b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.11689999999999999, 'bottleneck_flows': {'DATA_F4b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.11999999999999998, 'bottleneck_flows': {'DATA_F3b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.11999999999999998, 'bottleneck_flows': {'DATA_F3b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.11999999999999998, 'bottleneck_flows': {'DATA_F3b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.11999999999999998, 'bottleneck_flows': {'DATA_F3b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.12789999999999999, 'bottleneck_flows': {'DATA_B1b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.12789999999999999, 'bottleneck_flows': {'DATA_B1b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.12789999999999999, 'bottleneck_flows': {'DATA_B1b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.12789999999999999, 'bottleneck_flows': {'DATA_B1b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.128, 'bottleneck_flows': {'DATA_F6a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.128, 'bottleneck_flows': {'DATA_F6a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.128, 'bottleneck_flows': {'DATA_F6a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.128, 'bottleneck_flows': {'DATA_F6a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.1289, 'bottleneck_flows': {'DATA_F5a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.1289, 'bottleneck_flows': {'DATA_F5a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.1289, 'bottleneck_flows': {'DATA_F5a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.1289, 'bottleneck_flows': {'DATA_F5a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.13199999999999998, 'bottleneck_flows': {'DATA_F4b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.13199999999999998, 'bottleneck_flows': {'DATA_F4b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.13199999999999998, 'bottleneck_flows': {'DATA_F4b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.13199999999999998, 'bottleneck_flows': {'DATA_F4b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.13989999999999997, 'bottleneck_flows': {'DATA_B2b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.13989999999999997, 'bottleneck_flows': {'DATA_B2b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.13989999999999997, 'bottleneck_flows': {'DATA_B2b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.13989999999999997, 'bottleneck_flows': {'DATA_B2b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.14, 'bottleneck_flows': {'DATA_F7a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.14, 'bottleneck_flows': {'DATA_F7a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.14, 'bottleneck_flows': {'DATA_F7a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.14, 'bottleneck_flows': {'DATA_F7a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.1409, 'bottleneck_flows': {'DATA_F6a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.1409, 'bottleneck_flows': {'DATA_F6a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.1409, 'bottleneck_flows': {'DATA_F6a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.1409, 'bottleneck_flows': {'DATA_F6a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.144, 'bottleneck_flows': {'DATA_F5a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.144, 'bottleneck_flows': {'DATA_F5a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.144, 'bottleneck_flows': {'DATA_F5a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.144, 'bottleneck_flows': {'DATA_F5a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.14779999999999996, 'bottleneck_flows': {'DATA_B1b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.14779999999999996, 'bottleneck_flows': {'DATA_B1b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.14779999999999996, 'bottleneck_flows': {'DATA_B1b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.14779999999999996, 'bottleneck_flows': {'DATA_B1b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.15189999999999998, 'bottleneck_flows': {'DATA_B3b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.15189999999999998, 'bottleneck_flows': {'DATA_B3b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.15189999999999998, 'bottleneck_flows': {'DATA_B3b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.15189999999999998, 'bottleneck_flows': {'DATA_B3b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.1529, 'bottleneck_flows': {'DATA_F7a_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.1529, 'bottleneck_flows': {'DATA_F7a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.1529, 'bottleneck_flows': {'DATA_F7a_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.1529, 'bottleneck_flows': {'DATA_F7a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.156, 'bottleneck_flows': {'DATA_F6a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.156, 'bottleneck_flows': {'DATA_F6a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.156, 'bottleneck_flows': {'DATA_F6a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.156, 'bottleneck_flows': {'DATA_F6a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.15689999999999998, 'bottleneck_flows': {'DATA_F5b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.15689999999999998, 'bottleneck_flows': {'DATA_F5b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.15689999999999998, 'bottleneck_flows': {'DATA_F5b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.15689999999999998, 'bottleneck_flows': {'DATA_F5b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.15979999999999994, 'bottleneck_flows': {'DATA_F5b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B2b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B2b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F5b_DP1_PP3_TP0_Rank13_Rank1']}}
+{'time': 0.15979999999999994, 'bottleneck_flows': {'DATA_F5b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B2b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B2b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F5b_DP2_PP3_TP0_Rank14_Rank2']}}
+{'time': 0.15979999999999994, 'bottleneck_flows': {'DATA_F5b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B2b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B2b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F5b_DP0_PP3_TP0_Rank12_Rank0']}}
+{'time': 0.15979999999999994, 'bottleneck_flows': {'DATA_B2b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F5b_DP3_PP3_TP0_Rank15_Rank3'], 'DATA_F5b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B2b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.16209999999999994, 'bottleneck_flows': {'DATA_B2b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.16209999999999994, 'bottleneck_flows': {'DATA_B2b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.16209999999999994, 'bottleneck_flows': {'DATA_B2b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.16209999999999994, 'bottleneck_flows': {'DATA_B2b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.16389999999999996, 'bottleneck_flows': {'DATA_B4b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.16389999999999996, 'bottleneck_flows': {'DATA_B4b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.16389999999999996, 'bottleneck_flows': {'DATA_B4b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.16389999999999996, 'bottleneck_flows': {'DATA_B4b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.168, 'bottleneck_flows': {'DATA_F7a_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.168, 'bottleneck_flows': {'DATA_F7a_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.168, 'bottleneck_flows': {'DATA_F7a_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.168, 'bottleneck_flows': {'DATA_F7a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.1689, 'bottleneck_flows': {'DATA_F6b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.1689, 'bottleneck_flows': {'DATA_F6b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.1689, 'bottleneck_flows': {'DATA_F6b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.1689, 'bottleneck_flows': {'DATA_F6b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.16989999999999994, 'bottleneck_flows': {'DATA_F6b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B1b_DP1_PP1_TP0_Rank5_Rank1'], 'DATA_B1b_DP1_PP1_TP0_Rank5_Rank1': ['DATA_F6b_DP1_PP3_TP0_Rank13_Rank1']}}
+{'time': 0.16989999999999994, 'bottleneck_flows': {'DATA_B1b_DP2_PP1_TP0_Rank6_Rank2': ['DATA_F6b_DP2_PP3_TP0_Rank14_Rank2'], 'DATA_F6b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B1b_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.16989999999999994, 'bottleneck_flows': {'DATA_F6b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B1b_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B1b_DP0_PP1_TP0_Rank4_Rank0': ['DATA_F6b_DP0_PP3_TP0_Rank12_Rank0']}}
+{'time': 0.16989999999999994, 'bottleneck_flows': {'DATA_F6b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B1b_DP3_PP1_TP0_Rank7_Rank3'], 'DATA_B1b_DP3_PP1_TP0_Rank7_Rank3': ['DATA_F6b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.17159999999999992, 'bottleneck_flows': {'DATA_F6b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.17159999999999992, 'bottleneck_flows': {'DATA_F6b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.17159999999999992, 'bottleneck_flows': {'DATA_F6b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.17159999999999992, 'bottleneck_flows': {'DATA_F6b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.17179999999999995, 'bottleneck_flows': {'DATA_B3b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F6b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F6b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B3b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.17179999999999995, 'bottleneck_flows': {'DATA_B3b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F6b_DP1_PP3_TP0_Rank13_Rank1'], 'DATA_F6b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B3b_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.17179999999999995, 'bottleneck_flows': {'DATA_B3b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F6b_DP2_PP3_TP0_Rank14_Rank2'], 'DATA_F6b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B3b_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.17179999999999995, 'bottleneck_flows': {'DATA_F6b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B3b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B3b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F6b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.17409999999999995, 'bottleneck_flows': {'DATA_B3b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.17409999999999995, 'bottleneck_flows': {'DATA_B3b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.17409999999999995, 'bottleneck_flows': {'DATA_B3b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F5b_DP3_PP0_TP0_Rank3_Rank7'], 'DATA_F5b_DP3_PP0_TP0_Rank3_Rank7': ['DATA_B3b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.17409999999999995, 'bottleneck_flows': {'DATA_B3b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F5b_DP0_PP0_TP0_Rank0_Rank4'], 'DATA_F5b_DP0_PP0_TP0_Rank0_Rank4': ['DATA_B3b_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.17409999999999995, 'bottleneck_flows': {'DATA_B3b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.17409999999999995, 'bottleneck_flows': {'DATA_F5b_DP2_PP0_TP0_Rank2_Rank6': ['DATA_B3b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B3b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F5b_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.17409999999999995, 'bottleneck_flows': {'DATA_B3b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F5b_DP0_PP0_TP0_Rank0_Rank4']}}
+{'time': 0.17409999999999995, 'bottleneck_flows': {'DATA_B3b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F5b_DP1_PP0_TP0_Rank1_Rank5'], 'DATA_F5b_DP1_PP0_TP0_Rank1_Rank5': ['DATA_B3b_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.17579999999999993, 'bottleneck_flows': {'DATA_B3b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.17579999999999993, 'bottleneck_flows': {'DATA_B3b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.17579999999999993, 'bottleneck_flows': {'DATA_B3b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.17579999999999993, 'bottleneck_flows': {'DATA_B3b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.1809, 'bottleneck_flows': {'DATA_F7b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.1809, 'bottleneck_flows': {'DATA_F7b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.1809, 'bottleneck_flows': {'DATA_F7b_DP0_PP3_TP0_Rank12_Rank0': []}}
+{'time': 0.1809, 'bottleneck_flows': {'DATA_F7b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.18339999999999992, 'bottleneck_flows': {'DATA_B2b_DP3_PP1_TP0_Rank7_Rank3': ['DATA_F7b_DP3_PP3_TP0_Rank15_Rank3'], 'DATA_F7b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B2b_DP3_PP1_TP0_Rank7_Rank3']}}
+{'time': 0.18339999999999992, 'bottleneck_flows': {'DATA_B2b_DP0_PP1_TP0_Rank4_Rank0': ['DATA_F7b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F7b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B2b_DP0_PP1_TP0_Rank4_Rank0']}}
+{'time': 0.18339999999999992, 'bottleneck_flows': {'DATA_B2b_DP1_PP1_TP0_Rank5_Rank1': ['DATA_F7b_DP1_PP3_TP0_Rank13_Rank1'], 'DATA_F7b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B2b_DP1_PP1_TP0_Rank5_Rank1']}}
+{'time': 0.18339999999999992, 'bottleneck_flows': {'DATA_B2b_DP2_PP1_TP0_Rank6_Rank2': ['DATA_F7b_DP2_PP3_TP0_Rank14_Rank2'], 'DATA_F7b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B2b_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.18379999999999994, 'bottleneck_flows': {'DATA_B4b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F7b_DP1_PP3_TP0_Rank13_Rank1'], 'DATA_F7b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B2b_DP1_PP1_TP0_Rank5_Rank1']}}
+{'time': 0.18379999999999994, 'bottleneck_flows': {'DATA_F7b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B2b_DP3_PP1_TP0_Rank7_Rank3'], 'DATA_B4b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F7b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.18379999999999994, 'bottleneck_flows': {'DATA_F7b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B2b_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B4b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F7b_DP0_PP3_TP0_Rank12_Rank0']}}
+{'time': 0.18379999999999994, 'bottleneck_flows': {'DATA_F7b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B2b_DP2_PP1_TP0_Rank6_Rank2'], 'DATA_B4b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F7b_DP2_PP3_TP0_Rank14_Rank2']}}
+{'time': 0.1850999999999999, 'bottleneck_flows': {'DATA_F7b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B4b_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.1850999999999999, 'bottleneck_flows': {'DATA_F7b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B4b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.1850999999999999, 'bottleneck_flows': {'DATA_F7b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B4b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.1850999999999999, 'bottleneck_flows': {'DATA_F7b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B4b_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.18609999999999996, 'bottleneck_flows': {'DATA_F6b_DP1_PP0_TP0_Rank1_Rank5': ['DATA_B4b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B4b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F6b_DP1_PP0_TP0_Rank1_Rank5']}}
+{'time': 0.18609999999999996, 'bottleneck_flows': {'DATA_B4b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F6b_DP0_PP0_TP0_Rank0_Rank4'], 'DATA_F6b_DP0_PP0_TP0_Rank0_Rank4': ['DATA_B4b_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.18609999999999996, 'bottleneck_flows': {'DATA_F6b_DP3_PP0_TP0_Rank3_Rank7': ['DATA_B4b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B4b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F6b_DP3_PP0_TP0_Rank3_Rank7']}}
+{'time': 0.18609999999999996, 'bottleneck_flows': {'DATA_F6b_DP2_PP0_TP0_Rank2_Rank6': ['DATA_B4b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B4b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F6b_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.1873999999999999, 'bottleneck_flows': {'DATA_B4b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F6b_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.1873999999999999, 'bottleneck_flows': {'DATA_B4b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F6b_DP0_PP0_TP0_Rank0_Rank4']}}
+{'time': 0.1873999999999999, 'bottleneck_flows': {'DATA_B4b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F6b_DP3_PP0_TP0_Rank3_Rank7']}}
+{'time': 0.1873999999999999, 'bottleneck_flows': {'DATA_B4b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F6b_DP1_PP0_TP0_Rank1_Rank5']}}
+{'time': 0.18779999999999994, 'bottleneck_flows': {'DATA_B4b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.18779999999999994, 'bottleneck_flows': {'DATA_F5b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.18779999999999994, 'bottleneck_flows': {'DATA_F5b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.18779999999999994, 'bottleneck_flows': {'DATA_B4b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.18779999999999994, 'bottleneck_flows': {'DATA_B4b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.18779999999999994, 'bottleneck_flows': {'DATA_F5b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.18779999999999994, 'bottleneck_flows': {'DATA_B4b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.18779999999999994, 'bottleneck_flows': {'DATA_F5b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.1905999999999999, 'bottleneck_flows': {'DATA_F5b_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B1a_DP0_PP0_TP0_Rank0_Rank12'], 'DATA_B1a_DP0_PP0_TP0_Rank0_Rank12': ['DATA_F5b_DP2_PP1_TP0_Rank6_Rank10']}}
+{'time': 0.1905999999999999, 'bottleneck_flows': {'DATA_B1a_DP1_PP0_TP0_Rank1_Rank13': ['DATA_F5b_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_F5b_DP0_PP1_TP0_Rank4_Rank8': ['DATA_B1a_DP1_PP0_TP0_Rank1_Rank13']}}
+{'time': 0.1905999999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP0_TP0_Rank3_Rank15': ['DATA_F5b_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_F5b_DP3_PP1_TP0_Rank7_Rank11': ['DATA_B1a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.1905999999999999, 'bottleneck_flows': {'DATA_F5b_DP1_PP1_TP0_Rank5_Rank9': ['DATA_B1a_DP2_PP0_TP0_Rank2_Rank14'], 'DATA_B1a_DP2_PP0_TP0_Rank2_Rank14': ['DATA_F5b_DP1_PP1_TP0_Rank5_Rank9']}}
+{'time': 0.1928999999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.1928999999999999, 'bottleneck_flows': {'DATA_B1a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.1928999999999999, 'bottleneck_flows': {'DATA_B1a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.1928999999999999, 'bottleneck_flows': {'DATA_B1a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.19709999999999991, 'bottleneck_flows': {'DATA_B3b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.19709999999999991, 'bottleneck_flows': {'DATA_B3b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.19709999999999991, 'bottleneck_flows': {'DATA_B3b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.19709999999999991, 'bottleneck_flows': {'DATA_B3b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.1993999999999999, 'bottleneck_flows': {'DATA_F7b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.1993999999999999, 'bottleneck_flows': {'DATA_F7b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.1993999999999999, 'bottleneck_flows': {'DATA_F7b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.1993999999999999, 'bottleneck_flows': {'DATA_F7b_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.19979999999999995, 'bottleneck_flows': {'DATA_F6b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.19979999999999995, 'bottleneck_flows': {'DATA_F6b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.19979999999999995, 'bottleneck_flows': {'DATA_F6b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.19979999999999995, 'bottleneck_flows': {'DATA_F6b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.20259999999999992, 'bottleneck_flows': {'DATA_F8a_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.20259999999999992, 'bottleneck_flows': {'DATA_F8a_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.20259999999999992, 'bottleneck_flows': {'DATA_F8a_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.20259999999999992, 'bottleneck_flows': {'DATA_F8a_DP2_PP0_TP0_Rank2_Rank6': []}}
+{'time': 0.2040999999999999, 'bottleneck_flows': {'DATA_B2a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.2040999999999999, 'bottleneck_flows': {'DATA_B2a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.2040999999999999, 'bottleneck_flows': {'DATA_B2a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.2040999999999999, 'bottleneck_flows': {'DATA_B2a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.20489999999999992, 'bottleneck_flows': {'DATA_F5b_DP0_PP2_TP0_Rank8_Rank12': ['DATA_B2a_DP0_PP0_TP0_Rank0_Rank12'], 'DATA_B2a_DP0_PP0_TP0_Rank0_Rank12': ['DATA_F5b_DP0_PP2_TP0_Rank8_Rank12']}}
+{'time': 0.20489999999999992, 'bottleneck_flows': {'DATA_B2a_DP3_PP0_TP0_Rank3_Rank15': ['DATA_F5b_DP3_PP2_TP0_Rank11_Rank15'], 'DATA_F5b_DP3_PP2_TP0_Rank11_Rank15': ['DATA_B2a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.20489999999999992, 'bottleneck_flows': {'DATA_B2a_DP2_PP0_TP0_Rank2_Rank14': ['DATA_F5b_DP2_PP2_TP0_Rank10_Rank14'], 'DATA_F5b_DP2_PP2_TP0_Rank10_Rank14': ['DATA_B2a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.20489999999999992, 'bottleneck_flows': {'DATA_F5b_DP1_PP2_TP0_Rank9_Rank13': ['DATA_B2a_DP1_PP0_TP0_Rank1_Rank13'], 'DATA_B2a_DP1_PP0_TP0_Rank1_Rank13': ['DATA_F5b_DP1_PP2_TP0_Rank9_Rank13']}}
+{'time': 0.2065999999999999, 'bottleneck_flows': {'DATA_B2a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.2065999999999999, 'bottleneck_flows': {'DATA_B2a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.2065999999999999, 'bottleneck_flows': {'DATA_B2a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.2065999999999999, 'bottleneck_flows': {'DATA_B2a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.20909999999999992, 'bottleneck_flows': {'DATA_B4b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.20909999999999992, 'bottleneck_flows': {'DATA_B4b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.20909999999999992, 'bottleneck_flows': {'DATA_B4b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.20909999999999992, 'bottleneck_flows': {'DATA_B4b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.2122999999999999, 'bottleneck_flows': {'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.2122999999999999, 'bottleneck_flows': {'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.2122999999999999, 'bottleneck_flows': {'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.2122999999999999, 'bottleneck_flows': {'DATA_F7b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.2141999999999999, 'bottleneck_flows': {'DATA_F7b_DP0_PP1_TP0_Rank4_Rank8': ['DATA_B1a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA_B1a_DP0_PP3_TP0_Rank12_Rank8': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8']}}
+{'time': 0.2141999999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP3_TP0_Rank15_Rank11': ['DATA_F7b_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11': ['DATA_B1a_DP3_PP3_TP0_Rank15_Rank11']}}
+{'time': 0.2141999999999999, 'bottleneck_flows': {'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B1a_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_B1a_DP2_PP3_TP0_Rank14_Rank10': ['DATA_F7b_DP2_PP1_TP0_Rank6_Rank10']}}
+{'time': 0.2141999999999999, 'bottleneck_flows': {'DATA_B1a_DP1_PP3_TP0_Rank13_Rank9': ['DATA_F7b_DP1_PP1_TP0_Rank5_Rank9'], 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9': ['DATA_B1a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.21489999999999995, 'bottleneck_flows': {'DATA_F6b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.21489999999999995, 'bottleneck_flows': {'DATA_F6b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.21489999999999995, 'bottleneck_flows': {'DATA_F6b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.21489999999999995, 'bottleneck_flows': {'DATA_F6b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.2154999999999999, 'bottleneck_flows': {'DATA_B1a_DP1_PP3_TP0_Rank13_Rank9': ['DATA_F8a_DP1_PP1_TP0_Rank5_Rank9', 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9'], 'DATA_F8a_DP1_PP1_TP0_Rank5_Rank9': ['DATA_B1a_DP1_PP3_TP0_Rank13_Rank9', 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9'], 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9': ['DATA_F8a_DP1_PP1_TP0_Rank5_Rank9', 'DATA_B1a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.2154999999999999, 'bottleneck_flows': {'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B1a_DP2_PP3_TP0_Rank14_Rank10', 'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10'], 'DATA_B1a_DP2_PP3_TP0_Rank14_Rank10': ['DATA_F8a_DP2_PP1_TP0_Rank6_Rank10', 'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10'], 'DATA_F8a_DP1_PP1_TP0_Rank5_Rank9': ['DATA_B1a_DP1_PP3_TP0_Rank13_Rank9', 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9'], 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9': ['DATA_F8a_DP1_PP1_TP0_Rank5_Rank9', 'DATA_B1a_DP1_PP3_TP0_Rank13_Rank9'], 'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B1a_DP2_PP3_TP0_Rank14_Rank10', 'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10']}}
+{'time': 0.2154999999999999, 'bottleneck_flows': {'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B1a_DP2_PP3_TP0_Rank14_Rank10', 'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10'], 'DATA_B1a_DP0_PP3_TP0_Rank12_Rank8': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8', 'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_F7b_DP0_PP1_TP0_Rank4_Rank8': ['DATA_B1a_DP0_PP3_TP0_Rank12_Rank8', 'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8', 'DATA_B1a_DP0_PP3_TP0_Rank12_Rank8']}}
+{'time': 0.2154999999999999, 'bottleneck_flows': {'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B1a_DP2_PP3_TP0_Rank14_Rank10', 'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10'], 'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8', 'DATA_B1a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA_F8a_DP3_PP1_TP0_Rank7_Rank11': ['DATA_B1a_DP3_PP3_TP0_Rank15_Rank11', 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_B1a_DP3_PP3_TP0_Rank15_Rank11': ['DATA_F8a_DP3_PP1_TP0_Rank7_Rank11', 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11': ['DATA_F8a_DP3_PP1_TP0_Rank7_Rank11', 'DATA_B1a_DP3_PP3_TP0_Rank15_Rank11']}}
+{'time': 0.21604999999999988, 'bottleneck_flows': {'DATA_F8a_DP3_PP1_TP0_Rank7_Rank11': ['DATA_F7b_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11': ['DATA_F8a_DP3_PP1_TP0_Rank7_Rank11']}}
+{'time': 0.21604999999999988, 'bottleneck_flows': {'DATA_F7b_DP0_PP1_TP0_Rank4_Rank8': ['DATA_F8a_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8']}}
+{'time': 0.21604999999999988, 'bottleneck_flows': {'DATA_F8a_DP1_PP1_TP0_Rank5_Rank9': ['DATA_F7b_DP1_PP1_TP0_Rank5_Rank9'], 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9': ['DATA_F8a_DP1_PP1_TP0_Rank5_Rank9']}}
+{'time': 0.21604999999999988, 'bottleneck_flows': {'DATA_F7b_DP2_PP1_TP0_Rank6_Rank10': ['DATA_F8a_DP2_PP1_TP0_Rank6_Rank10'], 'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10': ['DATA_F7b_DP2_PP1_TP0_Rank6_Rank10']}}
+{'time': 0.2169999999999999, 'bottleneck_flows': {'DATA_B3a_DP1_PP0_TP0_Rank1_Rank13': ['DATA_F7b_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11': ['DATA_F8a_DP3_PP1_TP0_Rank7_Rank11']}}
+{'time': 0.2169999999999999, 'bottleneck_flows': {'DATA_F7b_DP0_PP1_TP0_Rank4_Rank8': ['DATA_F8a_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_B3a_DP3_PP0_TP0_Rank3_Rank15': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8']}}
+{'time': 0.2169999999999999, 'bottleneck_flows': {'DATA_B3a_DP0_PP0_TP0_Rank0_Rank12': ['DATA_F7b_DP3_PP1_TP0_Rank7_Rank11', 'DATA_B3a_DP1_PP0_TP0_Rank1_Rank13'], 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11': ['DATA_F8a_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_B3a_DP1_PP0_TP0_Rank1_Rank13': ['DATA_B3a_DP0_PP0_TP0_Rank0_Rank12', 'DATA_F7b_DP3_PP1_TP0_Rank7_Rank11']}}
+{'time': 0.2169999999999999, 'bottleneck_flows': {'DATA_F7b_DP0_PP1_TP0_Rank4_Rank8': ['DATA_F8a_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_B3a_DP2_PP0_TP0_Rank2_Rank14': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8', 'DATA_B3a_DP3_PP0_TP0_Rank3_Rank15'], 'DATA_B3a_DP3_PP0_TP0_Rank3_Rank15': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8', 'DATA_B3a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.21834999999999988, 'bottleneck_flows': {'DATA_F8a_DP3_PP1_TP0_Rank7_Rank11': ['DATA_F7b_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8': ['DATA_F7b_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10': ['DATA_F8a_DP1_PP1_TP0_Rank5_Rank9', 'DATA_F7b_DP1_PP1_TP0_Rank5_Rank9']}}
+{'time': 0.21834999999999988, 'bottleneck_flows': {'DATA_F8a_DP1_PP1_TP0_Rank5_Rank9': ['DATA_F8a_DP2_PP1_TP0_Rank6_Rank10'], 'DATA_F8a_DP2_PP1_TP0_Rank6_Rank10': ['DATA_F8a_DP1_PP1_TP0_Rank5_Rank9']}}
+{'time': 0.21929999999999988, 'bottleneck_flows': {'DATA_F8a_DP0_PP1_TP0_Rank4_Rank8': ['DATA_F8a_DP3_PP1_TP0_Rank7_Rank11'], 'DATA_B3a_DP2_PP0_TP0_Rank2_Rank14': ['DATA_B3a_DP3_PP0_TP0_Rank3_Rank15'], 'DATA_B3a_DP3_PP0_TP0_Rank3_Rank15': ['DATA_B3a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.21929999999999988, 'bottleneck_flows': {'DATA_F8a_DP3_PP1_TP0_Rank7_Rank11': ['DATA_F8a_DP0_PP1_TP0_Rank4_Rank8'], 'DATA_B3a_DP1_PP0_TP0_Rank1_Rank13': ['DATA_B3a_DP0_PP0_TP0_Rank0_Rank12'], 'DATA_B3a_DP0_PP0_TP0_Rank0_Rank12': ['DATA_B3a_DP1_PP0_TP0_Rank1_Rank13']}}
+{'time': 0.22064999999999987, 'bottleneck_flows': {'DATA_F8a_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.22159999999999988, 'bottleneck_flows': {'DATA_F8a_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.22159999999999988, 'bottleneck_flows': {'DATA_B3a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.22159999999999988, 'bottleneck_flows': {'DATA_B3a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.22789999999999988, 'bottleneck_flows': {'DATA_B2a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.22789999999999988, 'bottleneck_flows': {'DATA_B2a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.22789999999999988, 'bottleneck_flows': {'DATA_B2a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.22789999999999988, 'bottleneck_flows': {'DATA_B2a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.2289999999999999, 'bottleneck_flows': {'DATA_B4a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.2289999999999999, 'bottleneck_flows': {'DATA_B4a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.2289999999999999, 'bottleneck_flows': {'DATA_B4a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.2289999999999999, 'bottleneck_flows': {'DATA_B4a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.2303499999999999, 'bottleneck_flows': {'DATA_B4a_DP2_PP0_TP0_Rank2_Rank14': ['DATA_F7b_DP2_PP2_TP0_Rank10_Rank14'], 'DATA_F7b_DP2_PP2_TP0_Rank10_Rank14': ['DATA_B4a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.2303499999999999, 'bottleneck_flows': {'DATA_B4a_DP1_PP0_TP0_Rank1_Rank13': ['DATA_F7b_DP1_PP2_TP0_Rank9_Rank13'], 'DATA_F7b_DP1_PP2_TP0_Rank9_Rank13': ['DATA_B4a_DP1_PP0_TP0_Rank1_Rank13']}}
+{'time': 0.2312999999999999, 'bottleneck_flows': {'DATA_B4a_DP0_PP0_TP0_Rank0_Rank12': ['DATA_F7b_DP0_PP2_TP0_Rank8_Rank12'], 'DATA_F7b_DP0_PP2_TP0_Rank8_Rank12': ['DATA_B4a_DP0_PP0_TP0_Rank0_Rank12']}}
+{'time': 0.2312999999999999, 'bottleneck_flows': {'DATA_B4a_DP3_PP0_TP0_Rank3_Rank15': ['DATA_F7b_DP3_PP2_TP0_Rank11_Rank15'], 'DATA_F7b_DP3_PP2_TP0_Rank11_Rank15': ['DATA_B4a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.23204999999999987, 'bottleneck_flows': {'DATA_B4a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.23204999999999987, 'bottleneck_flows': {'DATA_B4a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.23264999999999988, 'bottleneck_flows': {'DATA_F8a_DP2_PP2_TP0_Rank10_Rank14': ['DATA_B4a_DP2_PP0_TP0_Rank2_Rank14'], 'DATA_B4a_DP2_PP0_TP0_Rank2_Rank14': ['DATA_F8a_DP2_PP2_TP0_Rank10_Rank14']}}
+{'time': 0.23299999999999987, 'bottleneck_flows': {'DATA_B4a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.23299999999999987, 'bottleneck_flows': {'DATA_B4a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.2335999999999999, 'bottleneck_flows': {'DATA_F8a_DP0_PP2_TP0_Rank8_Rank12': ['DATA_B4a_DP0_PP0_TP0_Rank0_Rank12'], 'DATA_B4a_DP0_PP0_TP0_Rank0_Rank12': ['DATA_F8a_DP0_PP2_TP0_Rank8_Rank12']}}
+{'time': 0.23434999999999986, 'bottleneck_flows': {'DATA_B4a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.23494999999999988, 'bottleneck_flows': {'DATA_F8a_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.23504999999999987, 'bottleneck_flows': {'DATA_B1a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.23504999999999987, 'bottleneck_flows': {'DATA_F8a_DP0_PP2_TP0_Rank8_Rank12': ['DATA_B4a_DP0_PP0_TP0_Rank0_Rank12', 'DATA_B1a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B1a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_B1a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B1a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F8a_DP0_PP2_TP0_Rank8_Rank12']}}
+{'time': 0.23504999999999987, 'bottleneck_flows': {'DATA_B1a_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.23504999999999987, 'bottleneck_flows': {'DATA_B1a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F8a_DP1_PP2_TP0_Rank9_Rank13'], 'DATA_B1a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B1a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_F8a_DP1_PP2_TP0_Rank9_Rank13': ['DATA_B1a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.23529999999999987, 'bottleneck_flows': {'DATA_B4a_DP0_PP0_TP0_Rank0_Rank12': [], 'DATA_B1a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B1a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.2358999999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F8a_DP3_PP2_TP0_Rank11_Rank15'], 'DATA_F8a_DP3_PP2_TP0_Rank11_Rank15': ['DATA_B1a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.23654999999999987, 'bottleneck_flows': {'DATA_B1a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B1a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.23759999999999987, 'bottleneck_flows': {'DATA_B1a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_B1a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.2375999999999999, 'bottleneck_flows': {'DATA_B5b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.2375999999999999, 'bottleneck_flows': {'DATA_B5b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.2375999999999999, 'bottleneck_flows': {'DATA_B5b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.2375999999999999, 'bottleneck_flows': {'DATA_B5b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.23814999999999986, 'bottleneck_flows': {'DATA_B1a_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.23827499999999988, 'bottleneck_flows': {'DATA_B1a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.24059999999999987, 'bottleneck_flows': {'DATA_B3a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.24059999999999987, 'bottleneck_flows': {'DATA_B3a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.24289999999999987, 'bottleneck_flows': {'DATA_B3a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.24289999999999987, 'bottleneck_flows': {'DATA_B3a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.24634999999999987, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.24679999999999994, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B6b_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_B6b_DP2_PP3_TP0_Rank14_Rank10': ['DATA_F8b_DP2_PP3_TP0_Rank14_Rank2']}}
+{'time': 0.24679999999999994, 'bottleneck_flows': {'DATA_B6b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.24679999999999994, 'bottleneck_flows': {'DATA_B6b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.24679999999999994, 'bottleneck_flows': {'DATA_B6b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.24729999999999988, 'bottleneck_flows': {'DATA_B6b_DP0_PP3_TP0_Rank12_Rank8': ['DATA_F8b_DP0_PP3_TP0_Rank12_Rank0'], 'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_B6b_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_F8b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_B6b_DP0_PP3_TP0_Rank12_Rank8']}}
+{'time': 0.24779999999999985, 'bottleneck_flows': {'DATA_B2a_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.24779999999999985, 'bottleneck_flows': {'DATA_B2a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.24779999999999985, 'bottleneck_flows': {'DATA_B2a_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.24779999999999985, 'bottleneck_flows': {'DATA_B2a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B2a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B2a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B2a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.24799999999999997, 'bottleneck_flows': {'DATA_F8b_DP0_PP3_TP0_Rank12_Rank0': ['DATA_F8b_DP2_PP3_TP0_Rank14_Rank2']}}
+{'time': 0.24849999999999992, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': ['DATA_F8b_DP0_PP3_TP0_Rank12_Rank0']}}
+{'time': 0.24854999999999988, 'bottleneck_flows': {'DATA_B2a_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F8b_DP1_PP3_TP0_Rank13_Rank1'], 'DATA_F8b_DP1_PP3_TP0_Rank13_Rank1': ['DATA_B2a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.24959999999999988, 'bottleneck_flows': {'DATA_F8b_DP3_PP3_TP0_Rank15_Rank3': ['DATA_B2a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B2a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_F8b_DP3_PP3_TP0_Rank15_Rank3']}}
+{'time': 0.2507499999999999, 'bottleneck_flows': {'DATA_F8b_DP2_PP3_TP0_Rank14_Rank2': []}}
+{'time': 0.25089999999999985, 'bottleneck_flows': {'DATA_F8b_DP1_PP3_TP0_Rank13_Rank1': []}}
+{'time': 0.25089999999999985, 'bottleneck_flows': {'DATA_B2a_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.2518999999999999, 'bottleneck_flows': {'DATA_F8b_DP3_PP3_TP0_Rank15_Rank3': []}}
+{'time': 0.25334999999999985, 'bottleneck_flows': {'DATA_B4a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.25429999999999986, 'bottleneck_flows': {'DATA_B4a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.2556499999999999, 'bottleneck_flows': {'DATA_B4a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.2565999999999999, 'bottleneck_flows': {'DATA_B4a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.2571499999999999, 'bottleneck_flows': {'DATA_B1a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.25727499999999986, 'bottleneck_flows': {'DATA_B1a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.2574999999999999, 'bottleneck_flows': {'DATA_B5b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.2574999999999999, 'bottleneck_flows': {'DATA_B5b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.2574999999999999, 'bottleneck_flows': {'DATA_B5b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.2574999999999999, 'bottleneck_flows': {'DATA_B5b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.25944999999999985, 'bottleneck_flows': {'DATA_B1a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2595749999999999, 'bottleneck_flows': {'DATA_B1a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.26049999999999984, 'bottleneck_flows': {'DATA_B5b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B3a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B5b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.26049999999999984, 'bottleneck_flows': {'DATA_B3a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B5b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B5b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B3a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.26274999999999993, 'bottleneck_flows': {'DATA_F8b_DP0_PP0_TP0_Rank0_Rank4': []}}
+{'time': 0.26279999999999987, 'bottleneck_flows': {'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.26279999999999987, 'bottleneck_flows': {'DATA_B3a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.26279999999999987, 'bottleneck_flows': {'DATA_B3a_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.26279999999999987, 'bottleneck_flows': {'DATA_F8b_DP0_PP0_TP0_Rank0_Rank4': ['DATA_B3a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B3a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_F8b_DP0_PP0_TP0_Rank0_Rank4'], 'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B3a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.2630499999999999, 'bottleneck_flows': {'DATA_B7b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.2630499999999999, 'bottleneck_flows': {'DATA_B7b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.2639999999999999, 'bottleneck_flows': {'DATA_B7b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.2639999999999999, 'bottleneck_flows': {'DATA_B7b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.26439999999999997, 'bottleneck_flows': {'DATA_B3a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B3a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.26504999999999995, 'bottleneck_flows': {'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F8b_DP2_PP0_TP0_Rank2_Rank6'], 'DATA_F8b_DP2_PP0_TP0_Rank2_Rank6': ['DATA_B3a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.2651999999999999, 'bottleneck_flows': {'DATA_F8b_DP1_PP0_TP0_Rank1_Rank5': []}}
+{'time': 0.26619999999999994, 'bottleneck_flows': {'DATA_F8b_DP3_PP0_TP0_Rank3_Rank7': []}}
+{'time': 0.26669999999999994, 'bottleneck_flows': {'DATA_B6b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.26669999999999994, 'bottleneck_flows': {'DATA_F8b_DP3_PP0_TP0_Rank3_Rank7': ['DATA_B6b_DP3_PP2_TP0_Rank11_Rank7'], 'DATA_B6b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_F8b_DP3_PP0_TP0_Rank3_Rank7'], 'DATA_B6b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B6b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.2667, 'bottleneck_flows': {'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_F8b_DP2_PP0_TP0_Rank2_Rank6']}}
+{'time': 0.26674999999999993, 'bottleneck_flows': {'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.26699999999999996, 'bottleneck_flows': {'DATA_B6b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.2673999999999999, 'bottleneck_flows': {'DATA_B6b_DP3_PP2_TP0_Rank11_Rank7': ['DATA_B6b_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.2674999999999999, 'bottleneck_flows': {'DATA_B6b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B3a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B3a_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B6b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.26979999999999993, 'bottleneck_flows': {'DATA_B6b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.2698, 'bottleneck_flows': {'DATA_B6b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.26989999999999986, 'bottleneck_flows': {'DATA_B2a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.26989999999999986, 'bottleneck_flows': {'DATA_B2a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.2708999999999999, 'bottleneck_flows': {'DATA_B2a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2721999999999999, 'bottleneck_flows': {'DATA_B2a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.2732499999999999, 'bottleneck_flows': {'DATA_B4a_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.2741999999999999, 'bottleneck_flows': {'DATA_B4a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.2755499999999999, 'bottleneck_flows': {'DATA_B4a_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.2764, 'bottleneck_flows': {'DATA_F8b_DP0_PP1_TP0_Rank4_Rank8': []}}
+{'time': 0.2764999999999999, 'bottleneck_flows': {'DATA_B4a_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.2780999999999999, 'bottleneck_flows': {'DATA_F8b_DP1_PP1_TP0_Rank5_Rank9': []}}
+{'time': 0.27874999999999994, 'bottleneck_flows': {'DATA_F8b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.2793999999999999, 'bottleneck_flows': {'DATA_F8b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.27959999999999996, 'bottleneck_flows': {'DATA_B5b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.27959999999999996, 'bottleneck_flows': {'DATA_F8b_DP3_PP1_TP0_Rank7_Rank11': ['DATA_B5b_DP3_PP1_TP0_Rank7_Rank3'], 'DATA_B5b_DP3_PP1_TP0_Rank7_Rank3': ['DATA_F8b_DP3_PP1_TP0_Rank7_Rank11']}}
+{'time': 0.28129999999999994, 'bottleneck_flows': {'DATA_F8b_DP3_PP1_TP0_Rank7_Rank11': []}}
+{'time': 0.2817999999999999, 'bottleneck_flows': {'DATA_F8b_DP2_PP1_TP0_Rank6_Rank10': ['DATA_B5b_DP2_PP1_TP0_Rank6_Rank2'], 'DATA_B5b_DP2_PP1_TP0_Rank6_Rank2': ['DATA_F8b_DP2_PP1_TP0_Rank6_Rank10']}}
+{'time': 0.2817999999999999, 'bottleneck_flows': {'DATA_B5b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2829499999999999, 'bottleneck_flows': {'DATA_B7b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.2829499999999999, 'bottleneck_flows': {'DATA_B7b_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.28349999999999986, 'bottleneck_flows': {'DATA_F8b_DP2_PP1_TP0_Rank6_Rank10': []}}
+{'time': 0.28389999999999993, 'bottleneck_flows': {'DATA_B7b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.28389999999999993, 'bottleneck_flows': {'DATA_B7b_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.2840999999999999, 'bottleneck_flows': {'DATA_B3a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.28489999999999993, 'bottleneck_flows': {'DATA_B3a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.2857, 'bottleneck_flows': {'DATA_B3a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.28879999999999995, 'bottleneck_flows': {'DATA_B3a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.2888, 'bottleneck_flows': {'DATA_B6b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2891, 'bottleneck_flows': {'DATA_B6b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.29109999999999997, 'bottleneck_flows': {'DATA_B6b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.2911, 'bottleneck_flows': {'DATA_B6b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.29150000000000004, 'bottleneck_flows': {'DATA_F8b_DP0_PP2_TP0_Rank8_Rank12': []}}
+{'time': 0.29319999999999996, 'bottleneck_flows': {'DATA_F8b_DP1_PP2_TP0_Rank9_Rank13': []}}
+{'time': 0.29534999999999995, 'bottleneck_flows': {'DATA_B4a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.2956, 'bottleneck_flows': {'DATA_F8b_DP3_PP2_TP0_Rank11_Rank15': []}}
+{'time': 0.29629999999999995, 'bottleneck_flows': {'DATA_B4a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.29764999999999997, 'bottleneck_flows': {'DATA_B4a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.2977999999999999, 'bottleneck_flows': {'DATA_F8b_DP2_PP2_TP0_Rank10_Rank14': []}}
+{'time': 0.2986, 'bottleneck_flows': {'DATA_B4a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.2995, 'bottleneck_flows': {'DATA_B5a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.30029999999999996, 'bottleneck_flows': {'DATA_B5a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.3016999999999999, 'bottleneck_flows': {'DATA_B5a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.3024999999999999, 'bottleneck_flows': {'DATA_B5a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.30505, 'bottleneck_flows': {'DATA_B7b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.30505, 'bottleneck_flows': {'DATA_B7b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.306, 'bottleneck_flows': {'DATA_B7b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.306, 'bottleneck_flows': {'DATA_B7b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.30870000000000003, 'bottleneck_flows': {'DATA_B6a_DP1_PP0_TP0_Rank1_Rank13': []}}
+{'time': 0.30900000000000005, 'bottleneck_flows': {'DATA_B6a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.311, 'bottleneck_flows': {'DATA_B6a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.31100000000000005, 'bottleneck_flows': {'DATA_B6a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.32160000000000005, 'bottleneck_flows': {'DATA_B5a_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.3224, 'bottleneck_flows': {'DATA_B5a_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.3234000000000001, 'bottleneck_flows': {'DATA_B8b_DP0_PP3_TP0_Rank12_Rank8': []}}
+{'time': 0.3234000000000001, 'bottleneck_flows': {'DATA_B8b_DP0_PP3_TP0_Rank12_Rank8': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B8b_DP0_PP3_TP0_Rank12_Rank8']}}
+{'time': 0.3238, 'bottleneck_flows': {'DATA_B5a_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.32459999999999994, 'bottleneck_flows': {'DATA_B5a_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.32495, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B8b_DP0_PP3_TP0_Rank12_Rank8', 'DATA_B7a_DP1_PP0_TP0_Rank1_Rank13'], 'DATA_B7a_DP1_PP0_TP0_Rank1_Rank13': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.32495, 'bottleneck_flows': {'DATA_B7a_DP2_PP0_TP0_Rank2_Rank14': []}}
+{'time': 0.3251, 'bottleneck_flows': {'DATA_B8b_DP1_PP3_TP0_Rank13_Rank9': []}}
+{'time': 0.3251, 'bottleneck_flows': {'DATA_B8b_DP1_PP3_TP0_Rank13_Rank9': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B8b_DP1_PP3_TP0_Rank13_Rank9', 'DATA_B7a_DP2_PP0_TP0_Rank2_Rank14'], 'DATA_B7a_DP2_PP0_TP0_Rank2_Rank14': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14']}}
+{'time': 0.32510000000000006, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B7a_DP1_PP0_TP0_Rank1_Rank13']}}
+{'time': 0.3259, 'bottleneck_flows': {'DATA_B7a_DP0_PP0_TP0_Rank0_Rank12': []}}
+{'time': 0.3259, 'bottleneck_flows': {'DATA_B7a_DP3_PP0_TP0_Rank3_Rank15': []}}
+{'time': 0.3268, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B7a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.3275, 'bottleneck_flows': {'DATA_B8b_DP3_PP3_TP0_Rank15_Rank11': []}}
+{'time': 0.3275, 'bottleneck_flows': {'DATA_B7a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B7a_DP0_PP0_TP0_Rank0_Rank12', 'DATA_B8b_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B8b_DP3_PP3_TP0_Rank15_Rank11': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.32870000000000005, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.32885000000000003, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.3292, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B7a_DP0_PP0_TP0_Rank0_Rank12']}}
+{'time': 0.32969999999999994, 'bottleneck_flows': {'DATA_B8b_DP2_PP3_TP0_Rank14_Rank10': []}}
+{'time': 0.32969999999999994, 'bottleneck_flows': {'DATA_B8b_DP2_PP3_TP0_Rank14_Rank10': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B8b_DP2_PP3_TP0_Rank14_Rank10']}}
+{'time': 0.32980000000000004, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.3308000000000001, 'bottleneck_flows': {'DATA_B6a_DP1_PP3_TP0_Rank13_Rank9': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B6a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.3311000000000001, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B6a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA_B6a_DP0_PP3_TP0_Rank12_Rank8': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.3313999999999999, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.3325000000000001, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.3328000000000001, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.33310000000000006, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B6a_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_B6a_DP2_PP3_TP0_Rank14_Rank10': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 0.3331000000000001, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B6a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B6a_DP3_PP3_TP0_Rank15_Rank11': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.33480000000000004, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.3348000000000001, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.3415000000000001, 'bottleneck_flows': {'DATA_B5a_DP0_PP2_TP0_Rank8_Rank4': []}}
+{'time': 0.34230000000000005, 'bottleneck_flows': {'DATA_B5a_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.3437, 'bottleneck_flows': {'DATA_B5a_DP1_PP2_TP0_Rank9_Rank5': []}}
+{'time': 0.3441000000000001, 'bottleneck_flows': {'DATA_B5a_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B8b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B8b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B5a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.3441000000000001, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B5a_DP0_PP2_TP0_Rank8_Rank4', 'DATA_B8b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B5a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9', 'DATA_B8b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B8b_DP0_PP2_TP0_Rank8_Rank4': ['DATA_B5a_DP0_PP2_TP0_Rank8_Rank4', 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9']}}
+{'time': 0.3445, 'bottleneck_flows': {'DATA_B5a_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.3458, 'bottleneck_flows': {'DATA_B5a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B8b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B5a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.3458, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5', 'DATA_B5a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B5a_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA_B8b_DP1_PP2_TP0_Rank9_Rank5': ['DATA_B5a_DP1_PP2_TP0_Rank9_Rank5', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10']}}
+{'time': 0.3464000000000001, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B8b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B8b_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9']}}
+{'time': 0.34770000000000006, 'bottleneck_flows': {'DATA_B7a_DP2_PP3_TP0_Rank14_Rank10': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10', 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5', 'DATA_B5a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B7a_DP2_PP3_TP0_Rank14_Rank10']}}
+{'time': 0.34785000000000005, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B7a_DP1_PP3_TP0_Rank13_Rank9', 'DATA_B8b_DP0_PP2_TP0_Rank8_Rank4'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B7a_DP1_PP3_TP0_Rank13_Rank9'], 'DATA_B7a_DP1_PP3_TP0_Rank13_Rank9': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9', 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14']}}
+{'time': 0.3480000000000001, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B7a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B7a_DP3_PP3_TP0_Rank15_Rank11': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.3481, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5', 'DATA_B7a_DP2_PP3_TP0_Rank14_Rank10'], 'DATA_B8b_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10']}}
+{'time': 0.3482, 'bottleneck_flows': {'DATA_B8b_DP3_PP2_TP0_Rank11_Rank7': []}}
+{'time': 0.3482, 'bottleneck_flows': {'DATA_B8b_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B8b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.3487666666666668, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B7a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.34880000000000005, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B7a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA_B7a_DP0_PP3_TP0_Rank12_Rank8': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8', 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B7a_DP0_PP3_TP0_Rank12_Rank8', 'DATA_B8b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.34940000000000004, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8b_DP1_PP2_TP0_Rank9_Rank5'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.34955, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': [], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.34970000000000007, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.35039999999999993, 'bottleneck_flows': {'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': []}}
+{'time': 0.35039999999999993, 'bottleneck_flows': {'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B8b_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.3504666666666667, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.35050000000000003, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': [], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B8b_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.3515000000000001, 'bottleneck_flows': {'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA_B6a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B6a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.3518000000000001, 'bottleneck_flows': {'DATA_B6a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B6a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.3521, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.35380000000000006, 'bottleneck_flows': {'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B6a_DP2_PP2_TP0_Rank10_Rank6', 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA_B6a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B6a_DP2_PP2_TP0_Rank10_Rank6', 'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B6a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10']}}
+{'time': 0.3538000000000001, 'bottleneck_flows': {'DATA_B6a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA_B6a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B6a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.3561000000000001, 'bottleneck_flows': {'DATA_B6a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B8b_DP2_PP2_TP0_Rank10_Rank6': ['DATA_B6a_DP2_PP2_TP0_Rank10_Rank6', 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.35610000000000014, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': [], 'DATA_B6a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8']}}
+{'time': 0.3584000000000001, 'bottleneck_flows': {'DATA_B6a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B6a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.35840000000000016, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.36070000000000013, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.3644000000000001, 'bottleneck_flows': {'DATA_B5a_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.3654000000000001, 'bottleneck_flows': {'DATA_B5a_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.36660000000000004, 'bottleneck_flows': {'DATA_B5a_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.36710000000000004, 'bottleneck_flows': {'DATA_B5a_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.3677666666666668, 'bottleneck_flows': {'DATA_B8b_DP0_PP1_TP0_Rank4_Rank0': []}}
+{'time': 0.3677666666666668, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B8b_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B8b_DP0_PP1_TP0_Rank4_Rank0': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 0.36840000000000006, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B7a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA_B7a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11']}}
+{'time': 0.36855000000000004, 'bottleneck_flows': {'DATA_B7a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B8b_DP0_PP1_TP0_Rank4_Rank0', 'DATA_B7a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B7a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B7a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11']}}
+{'time': 0.3687000000000001, 'bottleneck_flows': {'DATA_B7a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B7a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.3694666666666667, 'bottleneck_flows': {'DATA_B8b_DP1_PP1_TP0_Rank5_Rank1': []}}
+{'time': 0.3694666666666667, 'bottleneck_flows': {'DATA_B7a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B7a_DP2_PP2_TP0_Rank10_Rank6', 'DATA_B8b_DP1_PP1_TP0_Rank5_Rank1'], 'DATA_B8b_DP1_PP1_TP0_Rank5_Rank1': ['DATA0_F999_DP4_PP1_TP0_Rank5_Rank6']}}
+{'time': 0.3694666666666668, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B7a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.36950000000000005, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B7a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B7a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA_B7a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9']}}
+{'time': 0.37110000000000004, 'bottleneck_flows': {'DATA_B8b_DP3_PP1_TP0_Rank7_Rank3': []}}
+{'time': 0.37110000000000004, 'bottleneck_flows': {'DATA_B8b_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4'], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B8b_DP3_PP1_TP0_Rank7_Rank3', 'DATA_B7a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA_B7a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9']}}
+{'time': 0.3711666666666667, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B7a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.3723000000000001, 'bottleneck_flows': {'DATA_B7a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': [], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.3726000000000001, 'bottleneck_flows': {'DATA_B7a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.3728, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B7a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.3746000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': [], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.3749000000000001, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': [], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.3751000000000001, 'bottleneck_flows': {'DATA_B6a_DP1_PP1_TP0_Rank5_Rank1': ['DATA0_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B6a_DP1_PP1_TP0_Rank5_Rank1']}}
+{'time': 0.37510000000000016, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B6a_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B6a_DP0_PP1_TP0_Rank4_Rank0': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 0.3768000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.37680000000000013, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 0.3774000000000001, 'bottleneck_flows': {'DATA_B8b_DP2_PP1_TP0_Rank6_Rank2': []}}
+{'time': 0.3774000000000001, 'bottleneck_flows': {'DATA_B8b_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B8b_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.3774000000000002, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B6a_DP3_PP1_TP0_Rank7_Rank3'], 'DATA_B6a_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 0.3791000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.37910000000000016, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.37970000000000015, 'bottleneck_flows': {'DATA_B6a_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B6a_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.38140000000000013, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.3884666666666668, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B8a_DP0_PP0_TP0_Rank0_Rank12'], 'DATA_B8a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.3884666666666668, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA_B8a_DP0_PP0_TP0_Rank0_Rank12'], 'DATA_B8a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP0_PP0_TP0_Rank0_Rank1', 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.3901666666666667, 'bottleneck_flows': {'DATA_B8a_DP0_PP0_TP0_Rank0_Rank12': ['DATA0_F999_DP0_PP0_TP0_Rank0_Rank1', 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B8a_DP1_PP0_TP0_Rank1_Rank13'], 'DATA_B8a_DP1_PP0_TP0_Rank1_Rank13': ['DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.3901666666666667, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA_B8a_DP1_PP0_TP0_Rank1_Rank13'], 'DATA_B8a_DP1_PP0_TP0_Rank1_Rank13': ['DATA0_F999_DP0_PP0_TP0_Rank1_Rank2', 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.3913000000000001, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA_B8a_DP1_PP0_TP0_Rank1_Rank13', 'DATA_B7a_DP2_PP1_TP0_Rank6_Rank2'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B7a_DP2_PP1_TP0_Rank6_Rank2'], 'DATA_B7a_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP4_PP1_TP0_Rank6_Rank7', 'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2']}}
+{'time': 0.3916000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B7a_DP3_PP1_TP0_Rank7_Rank3'], 'DATA_B7a_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 0.39180000000000004, 'bottleneck_flows': {'DATA_B8a_DP3_PP0_TP0_Rank3_Rank15': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B8a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.39180000000000004, 'bottleneck_flows': {'DATA_B8a_DP3_PP0_TP0_Rank3_Rank15': ['DATA0_F999_DP0_PP0_TP0_Rank3_Rank0', 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA_B8a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.39246666666666674, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': [], 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': [], 'DATA_B8a_DP1_PP0_TP0_Rank1_Rank13': ['DATA0_F999_DP0_PP0_TP0_Rank1_Rank2', 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 0.39300000000000007, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA_B8a_DP1_PP0_TP0_Rank1_Rank13'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.3933000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.3936000000000001, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA_B7a_DP1_PP1_TP0_Rank5_Rank1'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B7a_DP1_PP1_TP0_Rank5_Rank1'], 'DATA_B7a_DP1_PP1_TP0_Rank5_Rank1': ['DATA0_F999_DP0_PP0_TP0_Rank0_Rank1', 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6']}}
+{'time': 0.39390000000000014, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B7a_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B7a_DP0_PP1_TP0_Rank4_Rank0': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5', 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0'], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA_B8a_DP3_PP0_TP0_Rank3_Rank15', 'DATA_B7a_DP0_PP1_TP0_Rank4_Rank0']}}
+{'time': 0.39476666666666677, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': [], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.3953000000000001, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': [], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.3956000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': [], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA_B8a_DP3_PP0_TP0_Rank3_Rank15']}}
+{'time': 0.39570000000000005, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': [], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 0.3981000000000001, 'bottleneck_flows': {'DATA_B8a_DP2_PP0_TP0_Rank2_Rank14': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B8a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.3981000000000001, 'bottleneck_flows': {'DATA_B8a_DP2_PP0_TP0_Rank2_Rank14': ['DATA0_F999_DP0_PP0_TP0_Rank2_Rank3', 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA_B8a_DP2_PP0_TP0_Rank2_Rank14']}}
+{'time': 0.40200000000000014, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': [], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.41146666666666676, 'bottleneck_flows': {'DATA_B8a_DP0_PP3_TP0_Rank12_Rank8': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8', 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA_B8a_DP0_PP3_TP0_Rank12_Rank8'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B8a_DP0_PP3_TP0_Rank12_Rank8']}}
+{'time': 0.41316666666666674, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank12_Rank13': [], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.4137666666666668, 'bottleneck_flows': {'DATA_B8a_DP1_PP3_TP0_Rank13_Rank9': ['DATA0_F999_DP8_PP2_TP0_Rank8_Rank9', 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B8a_DP1_PP3_TP0_Rank13_Rank9'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA_B8a_DP1_PP3_TP0_Rank13_Rank9']}}
+{'time': 0.41470000000000007, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA_B8a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B8a_DP3_PP3_TP0_Rank15_Rank11'], 'DATA_B8a_DP3_PP3_TP0_Rank15_Rank11': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 0.41546666666666676, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': [], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.41640000000000005, 'bottleneck_flows': {'DATA0_F999_DP12_PP3_TP0_Rank15_Rank12': [], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.42100000000000015, 'bottleneck_flows': {'DATA_B8a_DP2_PP3_TP0_Rank14_Rank10': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10', 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8a_DP2_PP3_TP0_Rank14_Rank10'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA_B8a_DP2_PP3_TP0_Rank14_Rank10']}}
+{'time': 0.42270000000000013, 'bottleneck_flows': {'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': [], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.43216666666666675, 'bottleneck_flows': {'DATA_B8a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA_B8a_DP0_PP2_TP0_Rank8_Rank4'], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B8a_DP0_PP2_TP0_Rank8_Rank4']}}
+{'time': 0.4344666666666668, 'bottleneck_flows': {'DATA_B8a_DP0_PP2_TP0_Rank8_Rank4': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B8a_DP1_PP2_TP0_Rank9_Rank5'], 'DATA_B8a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA_B8a_DP1_PP2_TP0_Rank9_Rank5']}}
+{'time': 0.43540000000000006, 'bottleneck_flows': {'DATA_B8a_DP3_PP2_TP0_Rank11_Rank7': ['DATA0_F999_DP8_PP2_TP0_Rank11_Rank8', 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B8a_DP3_PP2_TP0_Rank11_Rank7'], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA_B8a_DP3_PP2_TP0_Rank11_Rank7']}}
+{'time': 0.4367666666666668, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': [], 'DATA0_F999_DP8_PP2_TP0_Rank8_Rank9': [], 'DATA_B8a_DP1_PP2_TP0_Rank9_Rank5': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5', 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10']}}
+{'time': 0.4390666666666668, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': [], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.4393000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': [], 'DATA0_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.44170000000000015, 'bottleneck_flows': {'DATA_B8a_DP2_PP2_TP0_Rank10_Rank6': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11', 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B8a_DP2_PP2_TP0_Rank10_Rank6'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA_B8a_DP2_PP2_TP0_Rank10_Rank6']}}
+{'time': 0.44560000000000016, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': [], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.4557666666666668, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA_B8a_DP0_PP1_TP0_Rank4_Rank0'], 'DATA_B8a_DP0_PP1_TP0_Rank4_Rank0': ['DATA0_F999_DP4_PP1_TP0_Rank4_Rank5', 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0'], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA_B8a_DP0_PP1_TP0_Rank4_Rank0']}}
+{'time': 0.4574666666666668, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank4_Rank5': [], 'DATA0_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 0.45806666666666684, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA_B8a_DP1_PP1_TP0_Rank5_Rank1'], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': ['DATA_B8a_DP1_PP1_TP0_Rank5_Rank1'], 'DATA_B8a_DP1_PP1_TP0_Rank5_Rank1': ['DATA0_F999_DP0_PP0_TP0_Rank0_Rank1', 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6']}}
+{'time': 0.4583000000000001, 'bottleneck_flows': {'DATA_B8a_DP3_PP1_TP0_Rank7_Rank3': ['DATA0_F999_DP4_PP1_TP0_Rank7_Rank4', 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3'], 'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA_B8a_DP3_PP1_TP0_Rank7_Rank3'], 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA_B8a_DP3_PP1_TP0_Rank7_Rank3']}}
+{'time': 0.4597666666666668, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank0_Rank1': [], 'DATA0_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.4600000000000001, 'bottleneck_flows': {'DATA0_F999_DP4_PP1_TP0_Rank7_Rank4': [], 'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 0.4646000000000002, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA_B8a_DP2_PP1_TP0_Rank6_Rank2'], 'DATA_B8a_DP2_PP1_TP0_Rank6_Rank2': ['DATA0_F999_DP4_PP1_TP0_Rank6_Rank7', 'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA_B8a_DP2_PP1_TP0_Rank6_Rank2']}}
+{'time': 0.46630000000000016, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': [], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.611075, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA0_F999_DP12_PP3_TP0_Rank13_Rank14'], 'DATA0_F999_DP12_PP3_TP0_Rank13_Rank14': ['DATA1_F999_DP12_PP3_TP0_Rank13_Rank14']}}
+{'time': 0.6118249999999998, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.6118249999999998, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA0_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA0_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA1_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 0.6133, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.6183749999999998, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.6183749999999998, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.6353083333333335, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA0_F999_DP8_PP2_TP0_Rank9_Rank10'], 'DATA0_F999_DP8_PP2_TP0_Rank9_Rank10': ['DATA1_F999_DP8_PP2_TP0_Rank9_Rank10']}}
+{'time': 0.6373, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 0.638775, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.638775, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA0_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA0_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA1_F999_DP8_PP2_TP0_Rank10_Rank11']}}
+{'time': 0.6434583333333334, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.6434583333333334, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.6554833333333333, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA0_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA0_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA1_F999_DP4_PP1_TP0_Rank6_Rank7']}}
+{'time': 0.6561333333333335, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.65795, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 0.6701166666666668, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.6701166666666668, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.6722666666666668, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA1_F999_DP0_PP0_TP0_Rank1_Rank2'], 'DATA1_F999_DP0_PP0_TP0_Rank1_Rank2': ['DATA0_F999_DP0_PP0_TP0_Rank1_Rank2']}}
+{'time': 0.6744666666666667, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 0.6744666666666667, 'bottleneck_flows': {'DATA0_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA1_F999_DP0_PP0_TP0_Rank2_Rank3'], 'DATA1_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA0_F999_DP0_PP0_TP0_Rank2_Rank3']}}
+{'time': 0.6747, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 0.6874333333333336, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 0.6874333333333336, 'bottleneck_flows': {'DATA1_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 0.89155, 'bottleneck_flows': {'DATA1_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA2_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA2_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA1_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 0.8934, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 0.8984749999999998, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 0.8987499999999996, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 0.8987499999999996, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 0.9171416666666667, 'bottleneck_flows': {'DATA1_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA2_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA2_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA1_F999_DP8_PP2_TP0_Rank10_Rank11']}}
+{'time': 0.9174, 'bottleneck_flows': {'DATA2_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 0.9235583333333334, 'bottleneck_flows': {'DATA2_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 0.9251916666666666, 'bottleneck_flows': {'DATA2_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 0.9251916666666666, 'bottleneck_flows': {'DATA2_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 0.9362333333333335, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA2_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA2_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA1_F999_DP4_PP1_TP0_Rank6_Rank7']}}
+{'time': 0.93805, 'bottleneck_flows': {'DATA2_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 0.9494666666666666, 'bottleneck_flows': {'DATA2_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 0.9494666666666666, 'bottleneck_flows': {'DATA1_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA2_F999_DP4_PP1_TP0_Rank7_Rank4'], 'DATA2_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA1_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 0.950866666666667, 'bottleneck_flows': {'DATA2_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 0.950866666666667, 'bottleneck_flows': {'DATA2_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 0.9534666666666667, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA1_F999_DP0_PP0_TP0_Rank2_Rank3'], 'DATA1_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA2_F999_DP0_PP0_TP0_Rank2_Rank3']}}
+{'time': 0.9548, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 0.9675333333333336, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 0.9685333333333335, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 0.9685333333333335, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 1.1735, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA2_F999_DP12_PP3_TP0_Rank14_Rank15'], 'DATA2_F999_DP12_PP3_TP0_Rank14_Rank15': ['DATA3_F999_DP12_PP3_TP0_Rank14_Rank15']}}
+{'time': 1.1768999999999996, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 1.1768999999999996, 'bottleneck_flows': {'DATA2_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA3_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA3_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA2_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 1.1785749999999997, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 1.1806999999999996, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 1.1806999999999996, 'bottleneck_flows': {'DATA3_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 1.1975, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA2_F999_DP8_PP2_TP0_Rank10_Rank11'], 'DATA2_F999_DP8_PP2_TP0_Rank10_Rank11': ['DATA3_F999_DP8_PP2_TP0_Rank10_Rank11']}}
+{'time': 1.2036583333333335, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 1.2049333333333334, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 1.2049333333333334, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA2_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA2_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA3_F999_DP8_PP2_TP0_Rank11_Rank8']}}
+{'time': 1.20555, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 1.20555, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 1.21815, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA2_F999_DP4_PP1_TP0_Rank6_Rank7'], 'DATA2_F999_DP4_PP1_TP0_Rank6_Rank7': ['DATA3_F999_DP4_PP1_TP0_Rank6_Rank7']}}
+{'time': 1.22765, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 1.22765, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA2_F999_DP4_PP1_TP0_Rank7_Rank4'], 'DATA2_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA3_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 1.230966666666667, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 1.2327833333333336, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 1.2327833333333336, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 1.2348999999999999, 'bottleneck_flows': {'DATA2_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA3_F999_DP0_PP0_TP0_Rank2_Rank3'], 'DATA3_F999_DP0_PP0_TP0_Rank2_Rank3': ['DATA2_F999_DP0_PP0_TP0_Rank2_Rank3']}}
+{'time': 1.2472000000000003, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 1.2472000000000003, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA2_F999_DP0_PP0_TP0_Rank3_Rank0'], 'DATA2_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA3_F999_DP0_PP0_TP0_Rank3_Rank0']}}
+{'time': 1.2476333333333336, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 1.2499666666666667, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 1.2499666666666667, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 1.4552999999999998, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA3_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA3_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA4_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 1.4586749999999997, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 1.4607999999999997, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 1.4623999999999995, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 1.4623999999999995, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 1.4813166666666666, 'bottleneck_flows': {'DATA3_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA4_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA4_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA3_F999_DP8_PP2_TP0_Rank11_Rank8']}}
+{'time': 1.4837583333333335, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 1.48565, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 1.4892666666666667, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 1.4892666666666667, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 1.503, 'bottleneck_flows': {'DATA3_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA4_F999_DP4_PP1_TP0_Rank7_Rank4'], 'DATA4_F999_DP4_PP1_TP0_Rank7_Rank4': ['DATA3_F999_DP4_PP1_TP0_Rank7_Rank4']}}
+{'time': 1.511066666666667, 'bottleneck_flows': {'DATA4_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 1.5128833333333336, 'bottleneck_flows': {'DATA4_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 1.5175333333333336, 'bottleneck_flows': {'DATA4_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 1.5175333333333336, 'bottleneck_flows': {'DATA4_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 1.52115, 'bottleneck_flows': {'DATA3_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA4_F999_DP0_PP0_TP0_Rank3_Rank0'], 'DATA4_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA3_F999_DP0_PP0_TP0_Rank3_Rank0']}}
+{'time': 1.5277333333333336, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 1.5300666666666667, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
+{'time': 1.536116666666667, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 1.536116666666667, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 1.7387749999999997, 'bottleneck_flows': {'DATA4_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA5_F999_DP12_PP3_TP0_Rank15_Rank12'], 'DATA5_F999_DP12_PP3_TP0_Rank15_Rank12': ['DATA4_F999_DP12_PP3_TP0_Rank15_Rank12']}}
+{'time': 1.7390249999999996, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank15_Rank12': []}}
+{'time': 1.7390249999999996, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA4_F999_DP12_PP3_TP0_Rank12_Rank13'], 'DATA4_F999_DP12_PP3_TP0_Rank12_Rank13': ['DATA5_F999_DP12_PP3_TP0_Rank12_Rank13']}}
+{'time': 1.7408999999999997, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank14_Rank15': []}}
+{'time': 1.7458749999999994, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank12_Rank13': []}}
+{'time': 1.7458749999999994, 'bottleneck_flows': {'DATA5_F999_DP12_PP3_TP0_Rank13_Rank14': []}}
+{'time': 1.7638583333333335, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA4_F999_DP8_PP2_TP0_Rank11_Rank8'], 'DATA4_F999_DP8_PP2_TP0_Rank11_Rank8': ['DATA5_F999_DP8_PP2_TP0_Rank11_Rank8']}}
+{'time': 1.76575, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank10_Rank11': []}}
+{'time': 1.7668249999999999, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank11_Rank8': []}}
+{'time': 1.7668249999999999, 'bottleneck_flows': {'DATA4_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA5_F999_DP8_PP2_TP0_Rank8_Rank9'], 'DATA5_F999_DP8_PP2_TP0_Rank8_Rank9': ['DATA4_F999_DP8_PP2_TP0_Rank8_Rank9']}}
+{'time': 1.7718083333333337, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank8_Rank9': []}}
+{'time': 1.7718083333333337, 'bottleneck_flows': {'DATA5_F999_DP8_PP2_TP0_Rank9_Rank10': []}}
+{'time': 1.7903666666666667, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA4_F999_DP4_PP1_TP0_Rank4_Rank5'], 'DATA4_F999_DP4_PP1_TP0_Rank4_Rank5': ['DATA5_F999_DP4_PP1_TP0_Rank4_Rank5']}}
+{'time': 1.791166666666667, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank7_Rank4': []}}
+{'time': 1.7929833333333336, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank6_Rank7': []}}
+{'time': 1.8048000000000006, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank4_Rank5': []}}
+{'time': 1.8048000000000006, 'bottleneck_flows': {'DATA5_F999_DP4_PP1_TP0_Rank5_Rank6': []}}
+{'time': 1.8078333333333336, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA4_F999_DP0_PP0_TP0_Rank3_Rank0'], 'DATA4_F999_DP0_PP0_TP0_Rank3_Rank0': ['DATA5_F999_DP0_PP0_TP0_Rank3_Rank0']}}
+{'time': 1.8095333333333334, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank3_Rank0': []}}
+{'time': 1.8095333333333334, 'bottleneck_flows': {'DATA4_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA5_F999_DP0_PP0_TP0_Rank0_Rank1'], 'DATA5_F999_DP0_PP0_TP0_Rank0_Rank1': ['DATA4_F999_DP0_PP0_TP0_Rank0_Rank1']}}
+{'time': 1.8101666666666667, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank2_Rank3': []}}
+{'time': 1.8228000000000006, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank0_Rank1': []}}
+{'time': 1.8228000000000006, 'bottleneck_flows': {'DATA5_F999_DP0_PP0_TP0_Rank1_Rank2': []}}
