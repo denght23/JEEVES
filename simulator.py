@@ -238,6 +238,12 @@ class Simulator:
                 "link": {link_id: link.calculate_load() / link.bandwidth for link_id, link in self.links.items()}
             }
             file.write(f"{load_dict}\n")
+        with open(f"result/{self.file_name}/link_flow_num.txt", "a") as file:
+            flow_num_dict = {
+                "time": self.current_time,
+                "link": {link_id: len(link.active_flows) for link_id, link in self.links.items()}
+            }
+            file.write(f"{flow_num_dict}\n")
 
         # 添加流到所有路径链路
         for link in flow.path:
@@ -259,6 +265,12 @@ class Simulator:
                 "link": {link_id: link.calculate_load() for link_id, link in self.links.items()}
             }
             file.write(f"{load_dict}\n")
+        with open(f"result/{self.file_name}/link_flow_num.txt", "a") as file:
+            flow_num_dict = {
+                "time": self.current_time,
+                "link": {link_id: len(link.active_flows) for link_id, link in self.links.items()}
+            }
+            file.write(f"{flow_num_dict}\n")
 
         # 从链路移除流
         for link in flow.path:

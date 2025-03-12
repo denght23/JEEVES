@@ -120,6 +120,7 @@ if __name__ == "__main__":
     
     link_load_file = f'result/{file_name}/link_load.txt'
     link_util_file = f'result/{file_name}/link_util.txt'
+    link_flow_num_file = f'result/{file_name}/link_flow_num.txt'
     records_file = f'result/{file_name}/records.txt'
     rate_record_file = f'result/{file_name}/rate_record.txt'
     flow_path_record_file = f'result/{file_name}/flow_path_record.txt'
@@ -129,6 +130,7 @@ if __name__ == "__main__":
     
     open(link_load_file, 'w').close()
     open(link_util_file, 'w').close()
+    open(link_flow_num_file, 'w').close()
     open(records_file, 'w').close()
     open(rate_record_file, 'w').close()
     open(flow_path_record_file, 'w').close()

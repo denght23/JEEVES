@@ -1,0 +1,10 @@
+python show_ratio.py 4 400 0
+python show_ratio.py 4 400 1
+python show_ratio.py 4 25 0
+python show_ratio.py 4 25 1
+python show_ratio.py 4 10 0
+python show_ratio.py 4 10 1
+python show_ratio.py 2 10 0
+python show_ratio.py 2 10 1
+python show_ratio.py 1 10 0
+python show_ratio.py 1 10 1

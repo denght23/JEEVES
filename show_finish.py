@@ -64,6 +64,7 @@ def plot_scatter(class1_data, class2_data, file_name):
     plt.xlabel("Time (seconds)")
     plt.ylabel("Category")
     plt.yticks([1, 2], ["DP", "PP"])
+    plt.xlim(0, 4)  # 设置横坐标范围
     plt.grid(True)
     plt.legend()
     
