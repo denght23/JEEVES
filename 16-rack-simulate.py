@@ -158,7 +158,11 @@ if __name__ == "__main__":
             if op["op_type"] == "gpu":
                 if "depends" in op:
                     if op["depends"] != "":
-                        simulator.add_task(op["op_name"], op["duration"] / 1000, dependency = op["depends"])
+                        if op["depends"].startswith("DATA"):
+                            dependency = ["flow_end_" + op["depends"]]
+                        else:
+                            dependency = ["task_end_" + op["depends"]]
+                        simulator.add_task(op["op_name"], op["duration"] / 1000, dependency=dependency)
                     else:
                         simulator.add_task(op["op_name"], op["duration"] / 1000, dependency=None)
                 else:
@@ -183,7 +187,11 @@ if __name__ == "__main__":
                 # print(f"flow_paths: {flow_paths}")
                 if "depends" in op:
                     if op["depends"] != "":
-                        simulator.add_flow(op["op_name"], op["size"], flow_paths, dependency=op["depends"])
+                        if op["depends"].startswith("DATA"):
+                            dependency = ["flow_end_" + op["depends"]]
+                        else:
+                            dependency = ["task_end_" + op["depends"]]
+                        simulator.add_flow(op["op_name"], op["size"], flow_paths, dependency=dependency)
                     else:
                         simulator.add_flow(op["op_name"], op["size"], flow_paths, dependency=None)
                 else:
