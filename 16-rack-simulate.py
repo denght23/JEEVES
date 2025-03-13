@@ -127,6 +127,7 @@ if __name__ == "__main__":
     core_links_file = f'result/{file_name}/core_links.txt'
     standard_time_file = f'result/{file_name}/standard_time.txt'
     error_file = f'result/{file_name}/error.txt'
+    bottleneck_file = f'result/{file_name}/bottleneck_flows.txt'
     
     open(link_load_file, 'w').close()
     open(link_util_file, 'w').close()
@@ -136,6 +137,7 @@ if __name__ == "__main__":
     open(flow_path_record_file, 'w').close()
     open(core_links_file, 'w').close()
     open(error_file, 'w').close()
+    open(bottleneck_file, 'w').close()
     
     with open(standard_time_file, 'w') as file:
         file.write("flow_id,path_latency(ms),bandwidth(Gbps),flow_size(MB),standard_time(ms)\n")
