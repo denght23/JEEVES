@@ -32,18 +32,13 @@ class Flow:
         self.debug = True
         self.file_name = None
 
-    def update_rate(self):
-        """根据路径中的瓶颈链路更新速率"""
-        min_rate = min(link.available_bandwidth() * 1000 for link in self.path)  # Gbps转Mbps
-        self.rate = min_rate if min_rate != float('inf') else 0
-
     def transmission_time(self):
         """剩余传输时间（秒）"""
         if self.remaining_size < 0 or self.rate < 0:
-            if (self.debug):
+            if self.debug:
                 with open(f"result/{self.file_name}/error.txt", "a") as file:
                     error_info = {
-                        "error":"transmission_time or self.rate less than 0",
+                        "error": "transmission_time or self.rate less than 0",
                         "flow_id": self.flow_id,
                         "remaining_size": self.remaining_size,
                         "rate": self.rate
@@ -115,42 +110,107 @@ class Simulator:
             self.event_queue.remove(event)
             heapq.heapify(self.event_queue)
 
-    def update_flow_rates(self, affected_links):
-        """更新受影响的流速率并重新调度"""
-        seen_flows = set()
-        for link in affected_links:
-            for flow in link.active_flows:
-                if flow not in seen_flows:
-                    if flow.current_event:
-                        # 更新remaining_size
-                        transferred = flow.rate * (self.current_time - flow.last_begin_time) / 8
-                        if (self.debug):
-                            if (flow.remaining_size - transferred) < 0:
-                                with open(f"result/{self.file_name}/error.txt", "a") as file:
-                                    error_info = {
-                                        "error":"remaining_size less than 0",
-                                        "new_remaining_size": flow.remaining_size - transferred,
-                                        "time": self.current_time,
-                                        "flow_id": flow.flow_id,
-                                        "last_begin_time": flow.last_begin_time,
-                                        "rate": flow.rate,
-                                        "remaining_size": flow.remaining_size,
-                                        "transferred": transferred
-                                    }
-                                    file.write(f"{error_info}\n")
-                        flow.remaining_size = max(flow.remaining_size - transferred, 0)  # 确保不小于0
-                        self.cancel_event(flow.current_event)
-                    flow.update_rate()
-                    seen_flows.add(flow)
-                    
+    def update_flow_rates(self):
+        """更新所有流的速率并重新调度"""
+        active_flows = set()
+        for link in self.links.values():
+            active_flows.update(link.active_flows)
+        active_flows = list(active_flows)
         
+        if not active_flows:
+            return
+        
+        # 取消所有当前事件并更新剩余数据量
+        for flow in active_flows:
+            if flow.current_event is not None:
+                transferred = flow.rate * (self.current_time - flow.last_begin_time) / 8
+                if (self.debug):
+                    if (flow.remaining_size - transferred) < 0:
+                        with open(f"result/{self.file_name}/error.txt", "a") as file:
+                            error_info = {
+                                "error":"remaining_size less than 0",
+                                "new_remaining_size": flow.remaining_size - transferred,
+                                "time": self.current_time,
+                                "flow_id": flow.flow_id,
+                                "last_begin_time": flow.last_begin_time,
+                                "rate": flow.rate,
+                                "remaining_size": flow.remaining_size,
+                                "transferred": transferred
+                            }
+                            file.write(f"{error_info}\n")
+                flow.remaining_size = max(flow.remaining_size - transferred, 0)
+                self.cancel_event(flow.current_event)
+                flow.current_event = None
+        
+        # 初始化数据结构
+        remaining_bandwidth = {link: link.bandwidth for link in self.links.values()}
+        remaining_flows_count = {link: len(link.active_flows) for link in self.links.values()}
+        allocated = {flow: False for flow in active_flows}
+        
+        # 分配速率
+        while True:
+            min_rate = float('inf')
+            min_link = None
+            
+            # 找到所有链路中的最小候选速率
+            for link in self.links.values():
+                count = remaining_flows_count.get(link, 0)
+                if count == 0:
+                    continue
+                current_rate = remaining_bandwidth[link] / count
+                if current_rate < min_rate:
+                    min_rate = current_rate
+                    min_link = link
+            
+            if not min_link:
+                # print("no min link")
+                for flow in active_flows:
+                    if flow.rate == 0:
+                        print(f"Flow {flow.flow_id} has rate 0")
+                # print(len(active_flows))
+                # print(min_rate)
+                # print(remaining_flows_count)
+                break
+            else:
+                if (min_rate == float('inf')):
+                    print("min_rate is inf")
+                    break
+                if (min_rate == 0):
+                    print("min_rate is 0")
+                flows_to_allocate = [flow for flow in min_link.active_flows if not allocated[flow]]
+                if not flows_to_allocate:
+                    print("no flows to allocate")
+                    continue
+                
+                for flow in flows_to_allocate:
+                    flow.rate = min_rate * 1000  # 转换为Mbps
+                    allocated[flow] = True
+                
+                for flow in flows_to_allocate:
+                    for l in flow.path:
+                        remaining_bandwidth[l] -= min_rate
+                        remaining_flows_count[l] -= 1
+        
+        # 处理未分配速率的流
+        for flow in active_flows:
+            if not allocated[flow]:
+                flow.rate = 0
+                print(f"Flow {flow.flow_id} has no bandwidth")
+        for flow in active_flows:
+                max_load_link = min(flow.path, key=lambda link: link.bandwidth / len(link.active_flows) if link.active_flows else float('inf'))
+                if round(flow.rate / 1000, 1) < round(max_load_link.bandwidth / len(max_load_link.active_flows), 1):
+                    if True:
+                        print(len(active_flows))
+                        print(f"Flow {flow.flow_id} has rate {round(flow.rate / 1000, 1)} Gbps, "
+                            f"which is less than {round(max_load_link.bandwidth / len(max_load_link.active_flows), 1)} Gbps "
+                            f"on link with bandwidth {round(max_load_link.bandwidth, 1)} Gbps and "
+                            f"{len(max_load_link.active_flows)} active flows.")
+        
+        # 重新调度所有流的结束事件并记录
         rate_record = {}
-        
-        bottleneck_dict = {}  
-        for flow in seen_flows:
+        bottleneck_dict = {}
+        for flow in active_flows:
             if flow.rate > 0:
-                # 原有速率记录逻辑
-                # end_time = self.current_time + flow.transmission_time() + flow.propagation_time()
                 transmission_time = flow.transmission_time()
                 end_time = self.current_time + transmission_time + flow.propagation_time()
                 if (self.debug):
@@ -164,38 +224,28 @@ class Simulator:
                                 "end_time": end_time
                             }
                             file.write(f"{error_info}\n")
-                end_time = max(end_time, self.current_time)  # 关键修改
+                end_time = max(end_time, self.current_time)
                 flow.current_event = Event(end_time, 'flow_end', flow)
                 flow.last_begin_time = self.current_time
                 self.schedule_event(flow.current_event)
                 rate_record[flow.flow_id] = flow.rate / 1000
-
-                # 新增瓶颈链路识别逻辑
+                
                 min_bandwidth = min(link.available_bandwidth() for link in flow.path)
                 bottleneck_links = [link for link in flow.path if link.available_bandwidth() == min_bandwidth]
-                
-                # 新增关联流收集逻辑
                 related_flows = []
                 for link in bottleneck_links:
-                    related_flows.extend(
-                        f.flow_id for f in link.active_flows 
-                        if f.flow_id != flow.flow_id  # 排除自身
-                    )
-                bottleneck_dict[flow.flow_id] = list(set(related_flows))  # 去重
-                
-        with open(f"result/{self.file_name}/rate_record.txt", "a") as file:
-            rate_dict = {
-                "time": self.current_time,
-                "flow": rate_record
-            }
-            file.write(f"{rate_dict}\n")
+                    related_flows.extend(f.flow_id for f in link.active_flows if f != flow)
+                bottleneck_dict[flow.flow_id] = list(set(related_flows))
+        
+        # 记录速率和瓶颈信息
+        if rate_record:
+            with open(f"result/{self.file_name}/rate_record.txt", "a") as file:
+                file.write(f"{ {'time': self.current_time, 'flow': rate_record} }\n")
         if bottleneck_dict:
             with open(f"result/{self.file_name}/bottleneck_flows.txt", "a") as file:
                 file.write(f"{ {'time': self.current_time, 'bottleneck_flows': bottleneck_dict} }\n")
-                
 
     def handle_flow_start(self, flow):
-        
         if flow.path is None:
             if self.path_selection_method == 'random':
                 flow.path = random.choice(flow.paths)
@@ -211,19 +261,13 @@ class Simulator:
             else:
                 raise ValueError("Invalid path selection method")
                 
-        # 将路径信息写入records.txt
         path_ids = [link_id for link_id, link in self.links.items() if link in flow.path]
         with open(f"result/{self.file_name}/flow_path_record.txt", "a") as file:
-            file.write(
-                f"Flow,{flow.flow_id},path_selected,{path_ids},{self.current_time}\n"
-            )
+            file.write(f"Flow,{flow.flow_id},path_selected,{path_ids},{self.current_time}\n")
         
-        """处理流开始事件"""
-        # 记录流开始日志
         with open(f"result/{self.file_name}/records.txt", "a") as file:
             file.write(f"Flow,{flow.flow_id},begin,{self.current_time}\n")
         
-        # 记录链路负载变化
         with open(f"result/{self.file_name}/link_load.txt", "a") as file:
             load_dict = {
                 "time": self.current_time,
@@ -231,7 +275,6 @@ class Simulator:
             }
             file.write(f"{load_dict}\n")
         
-        # 记录链路利用率变化
         with open(f"result/{self.file_name}/link_util.txt", "a") as file:
             load_dict = {
                 "time": self.current_time,
@@ -245,20 +288,17 @@ class Simulator:
             }
             file.write(f"{flow_num_dict}\n")
 
-        # 添加流到所有路径链路
         for link in flow.path:
             link.active_flows.add(flow)
-        self.update_flow_rates(flow.path)
+        self.update_flow_rates()
 
     def handle_flow_end(self, flow):
         flow.end_time = self.current_time
         flow.remaining_size = 0
         
-        # 记录流结束日志
         with open(f"result/{self.file_name}/records.txt", "a") as file:
             file.write(f"Flow,{flow.flow_id},finish,{self.current_time}\n")
         
-        # 记录链路负载变化
         with open(f"result/{self.file_name}/link_load.txt", "a") as file:
             load_dict = {
                 "time": self.current_time,
@@ -272,17 +312,14 @@ class Simulator:
             }
             file.write(f"{flow_num_dict}\n")
 
-        # 从链路移除流
         for link in flow.path:
             if flow in link.active_flows:
                 link.active_flows.remove(flow)
-        self.update_flow_rates(flow.path)
+        self.update_flow_rates()
 
-        # 处理依赖关系（使用安全的pop方法）
         completed_event = f"{flow.flow_id}"
         self.completed_events.add(completed_event)
         
-        # 关键修改：使用pop获取并删除依赖项，避免KeyError
         dependents = self.event_dependencies.pop(completed_event, [])
         for dependent in dependents:
             if isinstance(dependent, Flow):
@@ -292,12 +329,9 @@ class Simulator:
             self.schedule_event(new_event)
 
     def handle_task_start(self, task):
-        """处理任务开始事件"""
-        # 记录任务开始日志
         with open(f"result/{self.file_name}/records.txt", "a") as file:
             file.write(f"Task,{task.task_id},begin,{self.current_time}\n")
         
-        # 计算任务结束时间
         task.start_time = self.current_time
         end_time = self.current_time + task.compute_time
         self.schedule_event(Event(end_time, 'task_end', task))
@@ -305,15 +339,12 @@ class Simulator:
     def handle_task_end(self, task):
         task.end_time = self.current_time
         
-        # 记录任务结束日志
         with open(f"result/{self.file_name}/records.txt", "a") as file:
             file.write(f"Task,{task.task_id},finish,{self.current_time}\n")
 
-        # 处理依赖关系（使用安全的pop方法）
         completed_event = f"{task.task_id}"
         self.completed_events.add(completed_event)
         
-        # 关键修改：使用pop获取并删除依赖项，避免KeyError
         dependents = self.event_dependencies.pop(completed_event, [])
         for dependent in dependents:
             if isinstance(dependent, Flow):
@@ -321,8 +352,8 @@ class Simulator:
             elif isinstance(dependent, Task):
                 new_event = Event(self.current_time, 'task_start', dependent)
             self.schedule_event(new_event)
+
     def run(self):
-        """运行仿真"""
         while self.event_queue:
             event = heapq.heappop(self.event_queue)
             self.current_time = event.time
@@ -335,32 +366,3 @@ class Simulator:
                 self.handle_task_start(event.obj)
             elif event.event_type == 'task_end':
                 self.handle_task_end(event.obj)
-
-# # 示例测试
-# if __name__ == "__main__":
-#     # 初始化仿真环境
-#     sim = Simulator()
-    
-#     # 添加网络链路
-#     sim.add_link("link1", 10, 1)  # 10Gbps带宽，1ms延迟
-#     sim.add_link("link2", 20, 2)
-    
-#     # 添加流和依赖关系
-#     sim.add_flow("flow1", 8000, [sim.links["link1"]])  # 8000MB数据
-#     sim.add_flow("flow2", 16000, [sim.links["link1"], sim.links["link2"]], "flow_end_flow1")
-    
-#     # 添加任务和依赖关系
-#     sim.add_task("task1", 5, "flow_end_flow2")
-#     sim.add_task("task2", 3, "task_end_task1")
-    
-#     # 运行仿真
-#     sim.run()
-    
-#     # 输出结果
-#     print("===== 流执行情况 =====")
-#     for flow in sim.flows.values():
-#         print(f"Flow {flow.flow_id}: {flow.start_time:.2f}s → {flow.end_time:.2f}s")
-    
-#     print("\n===== 任务执行情况 =====")
-#     for task in sim.tasks.values():
-#         print(f"Task {task.task_id}: {task.start_time:.2f}s → {task.end_time:.2f}s")

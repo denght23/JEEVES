@@ -2,543 +2,543 @@ Flow,DATA_F1a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.012
 Flow,DATA_F1a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.012
 Flow,DATA_F1a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.012
 Flow,DATA_F1a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.012
-Flow,DATA_F2a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.024
+Flow,DATA_F2a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.024
 Flow,DATA_F2a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.024
 Flow,DATA_F2a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.024
-Flow,DATA_F2a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.024
-Flow,DATA_F1a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.0249
-Flow,DATA_F1a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link53', 'link56', 'link67'],0.0249
-Flow,DATA_F1a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.0249
-Flow,DATA_F1a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link45', 'link48', 'link61', 'link64', 'link71'],0.0249
-Flow,DATA_F3a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.036000000000000004
-Flow,DATA_F3a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.036000000000000004
-Flow,DATA_F3a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.036000000000000004
+Flow,DATA_F2a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.024
+Flow,DATA_F1a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.0249
+Flow,DATA_F1a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link53', 'link56', 'link67'],0.025
+Flow,DATA_F1a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link41', 'link44', 'link57', 'link60', 'link69'],0.025099999999999997
+Flow,DATA_F1a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link61', 'link64', 'link71'],0.0252
 Flow,DATA_F3a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.036000000000000004
-Flow,DATA_F2a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.0369
-Flow,DATA_F2a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.0369
-Flow,DATA_F2a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.0369
-Flow,DATA_F2a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.0369
-Flow,DATA_F1a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.039999999999999994
-Flow,DATA_F1a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.039999999999999994
+Flow,DATA_F3a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.036000000000000004
+Flow,DATA_F3a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.036000000000000004
+Flow,DATA_F3a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.036000000000000004
+Flow,DATA_F2a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.0369
+Flow,DATA_F2a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link53', 'link56', 'link67'],0.037
+Flow,DATA_F2a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.0372
+Flow,DATA_F2a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link61', 'link64', 'link71'],0.0373
 Flow,DATA_F1a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.039999999999999994
-Flow,DATA_F1a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.039999999999999994
+Flow,DATA_F1a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.0423
+Flow,DATA_F1a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.0446
+Flow,DATA_F1a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.0469
+Flow,DATA_F4a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.048
 Flow,DATA_F4a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.048
 Flow,DATA_F4a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.048
-Flow,DATA_F4a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.048
 Flow,DATA_F4a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.048
-Flow,DATA_F3a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link36', 'link49', 'link52', 'link65'],0.04890000000000001
-Flow,DATA_F3a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.04890000000000001
-Flow,DATA_F3a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link57', 'link60', 'link69'],0.04890000000000001
-Flow,DATA_F3a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link61', 'link64', 'link71'],0.04890000000000001
-Flow,DATA_F2a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.052000000000000005
-Flow,DATA_F2a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.052000000000000005
-Flow,DATA_F2a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.052000000000000005
-Flow,DATA_F2a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.052000000000000005
+Flow,DATA_F3a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.049100000000000005
+Flow,DATA_F3a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link37', 'link40', 'link53', 'link56', 'link67'],0.0493
+Flow,DATA_F3a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.0494
+Flow,DATA_F3a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.0495
 Flow,DATA_F1b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link34', 'link35', 'link50', 'link51', 'link66'],0.0529
-Flow,DATA_F1b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link39', 'link54', 'link55', 'link68'],0.0529
-Flow,DATA_F1b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link42', 'link43', 'link58', 'link59', 'link70'],0.0529
-Flow,DATA_F1b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link46', 'link47', 'link62', 'link63', 'link72'],0.0529
-Flow,DATA_F4a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link36', 'link49', 'link52', 'link65'],0.06090000000000001
-Flow,DATA_F4a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.06090000000000001
-Flow,DATA_F4a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.06090000000000001
-Flow,DATA_F4a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link61', 'link64', 'link71'],0.06090000000000001
-Flow,DATA_F3a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.06400000000000002
-Flow,DATA_F3a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.06400000000000002
-Flow,DATA_F3a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.06400000000000002
-Flow,DATA_F3a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.06400000000000002
-Flow,DATA_F2b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link34', 'link35', 'link50', 'link51', 'link66'],0.06490000000000001
-Flow,DATA_F2b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link38', 'link39', 'link54', 'link55', 'link68'],0.06490000000000001
-Flow,DATA_F2b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link43', 'link58', 'link59', 'link70'],0.06490000000000001
-Flow,DATA_F2b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link46', 'link47', 'link62', 'link63', 'link72'],0.06490000000000001
-Flow,DATA_F1b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.068
-Flow,DATA_F1b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.068
-Flow,DATA_F1b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.068
-Flow,DATA_F1b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.068
-Flow,DATA_F4a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.07600000000000001
-Flow,DATA_F4a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.07600000000000001
-Flow,DATA_F4a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.07600000000000001
-Flow,DATA_F4a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.07600000000000001
-Flow,DATA_F3b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link35', 'link50', 'link51', 'link66'],0.07690000000000001
-Flow,DATA_F3b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link38', 'link39', 'link54', 'link55', 'link68'],0.07690000000000001
-Flow,DATA_F3b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link43', 'link58', 'link59', 'link70'],0.07690000000000001
-Flow,DATA_F3b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link46', 'link47', 'link62', 'link63', 'link72'],0.07690000000000001
-Flow,DATA_F2b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.08
-Flow,DATA_F2b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.08
-Flow,DATA_F2b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.08
-Flow,DATA_F2b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.08
-Flow,DATA_F1b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.0809
-Flow,DATA_F1b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.0809
-Flow,DATA_F1b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.0809
-Flow,DATA_F1b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link61', 'link64', 'link71'],0.0809
-Flow,DATA_F4b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link35', 'link50', 'link51', 'link66'],0.0889
-Flow,DATA_F4b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link39', 'link54', 'link55', 'link68'],0.0889
-Flow,DATA_F4b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link42', 'link43', 'link58', 'link59', 'link70'],0.0889
-Flow,DATA_F4b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link46', 'link47', 'link62', 'link63', 'link72'],0.0889
-Flow,DATA_F3b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.092
-Flow,DATA_F3b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.092
-Flow,DATA_F3b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.092
-Flow,DATA_F3b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.092
-Flow,DATA_F2b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.0929
-Flow,DATA_F2b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link53', 'link56', 'link67'],0.0929
-Flow,DATA_F2b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link57', 'link60', 'link69'],0.0929
-Flow,DATA_F2b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link61', 'link64', 'link71'],0.0929
-Flow,DATA_F1b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.09599999999999999
-Flow,DATA_F1b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.09599999999999999
-Flow,DATA_F1b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.09599999999999999
-Flow,DATA_F1b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.09599999999999999
-Flow,DATA_F4b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.104
-Flow,DATA_F4b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.104
-Flow,DATA_F4b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.104
-Flow,DATA_F4b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.104
-Flow,DATA_F3b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.1049
-Flow,DATA_F3b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link40', 'link53', 'link56', 'link67'],0.1049
-Flow,DATA_F3b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link41', 'link44', 'link57', 'link60', 'link69'],0.1049
-Flow,DATA_F3b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.1049
-Flow,DATA_F2b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.10799999999999998
-Flow,DATA_F2b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.10799999999999998
-Flow,DATA_F2b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.10799999999999998
-Flow,DATA_F2b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.10799999999999998
-Flow,DATA_F5a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.11599999999999999
-Flow,DATA_F5a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.11599999999999999
-Flow,DATA_F5a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.11599999999999999
-Flow,DATA_F5a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.11599999999999999
-Flow,DATA_F4b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.11689999999999999
-Flow,DATA_F4b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link40', 'link53', 'link56', 'link67'],0.11689999999999999
-Flow,DATA_F4b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.11689999999999999
-Flow,DATA_F4b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link45', 'link48', 'link61', 'link64', 'link71'],0.11689999999999999
-Flow,DATA_F3b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.11999999999999998
-Flow,DATA_F3b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.11999999999999998
-Flow,DATA_F3b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.11999999999999998
-Flow,DATA_F3b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.11999999999999998
-Flow,DATA_B1b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.12789999999999999
-Flow,DATA_B1b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.12789999999999999
-Flow,DATA_B1b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.12789999999999999
-Flow,DATA_B1b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.12789999999999999
-Flow,DATA_F6a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.128
-Flow,DATA_F6a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.128
-Flow,DATA_F6a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.128
-Flow,DATA_F6a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.128
-Flow,DATA_F5a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.1289
-Flow,DATA_F5a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link40', 'link53', 'link56', 'link67'],0.1289
-Flow,DATA_F5a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link57', 'link60', 'link69'],0.1289
-Flow,DATA_F5a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.1289
-Flow,DATA_F4b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.13199999999999998
-Flow,DATA_F4b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.13199999999999998
-Flow,DATA_F4b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.13199999999999998
-Flow,DATA_F4b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.13199999999999998
-Flow,DATA_B2b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.13989999999999997
-Flow,DATA_B2b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.13989999999999997
-Flow,DATA_B2b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.13989999999999997
-Flow,DATA_B2b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.13989999999999997
-Flow,DATA_F7a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.14
-Flow,DATA_F7a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.14
-Flow,DATA_F7a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.14
-Flow,DATA_F7a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.14
-Flow,DATA_F6a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link36', 'link49', 'link52', 'link65'],0.1409
-Flow,DATA_F6a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link37', 'link40', 'link53', 'link56', 'link67'],0.1409
-Flow,DATA_F6a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link41', 'link44', 'link57', 'link60', 'link69'],0.1409
-Flow,DATA_F6a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link61', 'link64', 'link71'],0.1409
-Flow,DATA_F5a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.144
-Flow,DATA_F5a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.144
-Flow,DATA_F5a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.144
-Flow,DATA_F5a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.144
-Flow,DATA_B1b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.14779999999999996
-Flow,DATA_B1b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.14779999999999996
-Flow,DATA_B1b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link42', 'link43', 'link58', 'link59', 'link70'],0.14779999999999996
-Flow,DATA_B1b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link46', 'link47', 'link62', 'link63', 'link72'],0.14779999999999996
-Flow,DATA_B3b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.15189999999999998
-Flow,DATA_B3b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.15189999999999998
-Flow,DATA_B3b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.15189999999999998
-Flow,DATA_B3b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.15189999999999998
-Flow,DATA_F7a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.1529
-Flow,DATA_F7a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link40', 'link53', 'link56', 'link67'],0.1529
-Flow,DATA_F7a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.1529
-Flow,DATA_F7a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link45', 'link48', 'link61', 'link64', 'link71'],0.1529
-Flow,DATA_F6a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.156
-Flow,DATA_F6a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.156
-Flow,DATA_F6a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.156
-Flow,DATA_F6a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.156
-Flow,DATA_F5b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link35', 'link50', 'link51', 'link66'],0.15689999999999998
-Flow,DATA_F5b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link39', 'link54', 'link55', 'link68'],0.15689999999999998
-Flow,DATA_F5b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link43', 'link58', 'link59', 'link70'],0.15689999999999998
-Flow,DATA_F5b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link46', 'link47', 'link62', 'link63', 'link72'],0.15689999999999998
-Flow,DATA_B2b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.15979999999999994
-Flow,DATA_B2b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link39', 'link54', 'link55', 'link68'],0.15979999999999994
-Flow,DATA_B2b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link42', 'link43', 'link58', 'link59', 'link70'],0.15979999999999994
-Flow,DATA_B2b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link46', 'link47', 'link62', 'link63', 'link72'],0.15979999999999994
-Flow,DATA_B4b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.16389999999999996
-Flow,DATA_B4b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.16389999999999996
-Flow,DATA_B4b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.16389999999999996
-Flow,DATA_B4b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.16389999999999996
-Flow,DATA_F7a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.168
-Flow,DATA_F7a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.168
-Flow,DATA_F7a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.168
-Flow,DATA_F7a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.168
-Flow,DATA_F6b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link35', 'link50', 'link51', 'link66'],0.1689
-Flow,DATA_F6b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link39', 'link54', 'link55', 'link68'],0.1689
-Flow,DATA_F6b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link42', 'link43', 'link58', 'link59', 'link70'],0.1689
-Flow,DATA_F6b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link46', 'link47', 'link62', 'link63', 'link72'],0.1689
-Flow,DATA_B1b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.16989999999999994
-Flow,DATA_B1b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.16989999999999994
-Flow,DATA_B1b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.16989999999999994
-Flow,DATA_B1b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.16989999999999994
-Flow,DATA_B3b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.17179999999999995
-Flow,DATA_B3b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.17179999999999995
-Flow,DATA_B3b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.17179999999999995
-Flow,DATA_B3b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link46', 'link47', 'link62', 'link63', 'link72'],0.17179999999999995
-Flow,DATA_F5b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.17409999999999995
-Flow,DATA_F5b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.17409999999999995
-Flow,DATA_F5b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.17409999999999995
-Flow,DATA_F5b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.17409999999999995
-Flow,DATA_F7b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link35', 'link50', 'link51', 'link66'],0.1809
-Flow,DATA_F7b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link38', 'link39', 'link54', 'link55', 'link68'],0.1809
-Flow,DATA_F7b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link42', 'link43', 'link58', 'link59', 'link70'],0.1809
-Flow,DATA_F7b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link46', 'link47', 'link62', 'link63', 'link72'],0.1809
-Flow,DATA_B2b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.18339999999999992
-Flow,DATA_B2b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.18339999999999992
-Flow,DATA_B2b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.18339999999999992
-Flow,DATA_B2b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.18339999999999992
-Flow,DATA_B4b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.18379999999999994
-Flow,DATA_B4b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.18379999999999994
-Flow,DATA_B4b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.18379999999999994
-Flow,DATA_B4b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link46', 'link47', 'link62', 'link63', 'link72'],0.18379999999999994
-Flow,DATA_F6b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.18609999999999996
-Flow,DATA_F6b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.18609999999999996
-Flow,DATA_F6b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.18609999999999996
-Flow,DATA_F6b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.18609999999999996
-Flow,DATA_F5b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.18779999999999994
-Flow,DATA_F5b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.18779999999999994
-Flow,DATA_F5b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.18779999999999994
-Flow,DATA_F5b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link61', 'link64', 'link71'],0.18779999999999994
-Flow,DATA_B1a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link36', 'link49', 'link52', 'link65'],0.1905999999999999
-Flow,DATA_B1a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link40', 'link53', 'link56', 'link67'],0.1905999999999999
-Flow,DATA_B1a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link44', 'link57', 'link60', 'link69'],0.1905999999999999
-Flow,DATA_B1a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link45', 'link48', 'link61', 'link64', 'link71'],0.1905999999999999
-Flow,DATA_B3b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.19709999999999991
-Flow,DATA_B3b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.19709999999999991
-Flow,DATA_B3b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.19709999999999991
-Flow,DATA_B3b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.19709999999999991
-Flow,DATA_F7b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.1993999999999999
-Flow,DATA_F7b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.1993999999999999
-Flow,DATA_F7b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.1993999999999999
-Flow,DATA_F7b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.1993999999999999
-Flow,DATA_F6b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.19979999999999995
-Flow,DATA_F6b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link40', 'link53', 'link56', 'link67'],0.19979999999999995
-Flow,DATA_F6b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link57', 'link60', 'link69'],0.19979999999999995
-Flow,DATA_F6b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.19979999999999995
-Flow,DATA_F8a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.20259999999999992
-Flow,DATA_F8a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.20259999999999992
-Flow,DATA_F8a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.20259999999999992
-Flow,DATA_F8a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.20259999999999992
-Flow,DATA_B2a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link49', 'link52', 'link65'],0.2040999999999999
-Flow,DATA_B2a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link37', 'link40', 'link53', 'link56', 'link67'],0.2040999999999999
-Flow,DATA_B2a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link41', 'link44', 'link57', 'link60', 'link69'],0.2040999999999999
-Flow,DATA_B2a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link45', 'link48', 'link61', 'link64', 'link71'],0.2040999999999999
-Flow,DATA_F5b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.20489999999999992
-Flow,DATA_F5b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.20489999999999992
-Flow,DATA_F5b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.20489999999999992
-Flow,DATA_F5b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.20489999999999992
-Flow,DATA_B4b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.20909999999999992
-Flow,DATA_B4b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.20909999999999992
-Flow,DATA_B4b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.20909999999999992
-Flow,DATA_B4b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.20909999999999992
-Flow,DATA_F7b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.2122999999999999
-Flow,DATA_F7b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.2122999999999999
-Flow,DATA_F7b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link57', 'link60', 'link69'],0.2122999999999999
-Flow,DATA_F7b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.2122999999999999
-Flow,DATA_B1a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.2141999999999999
-Flow,DATA_B1a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.2141999999999999
-Flow,DATA_B1a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.2141999999999999
-Flow,DATA_B1a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.2141999999999999
-Flow,DATA_F6b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.21489999999999995
-Flow,DATA_F6b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.21489999999999995
-Flow,DATA_F6b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.21489999999999995
-Flow,DATA_F6b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.21489999999999995
-Flow,DATA_F8a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.2154999999999999
-Flow,DATA_F8a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.2154999999999999
-Flow,DATA_F8a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link53', 'link56', 'link67'],0.2154999999999999
-Flow,DATA_F8a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.2154999999999999
-Flow,DATA_B3a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link41', 'link44', 'link57', 'link60', 'link69'],0.2169999999999999
-Flow,DATA_B3a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link45', 'link48', 'link61', 'link64', 'link71'],0.2169999999999999
-Flow,DATA_B3a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link44', 'link57', 'link60', 'link69'],0.2169999999999999
-Flow,DATA_B3a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link45', 'link48', 'link61', 'link64', 'link71'],0.2169999999999999
-Flow,DATA_B2a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.22789999999999988
-Flow,DATA_B2a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.22789999999999988
-Flow,DATA_B2a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.22789999999999988
-Flow,DATA_B2a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.22789999999999988
-Flow,DATA_B4a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link36', 'link49', 'link52', 'link65'],0.2289999999999999
-Flow,DATA_B4a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link37', 'link40', 'link53', 'link56', 'link67'],0.2289999999999999
-Flow,DATA_B4a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link41', 'link44', 'link57', 'link60', 'link69'],0.2289999999999999
-Flow,DATA_B4a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link45', 'link48', 'link61', 'link64', 'link71'],0.2289999999999999
-Flow,DATA_F7b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.2303499999999999
-Flow,DATA_F7b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.2303499999999999
-Flow,DATA_F7b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.2312999999999999
-Flow,DATA_F7b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.2312999999999999
-Flow,DATA_F8a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.23264999999999988
-Flow,DATA_F8a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.23264999999999988
-Flow,DATA_F8a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.23494999999999988
-Flow,DATA_F8a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.23494999999999988
-Flow,DATA_B1a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.23504999999999987
-Flow,DATA_B1a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.23504999999999987
-Flow,DATA_B1a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.23504999999999987
-Flow,DATA_B1a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.23504999999999987
-Flow,DATA_B5b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.2375999999999999
-Flow,DATA_B5b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.2375999999999999
-Flow,DATA_B5b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.2375999999999999
-Flow,DATA_B5b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.2375999999999999
-Flow,DATA_B3a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.24059999999999987
-Flow,DATA_B3a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.24059999999999987
-Flow,DATA_B3a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.24289999999999987
-Flow,DATA_B3a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.24289999999999987
-Flow,DATA_F8b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link34', 'link35', 'link50', 'link51', 'link66'],0.24634999999999987
-Flow,DATA_F8b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link38', 'link39', 'link54', 'link55', 'link68'],0.24634999999999987
-Flow,DATA_B6b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.24679999999999994
-Flow,DATA_B6b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.24679999999999994
-Flow,DATA_B6b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.24679999999999994
-Flow,DATA_B6b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.24679999999999994
-Flow,DATA_B2a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link42', 'link43', 'link58', 'link59', 'link70'],0.24779999999999985
-Flow,DATA_B2a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link46', 'link47', 'link62', 'link63', 'link72'],0.24779999999999985
-Flow,DATA_B2a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.24779999999999985
-Flow,DATA_B2a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.24779999999999985
-Flow,DATA_F8b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link43', 'link58', 'link59', 'link70'],0.24864999999999987
-Flow,DATA_F8b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link46', 'link47', 'link62', 'link63', 'link72'],0.24864999999999987
-Flow,DATA_B4a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.2556499999999999
-Flow,DATA_B4a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.2556499999999999
-Flow,DATA_B1a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.2571499999999999
-Flow,DATA_B1a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.2571499999999999
-Flow,DATA_B5b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.2574999999999999
-Flow,DATA_B5b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.2574999999999999
-Flow,DATA_B5b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.2574999999999999
-Flow,DATA_B5b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link46', 'link47', 'link62', 'link63', 'link72'],0.2574999999999999
-Flow,DATA_B4a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.25794999999999985
-Flow,DATA_B4a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.25794999999999985
-Flow,DATA_B1a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.25944999999999985
-Flow,DATA_B1a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.25944999999999985
-Flow,DATA_B3a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.26049999999999984
-Flow,DATA_B3a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.26049999999999984
-Flow,DATA_B3a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link42', 'link43', 'link58', 'link59', 'link70'],0.26279999999999987
-Flow,DATA_B3a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link46', 'link47', 'link62', 'link63', 'link72'],0.26279999999999987
-Flow,DATA_F8b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.2627999999999999
-Flow,DATA_F8b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.2627999999999999
-Flow,DATA_B7b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.2630499999999999
-Flow,DATA_B7b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.2630499999999999
-Flow,DATA_B7b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.2639999999999999
-Flow,DATA_B7b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.2639999999999999
-Flow,DATA_F8b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.26524999999999993
-Flow,DATA_F8b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.26524999999999993
-Flow,DATA_B6b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.26669999999999994
-Flow,DATA_B6b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.26669999999999994
-Flow,DATA_B6b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link39', 'link54', 'link55', 'link68'],0.2674999999999999
-Flow,DATA_B6b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link42', 'link43', 'link58', 'link59', 'link70'],0.2674999999999999
-Flow,DATA_B2a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.2699499999999999
-Flow,DATA_B2a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.2699499999999999
-Flow,DATA_B2a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.27209999999999995
-Flow,DATA_B2a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.27209999999999995
-Flow,DATA_B4a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.2755499999999999
-Flow,DATA_B4a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.2755499999999999
-Flow,DATA_F8b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.2764999999999999
-Flow,DATA_F8b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.2764999999999999
-Flow,DATA_B4a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link42', 'link43', 'link58', 'link59', 'link70'],0.2778499999999999
-Flow,DATA_B4a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link46', 'link47', 'link62', 'link63', 'link72'],0.2778499999999999
-Flow,DATA_F8b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link57', 'link60', 'link69'],0.27814999999999995
-Flow,DATA_F8b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.2790249999999999
-Flow,DATA_B5b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.27959999999999996
-Flow,DATA_B5b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.2817999999999999
-Flow,DATA_B5b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.2817999999999999
-Flow,DATA_B5b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.2817999999999999
-Flow,DATA_B7b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.2829499999999999
-Flow,DATA_B7b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link39', 'link54', 'link55', 'link68'],0.2829499999999999
-Flow,DATA_B7b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link42', 'link43', 'link58', 'link59', 'link70'],0.28389999999999993
-Flow,DATA_B7b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link46', 'link47', 'link62', 'link63', 'link72'],0.28389999999999993
-Flow,DATA_B3a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.2840999999999999
-Flow,DATA_B3a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.28579999999999994
-Flow,DATA_B3a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.28832499999999994
-Flow,DATA_B3a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.28879999999999995
-Flow,DATA_B6b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.2888
-Flow,DATA_B6b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.28959999999999997
-Flow,DATA_B6b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.29109999999999997
-Flow,DATA_B6b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.2911
-Flow,DATA_F8b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.29159999999999997
-Flow,DATA_F8b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.29159999999999997
-Flow,DATA_F8b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.29325
-Flow,DATA_B4a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.29764999999999997
-Flow,DATA_B4a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.29764999999999997
-Flow,DATA_F8b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.2977999999999999
-Flow,DATA_B5a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link36', 'link49', 'link52', 'link65'],0.2995
-Flow,DATA_B4a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.29994999999999994
-Flow,DATA_B4a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.29994999999999994
-Flow,DATA_B5a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link40', 'link53', 'link56', 'link67'],0.3016999999999999
-Flow,DATA_B5a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link44', 'link57', 'link60', 'link69'],0.3016999999999999
-Flow,DATA_B5a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link45', 'link48', 'link61', 'link64', 'link71'],0.3024999999999999
-Flow,DATA_B7b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.30505
-Flow,DATA_B7b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.30505
-Flow,DATA_B7b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.306
-Flow,DATA_B7b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.306
-Flow,DATA_B6a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link49', 'link52', 'link65'],0.30870000000000003
-Flow,DATA_B6a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link37', 'link40', 'link53', 'link56', 'link67'],0.3095
-Flow,DATA_B6a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link41', 'link44', 'link57', 'link60', 'link69'],0.311
-Flow,DATA_B6a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link45', 'link48', 'link61', 'link64', 'link71'],0.31100000000000005
-Flow,DATA_B5a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.32160000000000005
-Flow,DATA_B8b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.3235
-Flow,DATA0_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],0.3235
-Flow,DATA0_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],0.3235
-Flow,DATA_B8b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.3235
-Flow,DATA_B5a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.3238
-Flow,DATA_B5a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.3238
-Flow,DATA_B5a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.32459999999999994
-Flow,DATA_B7a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link36', 'link49', 'link52', 'link65'],0.32495
-Flow,DATA_B7a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link37', 'link40', 'link53', 'link56', 'link67'],0.32495
-Flow,DATA_B8b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.32515000000000005
-Flow,DATA0_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],0.32515000000000005
-Flow,DATA_B7a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link36', 'link49', 'link52', 'link65'],0.3259
-Flow,DATA_B7a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link40', 'link53', 'link56', 'link67'],0.3259
-Flow,DATA_B8b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.32969999999999994
-Flow,DATA0_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],0.32969999999999994
-Flow,DATA_B6a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.3308000000000001
-Flow,DATA_B6a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.33160000000000006
-Flow,DATA_B6a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.33310000000000006
-Flow,DATA_B6a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.3331000000000001
-Flow,DATA_B5a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.3415000000000001
-Flow,DATA_B5a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.3437
-Flow,DATA_B8b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.3442
-Flow,DATA0_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],0.3442
-Flow,DATA_B5a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link42', 'link43', 'link58', 'link59', 'link70'],0.3445
-Flow,DATA_B8b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link46', 'link47', 'link62', 'link63', 'link72'],0.34485000000000005
-Flow,DATA0_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],0.34485000000000005
-Flow,DATA_B5a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.34518333333333334
-Flow,DATA_B8b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.34585000000000005
-Flow,DATA0_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],0.34585000000000005
-Flow,DATA_B7a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.34720000000000006
-Flow,DATA_B7a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.34765
-Flow,DATA_B7a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.3495000000000001
-Flow,DATA_B7a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.34995000000000004
-Flow,DATA_B8b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link42', 'link43', 'link58', 'link59', 'link70'],0.35039999999999993
-Flow,DATA0_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],0.35039999999999993
-Flow,DATA_B6a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.3515000000000001
-Flow,DATA_B6a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.35230000000000006
-Flow,DATA_B6a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.35380000000000006
-Flow,DATA_B6a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link39', 'link54', 'link55', 'link68'],0.3538000000000001
-Flow,DATA_B5a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.3664833333333334
-Flow,DATA_B5a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.36660000000000004
-Flow,DATA_B5a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.3671500000000001
-Flow,DATA_B7a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.36790000000000006
-Flow,DATA_B7a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.36835
-Flow,DATA_B8b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.36838333333333345
-Flow,DATA0_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],0.36838333333333345
-Flow,DATA_B8b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.3687833333333334
-Flow,DATA0_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],0.3687833333333334
-Flow,DATA_B8b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.36951666666666677
-Flow,DATA0_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],0.36951666666666677
-Flow,DATA_B7a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.3702000000000001
-Flow,DATA_B7a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.37065000000000003
-Flow,DATA_B8b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.3751000000000001
-Flow,DATA0_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],0.3751000000000001
-Flow,DATA_B6a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.3751000000000001
-Flow,DATA_B6a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.3752000000000001
-Flow,DATA_B5a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.3774000000000001
-Flow,DATA_B6a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.37970000000000015
-Flow,DATA_B6a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.37970000000000015
-Flow,DATA_B8a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link36', 'link49', 'link52', 'link65'],0.38908333333333345
-Flow,DATA0_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],0.38908333333333345
-Flow,DATA_B8a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link36', 'link49', 'link52', 'link65'],0.3894833333333334
-Flow,DATA0_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],0.3894833333333334
-Flow,DATA_B8a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link40', 'link53', 'link56', 'link67'],0.39021666666666677
-Flow,DATA0_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],0.39021666666666677
-Flow,DATA_B7a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.3908000000000001
-Flow,DATA_B7a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.3931000000000001
-Flow,DATA_B7a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.3931000000000001
-Flow,DATA_B7a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.39540000000000014
-Flow,DATA_B8a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link36', 'link49', 'link52', 'link65'],0.3958000000000001
-Flow,DATA0_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],0.3958000000000001
-Flow,DATA_B8a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.4119833333333335
-Flow,DATA_B8a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.4131166666666668
-Flow,DATA_B8a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.4142833333333335
-Flow,DATA_B8a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.4187000000000001
-Flow,DATA_B8a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.4326833333333335
-Flow,DATA_B8a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.4338166666666668
-Flow,DATA_B8a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.4349833333333335
-Flow,DATA_B8a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.4394000000000001
-Flow,DATA_B8a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.4555833333333335
-Flow,DATA_B8a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.45788333333333353
-Flow,DATA_B8a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.45788333333333353
-Flow,DATA_B8a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.46230000000000016
-Flow,DATA1_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],0.61125
-Flow,DATA1_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],0.6121666666666665
-Flow,DATA1_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],0.6126333333333334
-Flow,DATA1_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],0.6189499999999998
-Flow,DATA1_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],0.6359722222222224
-Flow,DATA1_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],0.637225
-Flow,DATA1_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],0.6390916666666668
-Flow,DATA1_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],0.6454944444444441
-Flow,DATA1_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],0.6560416666666667
-Flow,DATA1_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],0.6564083333333334
-Flow,DATA1_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],0.6581416666666667
-Flow,DATA1_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],0.6649583333333332
-Flow,DATA1_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],0.6728333333333334
-Flow,DATA1_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],0.6733333333333333
-Flow,DATA1_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],0.6739833333333335
-Flow,DATA1_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],0.6839666666666668
-Flow,DATA2_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],0.8924999999999998
-Flow,DATA2_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],0.8928666666666668
-Flow,DATA2_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],0.8974333333333329
-Flow,DATA2_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],0.9005666666666667
-Flow,DATA2_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],0.9173250000000001
-Flow,DATA2_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],0.9191916666666669
-Flow,DATA2_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],0.9242416666666665
-Flow,DATA2_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],0.9268472222222217
-Flow,DATA2_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],0.9365083333333334
-Flow,DATA2_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],0.9382416666666668
-Flow,DATA2_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],0.9445916666666665
-Flow,DATA2_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],0.945425
-Flow,DATA2_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],0.9535083333333334
-Flow,DATA2_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],0.9545583333333335
-Flow,DATA2_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],0.9628416666666666
-Flow,DATA2_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],0.9651916666666671
-Flow,DATA3_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],1.1727833333333333
-Flow,DATA3_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.1776166666666663
-Flow,DATA3_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.1804833333333333
-Flow,DATA3_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.1807500000000002
-Flow,DATA3_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],1.1992916666666669
-Flow,DATA3_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.2023749999999997
-Flow,DATA3_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.2069472222222217
-Flow,DATA3_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.2088138888888884
-Flow,DATA3_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.2183416666666667
-Flow,DATA3_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.2228583333333332
-Flow,DATA3_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.225525
-Flow,DATA3_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.2272583333333333
-Flow,DATA3_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],1.2341333333333335
-Flow,DATA3_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.2433666666666665
-Flow,DATA3_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.2447666666666672
-Flow,DATA3_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.245716666666667
-Flow,DATA4_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.4552999999999998
-Flow,DATA4_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.4607166666666667
-Flow,DATA4_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],1.4608833333333338
-Flow,DATA4_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.4628999999999999
-Flow,DATA4_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.4809333333333334
-Flow,DATA4_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],1.4870472222222217
-Flow,DATA4_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.4889138888888884
-Flow,DATA4_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.4903555555555548
-Flow,DATA4_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.5007
-Flow,DATA4_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.505625
-Flow,DATA4_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.5073583333333334
-Flow,DATA4_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.5095166666666666
-Flow,DATA4_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.51885
-Flow,DATA4_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.525341666666667
-Flow,DATA4_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],1.526191666666667
-Flow,DATA4_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.5293833333333338
-Flow,DATA5_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.7391999999999999
-Flow,DATA5_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],1.7409000000000001
-Flow,DATA5_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.741
-Flow,DATA5_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.7467
-Flow,DATA5_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.7657444444444441
-Flow,DATA5_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.7671472222222218
-Flow,DATA5_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],1.7690138888888884
-Flow,DATA5_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.7750666666666655
-Flow,DATA5_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.7852083333333333
-Flow,DATA5_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.785725
-Flow,DATA5_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.7874583333333334
-Flow,DATA5_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.793925
-Flow,DATA5_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.8042166666666668
-Flow,DATA5_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],1.805866666666667
-Flow,DATA5_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.8066166666666672
-Flow,DATA5_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.8146500000000008
+Flow,DATA_F1b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link39', 'link54', 'link55', 'link68'],0.0552
+Flow,DATA_F1b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link35', 'link50', 'link51', 'link66'],0.05750000000000001
+Flow,DATA_F1b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link43', 'link58', 'link59', 'link70'],0.059800000000000006
+Flow,DATA_F4a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.06090000000000001
+Flow,DATA_F4a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link57', 'link60', 'link69'],0.06100000000000001
+Flow,DATA_F4a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link36', 'link49', 'link52', 'link65'],0.061200000000000004
+Flow,DATA_F4a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link45', 'link48', 'link61', 'link64', 'link71'],0.061399999999999996
+Flow,DATA_F2a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.0638
+Flow,DATA_F2a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.0672
+Flow,DATA_F1b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.06949999999999999
+Flow,DATA_F2a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.0718
+Flow,DATA_F2a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.07569999999999999
+Flow,DATA_F2b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link34', 'link35', 'link50', 'link51', 'link66'],0.07669999999999999
+Flow,DATA_F1b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.07899999999999999
+Flow,DATA_F2b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link42', 'link43', 'link58', 'link59', 'link70'],0.08009999999999999
+Flow,DATA_F1b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.08239999999999999
+Flow,DATA_F2b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link42', 'link43', 'link58', 'link59', 'link70'],0.0847
+Flow,DATA_F1b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.087
+Flow,DATA_F2b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link34', 'link35', 'link50', 'link51', 'link66'],0.08859999999999998
+Flow,DATA_F4a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.09099999999999998
+Flow,DATA_F1b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.09189999999999998
+Flow,DATA_F3a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.09439999999999998
+Flow,DATA_F2b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.09669999999999998
+Flow,DATA_F4a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.09899999999999999
+Flow,DATA_F1b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.09989999999999999
+Flow,DATA_F1b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.10289999999999998
+Flow,DATA_F4b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link46', 'link47', 'link62', 'link63', 'link72'],0.10389999999999998
+Flow,DATA_F2b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.10619999999999997
+Flow,DATA_F3b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link35', 'link50', 'link51', 'link66'],0.10729999999999998
+Flow,DATA_F2b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.10959999999999998
+Flow,DATA_F4b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link42', 'link43', 'link58', 'link59', 'link70'],0.11189999999999999
+Flow,DATA_F3a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.11419999999999998
+Flow,DATA_F2b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.11819999999999997
+Flow,DATA_F2b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.11909999999999997
+Flow,DATA_F4b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.12159999999999997
+Flow,DATA_F4a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.12389999999999997
+Flow,DATA_F1b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.12619999999999998
+Flow,DATA_F3b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link38', 'link39', 'link54', 'link55', 'link68'],0.1271
+Flow,DATA_F3a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.1294
+Flow,DATA_F2b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link61', 'link64', 'link71'],0.13109999999999997
+Flow,DATA_F1b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.13339999999999996
+Flow,DATA_F5a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.13359999999999997
+Flow,DATA_F4b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link41', 'link44', 'link57', 'link60', 'link69'],0.13449999999999998
+Flow,DATA_B1b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.13479999999999998
+Flow,DATA_F4b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link34', 'link35', 'link50', 'link51', 'link66'],0.13679999999999998
+Flow,DATA_F1b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link36', 'link49', 'link52', 'link65'],0.13909999999999997
+Flow,DATA_F3b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.1414
+Flow,DATA_F3b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link39', 'link54', 'link55', 'link68'],0.14229999999999998
+Flow,DATA_F3b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.14539999999999997
+Flow,DATA_F6a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.14559999999999998
+Flow,DATA_F5a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link41', 'link44', 'link57', 'link60', 'link69'],0.14649999999999996
+Flow,DATA_F4b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.15109999999999998
+Flow,DATA_F2b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.15339999999999998
+Flow,DATA_F3b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.1543
+Flow,DATA_B1b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.15549999999999994
+Flow,DATA_F4b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.1566
+Flow,DATA_F7a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.1576
+Flow,DATA_F3b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link61', 'link64', 'link71'],0.15829999999999997
+Flow,DATA_F6a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.15849999999999997
+Flow,DATA_F2b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.16079999999999997
+Flow,DATA_F2b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.16309999999999997
+Flow,DATA_B1b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.16529999999999995
+Flow,DATA_F2b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link57', 'link60', 'link69'],0.16629999999999998
+Flow,DATA_F5a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.1686
+Flow,DATA_F4b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.17029999999999998
+Flow,DATA_F7a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.17049999999999998
+Flow,DATA_F4a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.17279999999999998
+Flow,DATA_F5a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.18059999999999998
+Flow,DATA_F6a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.1806
+Flow,DATA_F5a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.1823
+Flow,DATA_B4b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.18299999999999997
+Flow,DATA_F2b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.1848
+Flow,DATA_F4b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link39', 'link54', 'link55', 'link68'],0.18569999999999998
+Flow,DATA_F6a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.18799999999999997
+Flow,DATA_B1b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.18825999999999993
+Flow,DATA_F4b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.19029999999999997
+Flow,DATA_F3b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.19259999999999997
+Flow,DATA_F7a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.19260000000000002
+Flow,DATA_B2b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.19269999999999995
+Flow,DATA_F5b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link46', 'link47', 'link62', 'link63', 'link72'],0.19349999999999998
+Flow,DATA_F6a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link40', 'link53', 'link56', 'link67'],0.1943
+Flow,DATA_B2b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.19579999999999995
+Flow,DATA_F2b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.19999999999999998
+Flow,DATA_F6b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link38', 'link39', 'link54', 'link55', 'link68'],0.20144
+Flow,DATA_B4b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.20449999999999996
+Flow,DATA_F3b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.20549999999999996
+Flow,DATA_F7a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.2063
+Flow,DATA_F4b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.21009999999999995
+Flow,DATA_B2b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.21339999999999998
+Flow,DATA_F1b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.21574000000000002
+Flow,DATA_B2b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.21669999999999998
+Flow,DATA_B2b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link39', 'link54', 'link55', 'link68'],0.21809999999999993
+Flow,DATA_F5a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.22060000000000002
+Flow,DATA_F5a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.22209999999999996
+Flow,DATA_F4b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.22299999999999995
+Flow,DATA_B4b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.22299999999999995
+Flow,DATA_B2b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.23189999999999997
+Flow,DATA_B1b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.23229999999999992
+Flow,DATA_F6a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.23409999999999997
+Flow,DATA_B4b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.23469999999999996
+Flow,DATA_F5b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link34', 'link35', 'link50', 'link51', 'link66'],0.23510000000000003
+Flow,DATA_F5a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.23579999999999995
+Flow,DATA_F7a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.23809999999999995
+Flow,DATA_B2b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link42', 'link43', 'link58', 'link59', 'link70'],0.23819999999999997
+Flow,DATA_F3b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.24057499999999996
+Flow,DATA_B4b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.24527499999999994
+Flow,DATA_F7a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.24609999999999999
+Flow,DATA_F6a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.24699999999999997
+Flow,DATA_B1b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.24844
+Flow,DATA_B2b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.24987499999999993
+Flow,DATA_F5a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.25249999999999995
+Flow,DATA_F7b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link46', 'link47', 'link62', 'link63', 'link72'],0.2526749999999999
+Flow,DATA_B2b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.25339999999999996
+Flow,DATA_B1a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link45', 'link48', 'link61', 'link64', 'link71'],0.25379999999999997
+Flow,DATA_F5b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.2557749999999999
+Flow,DATA_B4a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link36', 'link49', 'link52', 'link65'],0.256225
+Flow,DATA_F7a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.25899999999999995
+Flow,DATA_F5b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link39', 'link54', 'link55', 'link68'],0.26539999999999997
+Flow,DATA_F8a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.2658
+Flow,DATA_B1b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link46', 'link47', 'link62', 'link63', 'link72'],0.26994
+Flow,DATA_F6a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.270525
+Flow,DATA_F5b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link49', 'link52', 'link65'],0.27109999999999995
+Flow,DATA_B2a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link45', 'link48', 'link61', 'link64', 'link71'],0.2713749999999999
+Flow,DATA_B3b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.27247499999999997
+Flow,DATA_F8a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link41', 'link44', 'link57', 'link60', 'link69'],0.27949999999999997
+Flow,DATA_B1a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.2804
+Flow,DATA_F7b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.2818
+Flow,DATA_B4a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.2827
+Flow,DATA_F6b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link46', 'link47', 'link62', 'link63', 'link72'],0.284225
+Flow,DATA_B1b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.293775
+Flow,DATA_B3b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link46', 'link47', 'link62', 'link63', 'link72'],0.293975
+Flow,DATA_B2a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.296275
+Flow,DATA_F7b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link61', 'link64', 'link71'],0.2971
+Flow,DATA_F5b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.300545
+Flow,DATA_B1a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.302925
+Flow,DATA_F6b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.30514500000000006
+Flow,DATA_B4a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link42', 'link43', 'link58', 'link59', 'link70'],0.305245
+Flow,DATA_F6a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.308275
+Flow,DATA_B2b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.30984500000000004
+Flow,DATA_F4b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.31484500000000004
+Flow,DATA_B1a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link45', 'link48', 'link61', 'link64', 'link71'],0.315375
+Flow,DATA_B2a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link46', 'link47', 'link62', 'link63', 'link72'],0.31777500000000003
+Flow,DATA_F6b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link36', 'link49', 'link52', 'link65'],0.31884500000000005
+Flow,DATA_F6b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link42', 'link43', 'link58', 'link59', 'link70'],0.32277500000000003
+Flow,DATA_F7b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.3266450000000001
+Flow,DATA_F8a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.327375
+Flow,DATA_B2a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link36', 'link49', 'link52', 'link65'],0.33134500000000006
+Flow,DATA_B5b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.33404500000000004
+Flow,DATA_F6b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.33707500000000007
+Flow,DATA_B4a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.3401450000000001
+Flow,DATA_F8a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.34187500000000004
+Flow,DATA_B4b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.34754500000000005
+Flow,DATA_F6b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.3513750000000001
+Flow,DATA_B1a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.3526450000000001
+Flow,DATA_B5b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.35474500000000003
+Flow,DATA_B7b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.3601450000000001
+Flow,DATA_B1b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.3647450000000001
+Flow,DATA_F6b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.3650750000000001
+Flow,DATA_B2b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.3688450000000001
+Flow,DATA_B4b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link42', 'link43', 'link58', 'link59', 'link70'],0.36904500000000007
+Flow,DATA_B6b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.3705750000000001
+Flow,DATA_F8a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.37174500000000016
+Flow,DATA_B1a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.3741450000000001
+Flow,DATA_F3b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.3761450000000001
+Flow,DATA_B1a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.37644500000000014
+Flow,DATA_B7b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.3808450000000001
+Flow,DATA_F8b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link42', 'link43', 'link58', 'link59', 'link70'],0.3846450000000002
+Flow,DATA_B1a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link45', 'link48', 'link61', 'link64', 'link71'],0.3851150000000001
+Flow,DATA_B2a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.3874150000000001
+Flow,DATA_B2a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link41', 'link44', 'link57', 'link60', 'link69'],0.3903450000000001
+Flow,DATA_B6b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.3920750000000001
+Flow,DATA_F8a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.3971150000000001
+Flow,DATA_F6b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.40171500000000016
+Flow,DATA_B4b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.40214500000000014
+Flow,DATA_B1a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.40641500000000014
+Flow,DATA_B3b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.40964500000000015
+Flow,DATA_F8b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.41141500000000014
+Flow,DATA_F8a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.4124150000000001
+Flow,DATA_B1a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.41337500000000016
+Flow,DATA_B6b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.4156750000000002
+Flow,DATA_B7b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.4234450000000002
+Flow,DATA_B4a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link45', 'link48', 'link61', 'link64', 'link71'],0.42364500000000016
+Flow,DATA_F8b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.42431500000000016
+Flow,DATA_B2a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.4277150000000002
+Flow,DATA_B3b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.4295450000000002
+Flow,DATA_B1a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.43407500000000016
+Flow,DATA_F5b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.43477500000000024
+Flow,DATA_B6b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.43589750000000016
+Flow,DATA_B4b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.4369750000000002
+Flow,DATA_B6a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link45', 'link48', 'link61', 'link64', 'link71'],0.4371750000000002
+Flow,DATA_F8a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.4394450000000002
+Flow,DATA_B5b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.4394750000000002
+Flow,DATA_B7a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link44', 'link57', 'link60', 'link69'],0.4441450000000002
+Flow,DATA_F5b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link45', 'link48', 'link61', 'link64', 'link71'],0.44847500000000023
+Flow,DATA_B2a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.45001500000000016
+Flow,DATA_B3b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.4523150000000002
+Flow,DATA_F8b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link39', 'link54', 'link55', 'link68'],0.4539450000000002
+Flow,DATA_B6b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.45659750000000016
+Flow,DATA_B4a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link44', 'link57', 'link60', 'link69'],0.4576750000000002
+Flow,DATA_B5a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link45', 'link48', 'link61', 'link64', 'link71'],0.4601750000000002
+Flow,DATA_F6b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.4643150000000002
+Flow,DATA_B6a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.4654450000000002
+Flow,DATA_B3a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link44', 'link57', 'link60', 'link69'],0.4730450000000002
+Flow,DATA_B7a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.47534500000000024
+Flow,DATA_F6b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link53', 'link56', 'link67'],0.4772150000000002
+Flow,DATA_B2a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.47897500000000026
+Flow,DATA_F5b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.47974500000000025
+Flow,DATA_B4a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.48147500000000026
+Flow,DATA_F8a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.48451166666666695
+Flow,DATA_B6a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.4869116666666669
+Flow,DATA_F8b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.48734500000000025
+Flow,DATA_B6b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.48921166666666693
+Flow,DATA_B7a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.49524500000000027
+Flow,DATA_F8b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link38', 'link39', 'link54', 'link55', 'link68'],0.49958666666666696
+Flow,DATA_B4a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.5013750000000002
+Flow,DATA_B3a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.505811666666667
+Flow,DATA_B6a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link44', 'link57', 'link60', 'link69'],0.509111666666667
+Flow,DATA_F8b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.5095450000000002
+Flow,DATA_B6a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.5114116666666669
+Flow,DATA_B5b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.5124450000000003
+Flow,DATA_B2b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.513711666666667
+Flow,DATA_F7a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.5156750000000002
+Flow,DATA_B8b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.5192450000000003
+Flow,DATA0_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],0.5192450000000003
+Flow,DATA_F8b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link60', 'link69'],0.5232450000000003
+Flow,DATA_B3a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link39', 'link54', 'link55', 'link68'],0.526511666666667
+Flow,DATA_F7b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link42', 'link43', 'link58', 'link59', 'link70'],0.5293750000000003
+Flow,DATA_B5b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.5323450000000003
+Flow,DATA_B2a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link41', 'link44', 'link57', 'link60', 'link69'],0.535211666666667
+Flow,DATA_B4a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.5405450000000003
+Flow,DATA_F8b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.540811666666667
+Flow,DATA_B8b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.5415450000000003
+Flow,DATA0_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],0.5415450000000003
+Flow,DATA_F8b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.5436750000000002
+Flow,DATA_B1a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.5445450000000003
+Flow,DATA_F6b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.5518116666666669
+Flow,DATA_B3a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.5536450000000003
+Flow,DATA_B5b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.556511666666667
+Flow,DATA_F8b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link60', 'link69'],0.5589750000000002
+Flow,DATA_F7b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.5612750000000002
+Flow,DATA_B2a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.5705750000000002
+Flow,DATA_B8b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.574311666666667
+Flow,DATA0_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],0.574311666666667
+Flow,DATA_F7b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link53', 'link56', 'link67'],0.5749750000000002
+Flow,DATA_B5a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link41', 'link44', 'link57', 'link60', 'link69'],0.576411666666667
+Flow,DATA_B8b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.5802750000000002
+Flow,DATA0_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],0.5802750000000002
+Flow,DATA_F5b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.5818750000000001
+Flow,DATA_B5a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.5842750000000002
+Flow,DATA_B6b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.5853116666666669
+Flow,DATA_B7a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.5865750000000002
+Flow,DATA_B6a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.5918750000000002
+Flow,DATA_B2a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.5920750000000001
+Flow,DATA_F5b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.5947750000000002
+Flow,DATA_B8b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.595511666666667
+Flow,DATA0_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],0.595511666666667
+Flow,DATA_B3b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.597811666666667
+Flow,DATA_B8a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link41', 'link44', 'link57', 'link60', 'link69'],0.6025750000000002
+Flow,DATA_F8b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.6025750000000002
+Flow,DATA0_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],0.6025750000000002
+Flow,DATA_B5a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link39', 'link54', 'link55', 'link68'],0.6049750000000003
+Flow,DATA_B6b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.6068116666666669
+Flow,DATA_B6a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link59', 'link70'],0.6117750000000002
+Flow,DATA_B2a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.616811666666667
+Flow,DATA_F7b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.6168750000000002
+Flow,DATA_B3a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link36', 'link49', 'link52', 'link65'],0.618511666666667
+Flow,DATA_B5a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.620811666666667
+Flow,DATA_B5a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.6281116666666668
+Flow,DATA_F5b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.6283750000000001
+Flow,DATA_B8a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.6304116666666668
+Flow,DATA_B6b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.6330750000000002
+Flow,DATA_B8b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6360750000000003
+Flow,DATA0_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],0.6360750000000003
+Flow,DATA_B5a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.641511666666667
+Flow,DATA_B3a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.643811666666667
+Flow,DATA_F3a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.6447116666666668
+Flow,DATA_B6a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.646111666666667
+Flow,DATA_B7b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.6506294444444446
+Flow,DATA_B8a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.6519116666666668
+Flow,DATA_F4b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.6520750000000003
+Flow,DATA_B8b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.6543750000000002
+Flow,DATA0_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],0.6543750000000002
+Flow,DATA_B6a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link37', 'link40', 'link53', 'link56', 'link67'],0.6553750000000002
+Flow,DATA_F3b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.655811666666667
+Flow,DATA_B8b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.6567750000000003
+Flow,DATA0_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],0.6567750000000003
+Flow,DATA_F3b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link39', 'link54', 'link55', 'link68'],0.6584116666666668
+Flow,DATA_B5b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.6610750000000002
+Flow,DATA_F5a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.6640750000000003
+Flow,DATA_B3a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link54', 'link55', 'link68'],0.6645116666666671
+Flow,DATA_F4b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link37', 'link40', 'link53', 'link56', 'link67'],0.6649750000000003
+Flow,DATA_B5a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.668311666666667
+Flow,DATA_B7b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.6713294444444446
+Flow,DATA_B8a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link36', 'link49', 'link52', 'link65'],0.6750750000000002
+Flow,DATA0_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],0.6750750000000002
+Flow,DATA_F6a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.6760750000000003
+Flow,DATA_F5a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.6769750000000003
+Flow,DATA_B6a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.6797116666666668
+Flow,DATA_B5b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.6817750000000002
+Flow,DATA_F3b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.6856294444444446
+Flow,DATA_B2a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6862750000000003
+Flow,DATA_F7a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.6880750000000003
+Flow,DATA_F6a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link37', 'link40', 'link53', 'link56', 'link67'],0.6889750000000003
+Flow,DATA_B3b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.689311666666667
+Flow,DATA_F4b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.6960750000000002
+Flow,DATA_B8a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.6982750000000003
+Flow,DATA_F3b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.6985294444444446
+Flow,DATA_B6a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.7004116666666669
+Flow,DATA_F7a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.7009750000000003
+Flow,DATA_B2a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.7069750000000004
+Flow,DATA_F5a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.707611666666667
+Flow,DATA_B3b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.710011666666667
+Flow,DATA_B8a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.712311666666667
+Flow,DATA_F6a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.7152750000000003
+Flow,DATA_F5b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link43', 'link58', 'link59', 'link70'],0.721311666666667
+Flow,DATA_B6a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.7245750000000003
+Flow,DATA_B4b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.7287750000000003
+Flow,DATA_F6b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link34', 'link35', 'link50', 'link51', 'link66'],0.7289750000000004
+Flow,DATA_F7a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.7312750000000003
+Flow,DATA_B2a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.731311666666667
+Flow,DATA_B8a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.7330116666666671
+Flow,DATA_B3b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.742611666666667
+Flow,DATA_F1b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.7432750000000004
+Flow,DATA_F7b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link43', 'link58', 'link59', 'link70'],0.7449750000000004
+Flow,DATA_B5b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.7458750000000003
+Flow,DATA_F6b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.747411666666667
+Flow,DATA_F3b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.749711666666667
+Flow,DATA_B4b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link54', 'link55', 'link68'],0.7509000000000003
+Flow,DATA_F5b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.7543116666666669
+Flow,DATA_B8a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.759011666666667
+Flow,DATA_F6b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.760311666666667
+Flow,DATA_B3a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link37', 'link40', 'link53', 'link56', 'link67'],0.764111666666667
+Flow,DATA_B5a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link36', 'link49', 'link52', 'link65'],0.767411666666667
+Flow,DATA_F5b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link37', 'link40', 'link53', 'link56', 'link67'],0.768011666666667
+Flow,DATA_B4a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.772711666666667
+Flow,DATA_F7b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.775011666666667
+Flow,DATA_B1b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.7759750000000004
+Flow,DATA_B7b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.777311666666667
+Flow,DATA_F6b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.778411666666667
+Flow,DATA_B3b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.7824116666666671
+Flow,DATA_F7b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.788711666666667
+Flow,DATA_B3a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.789311666666667
+Flow,DATA_B5a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.7916116666666669
+Flow,DATA_B4a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.7934116666666671
+Flow,DATA_B1b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.797511666666667
+Flow,DATA_B7a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link36', 'link49', 'link52', 'link65'],0.798011666666667
+Flow,DATA_F5b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.799211666666667
+Flow,DATA_B8b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.801411666666667
+Flow,DATA0_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],0.801411666666667
+Flow,DATA_B3a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.803711666666667
+Flow,DATA_B3b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.803911666666667
+Flow,DATA_F7b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.807711666666667
+Flow,DATA_B3a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link39', 'link54', 'link55', 'link68'],0.810011666666667
+Flow,DATA_B6b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.811111666666667
+Flow,DATA_B5a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.812311666666667
+Flow,DATA_F7a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.822011666666667
+Flow,DATA_B8a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link36', 'link49', 'link52', 'link65'],0.822111666666667
+Flow,DATA0_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],0.822111666666667
+Flow,DATA_B4a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.8267116666666671
+Flow,DATA_B6b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.8318116666666671
+Flow,DATA_B5b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.832711666666667
+Flow,DATA_B3b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.834111666666667
+Flow,DATA_F7b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link35', 'link50', 'link51', 'link66'],0.8357116666666671
+Flow,DATA_B1b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.836411666666667
+Flow,DATA_B5a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.838711666666667
+Flow,DATA_B3a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.8410116666666669
+Flow,DATA_B7b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.842011666666667
+Flow,DATA_B8a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.845011666666667
+Flow,DATA_B4b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.8497116666666671
+Flow,DATA_B5b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.853411666666667
+Flow,DATA_B3a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link49', 'link52', 'link65'],0.8548116666666671
+Flow,DATA_B1a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link49', 'link52', 'link65'],0.857111666666667
+Flow,DATA_B7b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.8627116666666671
+Flow,DATA_B8a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.8657116666666671
+Flow,DATA_B6b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.8680116666666671
+Flow,DATA_F7b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.8691116666666671
+Flow,DATA_F8a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.8691116666666671
+Flow,DATA_B4a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link49', 'link52', 'link65'],0.8704116666666671
+Flow,DATA_B5b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.878411666666667
+Flow,DATA_B3a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.880711666666667
+Flow,DATA_F7b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link52', 'link65'],0.8828116666666671
+Flow,DATA_F8a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.8829116666666671
+Flow,DATA_B1a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.8840116666666671
+Flow,DATA_B7b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.8870116666666671
+Flow,DATA_B6a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link40', 'link53', 'link56', 'link67'],0.8887116666666671
+Flow,DATA_B8a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.8922116666666671
+Flow,DATA_B4a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.894511666666667
+Flow,DATA_B7a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.896811666666667
+Flow,DATA_B5a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link49', 'link52', 'link65'],0.8991116666666671
+Flow,DATA1_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],0.9000950000000004
+Flow,DATA_B3a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.901411666666667
+Flow,DATA_F8a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.9030116666666671
+Flow,DATA1_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],0.9038461111111116
+Flow,DATA_B1a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.905511666666667
+Flow,DATA1_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],0.9058100000000004
+Flow,DATA_B7a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link49', 'link52', 'link65'],0.9077116666666671
+Flow,DATA_B4a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.9152116666666671
+Flow,DATA_B7a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link51', 'link66'],0.9175116666666671
+Flow,DATA_F8b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link39', 'link54', 'link55', 'link68'],0.9184120833333338
+Flow,DATA_F7b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.9220116666666671
+Flow,DATA_B3a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9313116666666671
+Flow,DATA_B5a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.9336116666666671
+Flow,DATA_B7a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.9365116666666671
+Flow,DATA_F8b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.9372116666666671
+Flow,DATA_B1a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9397120833333338
+Flow,DATA_B7a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9465116666666671
+Flow,DATA_B4a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.948811666666667
+Flow,DATA_F8b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link49', 'link52', 'link65'],0.9509116666666672
+Flow,DATA_B7b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.9539116666666672
+Flow,DATA_B5a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.9543116666666671
+Flow,DATA_B7a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.9572116666666671
+Flow,DATA_B6a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.9627120833333338
+Flow,DATA1_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],0.9685462037037038
+Flow,DATA_F8b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.9715116666666671
+Flow,DATA_B7b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],0.9746116666666672
+Flow,DATA_B5a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9808116666666671
+Flow,DATA_B6a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],0.9834120833333339
+Flow,DATA_B7a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9857120833333338
+Flow,DATA_B7b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.9967116666666672
+Flow,DATA1_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.0012553472222232
+Flow,DATA_B8b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],1.005011666666667
+Flow,DATA0_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.005011666666667
+Flow,DATA1_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.0053327777777779
+Flow,DATA_B6a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.0087120833333338
+Flow,DATA_B7a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link36', 'link49', 'link52', 'link65'],1.0174116666666673
+Flow,DATA1_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.022746481481482
+Flow,DATA_B8b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],1.026511666666667
+Flow,DATA0_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.026511666666667
+Flow,DATA1_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.0409337962962966
+Flow,DATA_B7a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],1.041111666666667
+Flow,DATA_B8b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.0502116666666668
+Flow,DATA0_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.0502116666666668
+Flow,DATA_B7a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link51', 'link66'],1.062611666666667
+Flow,DATA1_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.0671596296296295
+Flow,DATA_B8a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link49', 'link52', 'link65'],1.0709116666666667
+Flow,DATA0_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.0709116666666667
+Flow,DATA_B7a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.0855116666666669
+Flow,DATA_B8a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],1.0938116666666666
+Flow,DATA_B8a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link50', 'link51', 'link66'],1.1153116666666665
+Flow,DATA1_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.118611458333334
+Flow,DATA_B8a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.1399114583333338
+Flow,DATA1_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.1763705555555548
+Flow,DATA2_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.2436665972222232
+Flow,DATA2_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.2486462037037038
+Flow,DATA2_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.2672695370370375
+Flow,DATA1_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.2839577083333342
+Flow,DATA2_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.302846481481482
+Flow,DATA2_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.3183327777777778
+Flow,DATA1_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.3838656249999997
+Flow,DATA2_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.4288163888888883
+Flow,DATA3_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.5287462037037038
+Flow,DATA2_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.5499772685185194
+Flow,DATA1_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.5889118749999995
+Flow,DATA2_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.5945083333333319
+Flow,DATA3_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.628142962962963
+Flow,DATA1_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.6606870216049396
+Flow,DATA2_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.6639656249999997
+Flow,DATA2_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.6731150000000017
+Flow,DATA2_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.6779460648148146
+Flow,DATA2_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.6992784104938288
+Flow,DATA3_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.7065118750000008
+Flow,DATA3_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.7365205555555547
+Flow,DATA2_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.7828715895061755
+Flow,DATA1_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.794165547839507
+Flow,DATA3_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.9440656249999997
+Flow,DATA3_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.9580460648148146
+Flow,DATA3_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],2.0296204783950635
+Flow,DATA2_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.064808749999998
+Flow,DATA3_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],2.0815114583333334
+Flow,DATA3_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],2.084494405864198
+Flow,DATA3_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],2.091202777777779
+Flow,DATA4_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],2.1246970138888903
+Flow,DATA4_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],2.1509865972222233
+Flow,DATA4_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],2.174111666666667
+Flow,DATA4_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],2.193961666666667
+Flow,DATA3_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.2132006249999976
+Flow,DATA4_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],2.224165625
+Flow,DATA4_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],2.238146064814815
+Flow,DATA2_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],2.2576327957818947
+Flow,DATA3_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],2.3734319624485622
+Flow,DATA3_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],2.4765168749999984
+Flow,DATA5_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],2.504265625
+Flow,DATA5_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],2.518246064814815
+Flow,DATA4_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],2.5713340624999996
+Flow,DATA3_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],2.6019426054526824
+Flow,DATA4_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],2.624958749999998
+Flow,DATA2_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],2.635849480452677
+Flow,DATA4_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.6577157638888895
+Flow,DATA3_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],2.7019336291152274
+Flow,DATA5_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.7091452083333336
+Flow,DATA5_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],2.7565678125000006
+Flow,DATA4_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],2.758681291152265
+Flow,DATA5_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],2.7808953549382736
+Flow,DATA4_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],2.871337744341567
+Flow,DATA4_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],2.888174999999999
+Flow,DATA5_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],2.903079922839509
+Flow,DATA4_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],2.92467877314815
+Flow,DATA5_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],2.946200312499999
+Flow,DATA5_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],3.0366668749999985
+Flow,DATA4_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],3.039288485082305
+Flow,DATA5_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],3.1663863194444457
+Flow,DATA5_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],3.2620836291152275
+Flow,DATA5_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],3.299783125
+Flow,DATA5_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],3.3667090972222242
+Flow,DATA4_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],3.374252990397828
+Flow,DATA5_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],3.3765933410493827
+Flow,DATA3_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],3.475998615397812
+Flow,DATA5_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],3.7115202126200355
+Flow,DATA5_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],3.8931009417867486
+Flow,DATA4_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],4.096625525120049
+Flow,DATA5_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],4.453250941786748

@@ -2,543 +2,543 @@ Flow,DATA_F1a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.012
 Flow,DATA_F1a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.012
 Flow,DATA_F1a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.012
 Flow,DATA_F1a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.012
-Flow,DATA_F2a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.024
+Flow,DATA_F2a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.024
 Flow,DATA_F2a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.024
 Flow,DATA_F2a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.024
-Flow,DATA_F2a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.024
-Flow,DATA_F1a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link36', 'link37', 'link52', 'link53', 'link67'],0.0249
-Flow,DATA_F1a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link40', 'link52', 'link61', 'link65'],0.0249
-Flow,DATA_F1a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link36', 'link37', 'link49', 'link56', 'link65'],0.0249
-Flow,DATA_F1a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link36', 'link41', 'link56', 'link57', 'link67'],0.0249
+Flow,DATA_F2a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.024
+Flow,DATA_F1a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link40', 'link41', 'link56', 'link57', 'link67'],0.0249
+Flow,DATA_F1a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link48', 'link53', 'link56', 'link65'],0.025
+Flow,DATA_F1a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link49', 'link60', 'link67'],0.025099999999999997
+Flow,DATA_F1a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link40', 'link45', 'link60', 'link61', 'link65'],0.0252
 Flow,DATA_F3a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.036000000000000004
-Flow,DATA_F3a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.036000000000000004
 Flow,DATA_F3a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.036000000000000004
 Flow,DATA_F3a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.036000000000000004
-Flow,DATA_F2a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link40', 'link41', 'link49', 'link64', 'link65'],0.0369
-Flow,DATA_F2a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link60', 'link61', 'link67'],0.0369
-Flow,DATA_F2a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link48', 'link52', 'link57', 'link67'],0.0369
-Flow,DATA_F2a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link48', 'link52', 'link57', 'link65'],0.0369
+Flow,DATA_F3a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.036000000000000004
+Flow,DATA_F2a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link40', 'link49', 'link56', 'link67'],0.0369
+Flow,DATA_F2a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link48', 'link52', 'link61', 'link67'],0.037
+Flow,DATA_F2a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link45', 'link48', 'link52', 'link53', 'link65'],0.0372
+Flow,DATA_F2a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link36', 'link37', 'link53', 'link60', 'link67'],0.0373
 Flow,DATA_F4a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.048
-Flow,DATA_F4a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.048
 Flow,DATA_F4a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.048
+Flow,DATA_F4a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.048
 Flow,DATA_F4a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.048
-Flow,DATA_F3a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link44', 'link53', 'link56', 'link65'],0.04890000000000001
-Flow,DATA_F3a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link40', 'link41', 'link49', 'link52', 'link65'],0.04890000000000001
-Flow,DATA_F3a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link40', 'link60', 'link61', 'link67'],0.04890000000000001
-Flow,DATA_F3a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link40', 'link57', 'link64', 'link65'],0.04890000000000001
-Flow,DATA_F4a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link56', 'link57', 'link67'],0.06090000000000001
-Flow,DATA_F4a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link36', 'link37', 'link49', 'link56', 'link67'],0.06090000000000001
-Flow,DATA_F4a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link36', 'link45', 'link56', 'link61', 'link65'],0.06090000000000001
-Flow,DATA_F4a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link40', 'link52', 'link53', 'link67'],0.06090000000000001
-Flow,DATA_F1a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.11199999999999996
-Flow,DATA_F1a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.11429999999999996
-Flow,DATA_F1a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.11748571428571425
-Flow,DATA_F1a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.11978571428571425
-Flow,DATA_F1b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link35', 'link42', 'link54', 'link59', 'link68'],0.12489999999999996
-Flow,DATA_F1b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link34', 'link47', 'link51', 'link58', 'link66'],0.12719999999999995
-Flow,DATA_F1b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link39', 'link42', 'link59', 'link62', 'link66'],0.13038571428571424
-Flow,DATA_F1b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link43', 'link50', 'link63', 'link68'],0.13268571428571424
-Flow,DATA_F2a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.1489035714285714
-Flow,DATA_F2a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.1512035714285714
-Flow,DATA_F2a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.1543892857142857
-Flow,DATA_F2a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.1566892857142857
-Flow,DATA_F2b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link39', 'link50', 'link55', 'link66'],0.1618035714285714
-Flow,DATA_F3a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.16213023809523808
-Flow,DATA_F1b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.16341428571428568
-Flow,DATA_F2b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link39', 'link42', 'link50', 'link59', 'link68'],0.1641035714285714
-Flow,DATA_F2b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link47', 'link62', 'link63', 'link68'],0.1672892857142857
-Flow,DATA_F3a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.16761595238095237
-Flow,DATA_F2b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link43', 'link59', 'link62', 'link68'],0.1695892857142857
-Flow,DATA_F4a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.16990523809523808
-Flow,DATA_F1b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.17031428571428567
-Flow,DATA_F3a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.17220523809523808
-Flow,DATA_F1b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.17234999999999998
-Flow,DATA_F3a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.17450523809523807
-Flow,DATA_F3b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link38', 'link47', 'link50', 'link63', 'link66'],0.17503023809523807
-Flow,DATA_F1b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.17610357142857141
-Flow,DATA_F1b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link45', 'link48', 'link56', 'link61', 'link67'],0.17631428571428567
-Flow,DATA_F4a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.17680523809523807
-Flow,DATA_F4a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.17910523809523807
-Flow,DATA_F4a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.17910523809523807
-Flow,DATA_F3b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link34', 'link47', 'link51', 'link54', 'link66'],0.18051595238095236
-Flow,DATA_F4b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link43', 'link55', 'link62', 'link66'],0.18280523809523808
-Flow,DATA_F1b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link36', 'link37', 'link61', 'link64', 'link67'],0.18321428571428566
-Flow,DATA_F3b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link35', 'link42', 'link50', 'link51', 'link66'],0.18510523809523807
-Flow,DATA_F1b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link52', 'link61', 'link67'],0.18524999999999997
-Flow,DATA_F3b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link43', 'link51', 'link62', 'link68'],0.18740523809523807
-Flow,DATA_F1b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link52', 'link61', 'link65'],0.1890035714285714
-Flow,DATA_F4b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link39', 'link62', 'link63', 'link68'],0.18970523809523807
-Flow,DATA_F4b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link34', 'link35', 'link50', 'link55', 'link68'],0.19200523809523806
-Flow,DATA_F4b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link39', 'link42', 'link51', 'link62', 'link66'],0.19200523809523806
-Flow,DATA_F2b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.19940523809523808
-Flow,DATA_F2b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link48', 'link61', 'link64', 'link67'],0.21230523809523807
-Flow,DATA_F1b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.2193035714285714
-Flow,DATA_F1b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.22379642857142854
-Flow,DATA_F2b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.23444904761904758
-Flow,DATA_F1b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.24424202380952376
-Flow,DATA_F1b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.24704440476190473
-Flow,DATA_F2b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link44', 'link45', 'link52', 'link57', 'link67'],0.24734904761904758
-Flow,DATA_F2b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.25076095238095236
-Flow,DATA_B1b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.2512035714285714
-Flow,DATA_B1b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.25569642857142855
-Flow,DATA_F2b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.25582095238095237
-Flow,DATA_F2b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.257297619047619
-Flow,DATA_F3b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.25812095238095234
-Flow,DATA_F2b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link37', 'link40', 'link53', 'link64', 'link65'],0.2636609523809524
-Flow,DATA_F2b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link52', 'link61', 'link65'],0.2687209523809524
-Flow,DATA_F3b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.269336
-Flow,DATA_F3b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link44', 'link53', 'link56', 'link67'],0.27102095238095236
-Flow,DATA_F4b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.27220028571428573
-Flow,DATA_B1b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link47', 'link55', 'link62', 'link66'],0.27270357142857143
-Flow,DATA_F3b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.27450028571428575
-Flow,DATA_F4b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.2759369047619048
-Flow,DATA_B1b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.27614202380952374
-Flow,DATA_B1b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link47', 'link50', 'link55', 'link66'],0.27639642857142854
-Flow,DATA_F2b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.27764904761904763
-Flow,DATA_F3b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.2782369047619048
-Flow,DATA_B1b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.27894440476190474
-Flow,DATA_F4b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.28053690476190485
-Flow,DATA_F4b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.28053690476190485
-Flow,DATA_F3b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link44', 'link45', 'link53', 'link56', 'link65'],0.28223600000000004
-Flow,DATA_F5a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.28420028571428574
-Flow,DATA_F4b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link40', 'link49', 'link60', 'link67'],0.28510028571428575
-Flow,DATA_F3b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link40', 'link41', 'link52', 'link61', 'link65'],0.2874002857142858
-Flow,DATA_F5a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.2879369047619048
-Flow,DATA_F4b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link52', 'link61', 'link65'],0.2888369047619048
-Flow,DATA_B2b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.28919761904761904
-Flow,DATA_F3b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link49', 'link52', 'link67'],0.29113690476190485
-Flow,DATA_F5a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.29253690476190486
-Flow,DATA_F5a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.29253690476190486
-Flow,DATA_F4b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link53', 'link60', 'link67'],0.29423690476190484
-Flow,DATA_F4b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link40', 'link56', 'link57', 'link65'],0.29423690476190484
-Flow,DATA_F6a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.29620028571428575
-Flow,DATA_B1b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link35', 'link46', 'link62', 'link63', 'link68'],0.29684202380952374
-Flow,DATA_F5a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link48', 'link52', 'link57', 'link67'],0.29710028571428576
-Flow,DATA_B1b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link47', 'link59', 'link62', 'link66'],0.29884440476190477
-Flow,DATA_F6a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.2999369047619048
-Flow,DATA_F5a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link53', 'link56', 'link65'],0.30083690476190483
-Flow,DATA_F6a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.30453690476190487
-Flow,DATA_F6a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.30453690476190487
-Flow,DATA_F3b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.3054369047619049
-Flow,DATA_F5a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link40', 'link52', 'link57', 'link67'],0.30623690476190485
-Flow,DATA_F5a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link45', 'link48', 'link56', 'link61', 'link67'],0.30623690476190485
-Flow,DATA_F7a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.30820028571428576
-Flow,DATA_F6a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link57', 'link64', 'link65'],0.30910028571428577
-Flow,DATA_B2b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.31034904761904764
-Flow,DATA_B2b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link39', 'link46', 'link51', 'link54', 'link66'],0.31069761904761906
-Flow,DATA_F7a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.31193690476190483
-Flow,DATA_F6a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link40', 'link49', 'link52', 'link67'],0.3136369047619048
-Flow,DATA_F2b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.31513690476190487
-Flow,DATA_F7a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.3165369047619049
-Flow,DATA_F7a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.3165369047619049
-Flow,DATA_F6a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link48', 'link56', 'link61', 'link65'],0.3174369047619049
-Flow,DATA_F6a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link56', 'link57', 'link65'],0.31823690476190486
-Flow,DATA_F7a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link40', 'link41', 'link57', 'link60', 'link65'],0.32190028571428575
-Flow,DATA_B1b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.32339386904761913
-Flow,DATA_F7a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link52', 'link61', 'link65'],0.3256369047619048
-Flow,DATA_F7a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link44', 'link49', 'link60', 'link65'],0.3294369047619049
-Flow,DATA_F7a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link49', 'link60', 'link65'],0.3294369047619049
-Flow,DATA_B1b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.3319976190476191
-Flow,DATA_B2b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link46', 'link47', 'link51', 'link58', 'link68'],0.3326490476190476
-Flow,DATA_B3b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.3381369047619049
-Flow,DATA_B1b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.3381369047619049
-Flow,DATA_B1a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link36', 'link41', 'link52', 'link57', 'link67'],0.34649386904761914
-Flow,DATA_B2b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.3478369047619049
-Flow,DATA_B1b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.35476089285714296
-Flow,DATA_B1a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link40', 'link53', 'link56', 'link65'],0.35589761904761913
-Flow,DATA_F8a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.35849386904761915
-Flow,DATA_F2b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.3607938690476192
-Flow,DATA_B2b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.3609125892857144
-Flow,DATA_B1a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link36', 'link41', 'link49', 'link56', 'link67'],0.3620369047619049
-Flow,DATA_B3b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link43', 'link46', 'link51', 'link58', 'link68'],0.3620369047619049
-Flow,DATA_F8a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.36789761904761914
-Flow,DATA_B2b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.3699490476190477
-Flow,DATA_B2b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link39', 'link54', 'link59', 'link66'],0.3717369047619049
-Flow,DATA_F8a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link44', 'link49', 'link56', 'link67'],0.37219386904761914
-Flow,DATA_F8a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.37403690476190493
-Flow,DATA_B1a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link36', 'link37', 'link61', 'link64', 'link67'],0.378660892857143
-Flow,DATA_F8a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link44', 'link53', 'link56', 'link65'],0.38159761904761913
-Flow,DATA_F4b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.382693999787415
-Flow,DATA_B2a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link45', 'link48', 'link49', 'link64', 'link65'],0.38481258928571443
-Flow,DATA_F8a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link44', 'link49', 'link52', 'link67'],0.3877369047619049
-Flow,DATA_F8a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.390660892857143
-Flow,DATA_B2b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.3934938690476192
-Flow,DATA_B2a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link36', 'link41', 'link52', 'link61', 'link65'],0.3942749107142858
-Flow,DATA_B3b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.399336904761905
-Flow,DATA_F8a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link36', 'link41', 'link60', 'link61', 'link67'],0.405160892857143
-Flow,DATA_B2b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.40903690476190496
-Flow,DATA_F3b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.4124771248730397
-Flow,DATA_B4b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.415393999787415
-Flow,DATA_B2b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link43', 'link54', 'link55', 'link66'],0.4173938690476192
-Flow,DATA_B3a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link40', 'link49', 'link56', 'link67'],0.423236904761905
-Flow,DATA_F4b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.4248420814079626
-Flow,DATA_B2a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link40', 'link52', 'link61', 'link67'],0.432936904761905
-Flow,DATA_F5a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.43459577549165657
-Flow,DATA_B4b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link54', 'link55', 'link68'],0.439293999787415
-Flow,DATA_B3b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.44517712487303973
-Flow,DATA_F5b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link46', 'link47', 'link54', 'link55', 'link68'],0.4490957754916566
-Flow,DATA_B2b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.45469386904761927
-Flow,DATA_F3b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.457878629114404
-Flow,DATA_B4b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.4583420814079626
-Flow,DATA_F5a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.46017862911440405
-Flow,DATA_F5a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.46247862911440407
-Flow,DATA_B3b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link42', 'link43', 'link55', 'link58', 'link66'],0.46907712487303976
-Flow,DATA_F6a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.47045439095834474
-Flow,DATA_F5b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link35', 'link46', 'link55', 'link62', 'link66'],0.47467862911440406
-Flow,DATA_F5b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link46', 'link47', 'link58', 'link63', 'link68'],0.4769786291144041
-Flow,DATA_B2a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link41', 'link44', 'link60', 'link61', 'link65'],0.4777938690476193
-Flow,DATA_B4b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link43', 'link58', 'link59', 'link66'],0.4806420814079626
-Flow,DATA_B4b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.48279222408317346
-Flow,DATA_F3b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.4838438076858327
-Flow,DATA_F6b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link35', 'link46', 'link59', 'link62', 'link68'],0.48495439095834475
-Flow,DATA_F5b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.4889786291144041
-Flow,DATA_F4b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.4890253076858327
-Flow,DATA_B3b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.49137862911440405
-Flow,DATA_F5b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link40', 'link41', 'link53', 'link56', 'link65'],0.5034786291144041
-Flow,DATA_F4b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.5040861875810798
-Flow,DATA_B4a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link40', 'link45', 'link56', 'link57', 'link67'],0.5050922240831734
-Flow,DATA_B3b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link39', 'link62', 'link63', 'link68'],0.513678629114404
-Flow,DATA_B1a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.515260762840431
-Flow,DATA_F5b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.5153028672704634
-Flow,DATA_B3b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.5173438076858327
-Flow,DATA_F5a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.5193922240831734
-Flow,DATA_B4b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.5225253076858327
-Flow,DATA_F6b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.524428629114404
-Flow,DATA_B3b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.5246028672704633
-Flow,DATA_F5b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.529298891068571
-Flow,DATA_B1a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.529542161234325
-Flow,DATA_F5b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link44', 'link45', 'link52', 'link53', 'link65'],0.5298028672704633
-Flow,DATA_F8a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.5328607628404309
-Flow,DATA_F5b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link46', 'link47', 'link54', 'link55', 'link66'],0.5330922240831735
-Flow,DATA_B1a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link43', 'link58', 'link59', 'link68'],0.537560762840431
-Flow,DATA_F6a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.53809889501323
-Flow,DATA_F6b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link56', 'link57', 'link65'],0.5381286291144041
-Flow,DATA_B4b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.5383861875810798
-Flow,DATA_B4b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.5404306172153502
-Flow,DATA_B3b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link35', 'link46', 'link51', 'link62', 'link66'],0.5404438076858327
-Flow,DATA_F8a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.5414028672704633
-Flow,DATA_B1a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.5427988950132301
-Flow,DATA_B4b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link39', 'link46', 'link51', 'link54', 'link66'],0.5440253076858327
-Flow,DATA_F5b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link44', 'link45', 'link57', 'link64', 'link67'],0.544598891068571
-Flow,DATA_B3a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link36', 'link41', 'link49', 'link64', 'link65'],0.5461028672704633
-Flow,DATA_F8b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link35', 'link38', 'link58', 'link59', 'link68'],0.546560762840431
-Flow,DATA_F8a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.5478230754000294
-Flow,DATA_B1a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link47', 'link54', 'link55', 'link68'],0.550242161234325
-Flow,DATA_B3b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.550978629114404
-Flow,DATA_F6a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.552428629114404
-Flow,DATA_F6b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link34', 'link47', 'link50', 'link51', 'link68'],0.55259889501323
-Flow,DATA_F8b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link43', 'link46', 'link50', 'link59', 'link68'],0.5551028672704633
-Flow,DATA_F7a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.5604028672704633
-Flow,DATA_B4b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link39', 'link42', 'link54', 'link63', 'link66'],0.5606861875810798
-Flow,DATA_B3a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.561728629114404
-Flow,DATA_B4a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link36', 'link52', 'link57', 'link67'],0.5619306172153502
-Flow,DATA_F8b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link43', 'link59', 'link62', 'link66'],0.5623230754000293
-Flow,DATA_F6a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.5627028672704633
-Flow,DATA_B1a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link39', 'link46', 'link50', 'link63', 'link68'],0.56429889501323
-Flow,DATA_F7a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.5650028672704632
-Flow,DATA_F6b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link34', 'link47', 'link62', 'link63', 'link68'],0.5661286291144041
-Flow,DATA_F7a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.5673028672704632
-Flow,DATA_F7a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.5696028672704632
-Flow,DATA_B2a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.5697028672704633
-Flow,DATA_B3a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link36', 'link45', 'link53', 'link56', 'link67'],0.572478629114404
-Flow,DATA_F7b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link47', 'link55', 'link62', 'link66'],0.5749028672704632
-Flow,DATA_F6b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link39', 'link51', 'link58', 'link66'],0.5772028672704632
-Flow,DATA_F7b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link39', 'link42', 'link51', 'link58', 'link66'],0.5795028672704632
-Flow,DATA_F5b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.5810971644543012
-Flow,DATA_F7b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link38', 'link43', 'link54', 'link59', 'link68'],0.5818028672704632
-Flow,DATA_B3a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link35', 'link38', 'link55', 'link62', 'link66'],0.583228629114404
-Flow,DATA_F7b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link42', 'link43', 'link51', 'link62', 'link68'],0.5841028672704631
-Flow,DATA_B4a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.5842028672704632
-Flow,DATA_B2a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link35', 'link42', 'link55', 'link62', 'link68'],0.5904028672704633
-Flow,DATA_B1a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.5937786291144039
-Flow,DATA_F5b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link48', 'link49', 'link56', 'link67'],0.5955971644543011
-Flow,DATA_F5b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.5976471351741571
-Flow,DATA_B1a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.6008028672704632
-Flow,DATA_F8a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.6027431895607936
-Flow,DATA_B4a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link35', 'link46', 'link50', 'link63', 'link66'],0.6065028672704632
-Flow,DATA_B2a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.6120431895607936
-Flow,DATA_B1a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link43', 'link54', 'link55', 'link66'],0.6152786291144039
-Flow,DATA_B2a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6168971644543011
-Flow,DATA_F8b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link43', 'link54', 'link63', 'link68'],0.6172431895607936
-Flow,DATA_B4a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6226177216533079
-Flow,DATA_B5b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.6311471351741571
-Flow,DATA_B3a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6328416502006572
-Flow,DATA_B2a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link47', 'link58', 'link63', 'link66'],0.6343431895607936
-Flow,DATA_B3b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.6383807136590006
-Flow,DATA_F5b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.638601496794737
-Flow,DATA_B2a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link43', 'link46', 'link50', 'link59', 'link66'],0.6391971644543011
-Flow,DATA_B2a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.643301496794737
-Flow,DATA_F5b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.644350383001364
-Flow,DATA_B4a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link51', 'link58', 'link68'],0.6449177216533079
-Flow,DATA_F5b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.6510069276197623
-Flow,DATA_F6b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.6533069276197623
-Flow,DATA_B5b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link39', 'link46', 'link58', 'link59', 'link66'],0.6534471351741571
-Flow,DATA_B3a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link58', 'link63', 'link66'],0.6551416502006572
-Flow,DATA_B4b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.6556431895607936
-Flow,DATA_B3a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link36', 'link57', 'link60', 'link65'],0.6606807136590006
-Flow,DATA_B3a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.6626069276197623
-Flow,DATA_B2a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link43', 'link50', 'link59', 'link66'],0.665601496794737
-Flow,DATA_B5b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.672101496794737
-Flow,DATA_F8b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.675702420992568
-Flow,DATA_B4a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link48', 'link53', 'link60', 'link67'],0.6771431895607936
-Flow,DATA_B5b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.678650383001364
-Flow,DATA_B3a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link46', 'link47', 'link51', 'link54', 'link66'],0.6841069276197622
-Flow,DATA_B5b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6845069276197623
-Flow,DATA_B6b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.6868069276197623
-Flow,DATA_F8b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link44', 'link57', 'link64', 'link67'],0.691002420992568
-Flow,DATA_B5b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link35', 'link46', 'link51', 'link62', 'link68'],0.6936014967947369
-Flow,DATA_B3a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.6984431895607935
-Flow,DATA_B5b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link42', 'link47', 'link59', 'link62', 'link66'],0.700950383001364
-Flow,DATA_B1a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.701318503871129
-Flow,DATA_F6b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.7016187052078441
-Flow,DATA_B5b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link47', 'link54', 'link63', 'link66'],0.7060069276197622
-Flow,DATA_F8b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.7079014967947369
-Flow,DATA_B6b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link50', 'link55', 'link68'],0.7083069276197622
-Flow,DATA_B4a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.7165839581290191
-Flow,DATA_F6b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link36', 'link45', 'link49', 'link56', 'link65'],0.7177187052078441
-Flow,DATA_B3a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link46', 'link47', 'link55', 'link62', 'link66'],0.7199431895607935
-Flow,DATA_F8b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.7203069276197622
-Flow,DATA_B4b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.722250383001364
-Flow,DATA_F8b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link36', 'link41', 'link49', 'link64', 'link67'],0.7239001390884806
-Flow,DATA_F8b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.7245931895607935
-Flow,DATA_F6b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.7249069276197622
-Flow,DATA_B1a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.7296069276197622
-Flow,DATA_F8b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link48', 'link52', 'link61', 'link65'],0.7364069276197622
-Flow,DATA_B4a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link39', 'link46', 'link50', 'link59', 'link66'],0.7372839581290191
-Flow,DATA_F7b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.740553384573461
-Flow,DATA_F6b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link48', 'link57', 'link60', 'link65'],0.7410069276197622
-Flow,DATA_F7b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.742853384573461
-Flow,DATA_B4a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link44', 'link60', 'link61', 'link67'],0.744550383001364
-Flow,DATA_F6b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.7480187052078441
-Flow,DATA_B2a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.7541742179067944
-Flow,DATA_F8b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.7542001390884806
-Flow,DATA_F7b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link60', 'link61', 'link65'],0.756653384573461
-Flow,DATA_F7b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link45', 'link48', 'link57', 'link64', 'link65'],0.758953384573461
-Flow,DATA_F8b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.75956325003583
-Flow,DATA_B8b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.7596931895607936
-Flow,DATA0_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],0.7596931895607936
-Flow,DATA_F7b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.7609519239652253
-Flow,DATA_F6b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.7679956739652251
-Flow,DATA_F7b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.773515673965225
-Flow,DATA_F8b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link44', 'link61', 'link64', 'link67'],0.77566325003583
-Flow,DATA_F7b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link52', 'link61', 'link65'],0.7770519239652253
-Flow,DATA_B4a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.777295673965225
-Flow,DATA_B8b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link35', 'link42', 'link50', 'link55', 'link68'],0.7811931895607935
-Flow,DATA0_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],0.7811931895607935
-Flow,DATA_B4a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.781850383001364
-Flow,DATA_B6b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.7831187052078441
-Flow,DATA_F6b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link40', 'link56', 'link57', 'link67'],0.783755673965225
-Flow,DATA_F8b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.7844938039993969
-Flow,DATA_B5b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.7865822124134799
-Flow,DATA_F7b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link48', 'link52', 'link61', 'link65'],0.788015673965225
-Flow,DATA_B3a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.789295673965225
-Flow,DATA_B8b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.7893001390884806
-Flow,DATA0_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],0.7893001390884806
-Flow,DATA_B6b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.791595673965225
-Flow,DATA_F6b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.802315673965225
-Flow,DATA_B4a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link39', 'link42', 'link54', 'link63', 'link66'],0.8035152860134104
-Flow,DATA_B6b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link35', 'link42', 'link50', 'link51', 'link66'],0.8038187052078442
-Flow,DATA_B5a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link48', 'link52', 'link57', 'link65'],0.80648221241348
-Flow,DATA_B8b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link42', 'link43', 'link54', 'link63', 'link66'],0.8108001390884806
-Flow,DATA0_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],0.8108001390884806
-Flow,DATA_B6a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link48', 'link49', 'link52', 'link67'],0.8122956739652251
-Flow,DATA_F8b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.813870826106435
-Flow,DATA_B8b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.8184931895607935
-Flow,DATA0_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],0.8184931895607935
-Flow,DATA_B8b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.819593803999397
-Flow,DATA0_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],0.819593803999397
-Flow,DATA_B4a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.8251187052078441
-Flow,DATA_F6b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.826595673965225
-Flow,DATA_B1a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.8357528626568254
-Flow,DATA_F7b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.8362136276276945
-Flow,DATA_B6b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.837415673965225
-Flow,DATA_F7b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.839740294294361
-Flow,DATA_B8a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link44', 'link53', 'link60', 'link67'],0.8399931895607935
-Flow,DATA0_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],0.8399931895607935
-Flow,DATA_B8b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link35', 'link46', 'link55', 'link62', 'link68'],0.840293803999397
-Flow,DATA0_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],0.840293803999397
-Flow,DATA_B8b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.8487472334165131
-Flow,DATA0_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],0.8487472334165131
-Flow,DATA_B6a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.850745673965225
-Flow,DATA_F7b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.8550287288296413
-Flow,DATA_B6b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link47', 'link54', 'link55', 'link66'],0.858115673965225
-Flow,DATA_B6b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.860895673965225
-Flow,DATA_F7b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.8612772704963079
-Flow,DATA_B2a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.8628623234705656
-Flow,DATA_B2a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.8692045464054985
-Flow,DATA_B8b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link39', 'link50', 'link63', 'link66'],0.8694472334165132
-Flow,DATA0_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],0.8694472334165132
-Flow,DATA_B7b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.8705136276276945
-Flow,DATA_B6a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link35', 'link38', 'link58', 'link59', 'link66'],0.8714456739652251
-Flow,DATA_B5a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.8739289051083716
-Flow,DATA_B7b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.874840294294361
-Flow,DATA_B8a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.8772931895607935
-Flow,DATA_B8b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.8812287288296413
-Flow,DATA0_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],0.8812287288296413
-Flow,DATA_B6b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link35', 'link46', 'link51', 'link58', 'link66'],0.8815956739652251
-Flow,DATA_B5b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.8855853178548052
-Flow,DATA_B3a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.8878853178548052
-Flow,DATA_B7b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.8909287288296414
-Flow,DATA_B7b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link35', 'link42', 'link50', 'link63', 'link66'],0.8912136276276945
-Flow,DATA_B5a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link39', 'link55', 'link62', 'link68'],0.8946289051083717
-Flow,DATA_B7b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link47', 'link54', 'link55', 'link66'],0.8955402942943611
-Flow,DATA_B7b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.8963772704963079
-Flow,DATA_B2a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.8973905758610243
-Flow,DATA_B8a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link43', 'link51', 'link62', 'link68'],0.8979931895607935
-Flow,DATA_B8a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link41', 'link44', 'link52', 'link53', 'link67'],0.9019287288296414
-Flow,DATA0_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],0.9019287288296414
-Flow,DATA_B5a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link48', 'link56', 'link61', 'link67'],0.9054853178548052
-Flow,DATA_B7b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link54', 'link59', 'link68'],0.9116287288296414
-Flow,DATA_B3a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9168402942943611
-Flow,DATA_B7b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link35', 'link42', 'link62', 'link63', 'link66'],0.9170772704963079
-Flow,DATA_B5b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9301247359110479
-Flow,DATA_B5b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.9345044115180267
-Flow,DATA_B3a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9461753631447811
-Flow,DATA_B5a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.950382566569104
-Flow,DATA_B5a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link37', 'link48', 'link57', 'link60', 'link65'],0.950824735911048
-Flow,DATA_B8a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.9516721398044775
-Flow,DATA_B5a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link44', 'link49', 'link64', 'link67'],0.9552044115180267
-Flow,DATA_B5a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.9563787288296414
-Flow,DATA_B8a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.9578778021406144
-Flow,DATA_B4a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9590835934281465
-Flow,DATA_B7b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9658455717750383
-Flow,DATA_B8a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link47', 'link50', 'link51', 'link66'],0.9723721398044776
-Flow,DATA_B5a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link43', 'link51', 'link54', 'link66'],0.9770787288296414
-Flow,DATA_B7a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link41', 'link48', 'link53', 'link60', 'link65'],0.9865455717750383
-Flow,DATA_B5a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.988124735911048
-Flow,DATA_B5a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.9925044115180267
-Flow,DATA_B5a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link47', 'link54', 'link59', 'link68'],1.008824735911048
-Flow,DATA_B4a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.0124305518956127
-Flow,DATA_B5a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link47', 'link55', 'link62', 'link66'],1.0132044115180268
-Flow,DATA_B6b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.0147305518956127
-Flow,DATA_B8b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.0185003356463327
-Flow,DATA0_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.0185003356463327
-Flow,DATA_B7a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],1.023845571775038
-Flow,DATA_B6a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link41', 'link44', 'link57', 'link64', 'link65'],1.0354305518956126
-Flow,DATA_B8a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link40', 'link49', 'link64', 'link65'],1.0392003356463326
-Flow,DATA0_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.0392003356463326
-Flow,DATA_B7a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link42', 'link47', 'link51', 'link54', 'link66'],1.044545571775038
-Flow,DATA_B5a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.046124735911048
-Flow,DATA_B6b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.0545601572749397
-Flow,DATA_B8b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.0635299323794802
-Flow,DATA0_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.0635299323794802
-Flow,DATA_B6a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.065845571775038
-Flow,DATA_B6b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.0724553698353638
-Flow,DATA_B6a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link40', 'link49', 'link52', 'link65'],1.0752601572749396
-Flow,DATA_B7b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.0783533428051375
-Flow,DATA_B7b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.080678837310632
-Flow,DATA_B8a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link41', 'link48', 'link57', 'link60', 'link65'],1.0842299323794802
-Flow,DATA0_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.0842299323794802
-Flow,DATA_B6a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],1.0849607681448925
-Flow,DATA1_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.0889483106995461
-Flow,DATA_B7b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.0895328005726563
-Flow,DATA_B8a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],1.0898805518956125
-Flow,DATA_B6a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link36', 'link41', 'link52', 'link53', 'link65'],1.0931553698353638
-Flow,DATA_B7a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link37', 'link40', 'link53', 'link60', 'link65'],1.0990533428051374
-Flow,DATA_B7a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link36', 'link37', 'link60', 'link61', 'link65'],1.101378837310632
-Flow,DATA_B6a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link47', 'link55', 'link58', 'link66'],1.1056607681448924
-Flow,DATA_B7a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link44', 'link45', 'link53', 'link64', 'link65'],1.1102328005726563
-Flow,DATA_B8a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.110968151927237
-Flow,DATA_B8a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link51', 'link62', 'link66'],1.1113805518956124
-Flow,DATA_B5a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.113268151927237
-Flow,DATA_B5a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.1206833546593884
-Flow,DATA_B6a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],1.122779545066729
-Flow,DATA1_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.123248744823681
-Flow,DATA_B7a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.1269607681448923
-Flow,DATA_B6a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link43', 'link46', 'link50', 'link63', 'link66'],1.143479545066729
-Flow,DATA_B6a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.1555409843941724
-Flow,DATA_B8a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.1612607681448923
-Flow,DATA_B8a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],1.16601510671295
-Flow,DATA1_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.1714629501535085
-Flow,DATA_B6a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.1807795450667289
-Flow,DATA_B6a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],1.1843259816247174
-Flow,DATA_B8a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link47', 'link58', 'link63', 'link68'],1.18751510671295
-Flow,DATA_B7a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],1.190798954594491
-Flow,DATA1_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.1916127061799189
-Flow,DATA_B7a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],1.193098954594491
-Flow,DATA_B7a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],1.1961571169818992
-Flow,DATA_B6a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link47', 'link50', 'link55', 'link66'],1.2058259816247172
-Flow,DATA_B7a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link47', 'link58', 'link59', 'link66'],1.2122989545944909
-Flow,DATA_B7a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link35', 'link46', 'link62', 'link63', 'link68'],1.213798954594491
-Flow,DATA_B7a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link39', 'link42', 'link54', 'link63', 'link66'],1.2168571169818991
-Flow,DATA_B8a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.2248151067129498
-Flow,DATA1_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.2343655424416995
-Flow,DATA1_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],1.2447193492334614
-Flow,DATA_B7a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.2510989545944908
-Flow,DATA_B6a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.2599009544914657
-Flow,DATA_B7a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.2736135670976796
-Flow,DATA_B7a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.2770426482913837
-Flow,DATA1_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.30175929569438
-Flow,DATA1_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.3109333482760643
-Flow,DATA1_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.319504313537382
-Flow,DATA1_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.3279810587228056
-Flow,DATA1_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.3378128061442272
-Flow,DATA1_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],1.372481792833037
-Flow,DATA1_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.3890084949781192
-Flow,DATA1_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],1.4241396924441956
-Flow,DATA2_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.4297513259752732
-Flow,DATA2_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.455260033567704
-Flow,DATA1_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.4554322272325635
-Flow,DATA2_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],1.5008167680818691
-Flow,DATA2_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.5153155424416995
-Flow,DATA2_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.5487219303850537
-Flow,DATA1_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.5693809754360544
-Flow,DATA2_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.5910333482760644
-Flow,DATA2_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.6080810587228056
-Flow,DATA2_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.6086387535625428
-Flow,DATA2_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.652581792833037
-Flow,DATA2_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],1.6617558454147214
-Flow,DATA2_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.6691084949781192
-Flow,DATA2_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.7042396924441956
-Flow,DATA2_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.72695548204714
-Flow,DATA3_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.735360033567704
-Flow,DATA2_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.744008972417987
-Flow,DATA3_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],1.7553080604894384
-Flow,DATA2_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.7722345171780371
-Flow,DATA3_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.8288219303850537
-Flow,DATA3_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.8543306379774844
-Flow,DATA3_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.8799360509193035
-Flow,DATA2_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],1.9266274336940716
-Flow,DATA3_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.932681792833037
-Flow,DATA3_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.9328859353089276
-Flow,DATA3_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.9418558454147214
-Flow,DATA3_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.9476182703849727
-Flow,DATA3_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.9492084949781192
-Flow,DATA3_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],1.9505585480579608
-Flow,DATA3_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.9843396924441956
-Flow,DATA3_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],2.0241089724179875
-Flow,DATA4_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],2.0254340470285714
-Flow,DATA3_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],2.0834461840801546
-Flow,DATA4_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],2.108921930385054
-Flow,DATA4_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],2.1344306379774847
-Flow,DATA4_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],2.1443046514383517
-Flow,DATA4_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],2.1953472994886325
-Flow,DATA3_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],2.206727433694072
-Flow,DATA4_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],2.2127817928330376
-Flow,DATA4_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],2.2219558454147217
-Flow,DATA4_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],2.2293084949781194
-Flow,DATA4_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],2.264439692444196
-Flow,DATA4_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],2.2658697966272894
-Flow,DATA4_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],2.3042089724179875
-Flow,DATA3_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.356844177122674
-Flow,DATA4_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],2.361855959487008
-Flow,DATA5_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],2.3649693492334616
-Flow,DATA4_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],2.3651364086733015
-Flow,DATA5_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],2.3890219303850544
-Flow,DATA5_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],2.4145306379774847
-Flow,DATA5_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],2.483739953643242
-Flow,DATA4_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],2.486827433694072
-Flow,DATA5_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],2.4928817928330376
-Flow,DATA5_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],2.502055845414722
-Flow,DATA4_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.523787430201754
-Flow,DATA5_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],2.5284353032828846
-Flow,DATA5_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],2.5634042899716944
-Flow,DATA5_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],2.575682227232564
-Flow,DATA5_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],2.5843089724179875
-Flow,DATA5_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],2.6452364086733016
-Flow,DATA5_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.689614308769388
-Flow,DATA5_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],2.711410140927746
-Flow,DATA5_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],2.766927433694072
-Flow,DATA4_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],2.7801442316806977
-Flow,DATA5_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],3.060244231680698
-Flow,DATA5_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],3.1140640711721903
+Flow,DATA_F3a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link44', 'link45', 'link57', 'link64', 'link65'],0.049100000000000005
+Flow,DATA_F3a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link40', 'link56', 'link57', 'link67'],0.0493
+Flow,DATA_F3a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link48', 'link49', 'link56', 'link67'],0.0494
+Flow,DATA_F3a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link44', 'link56', 'link57', 'link65'],0.0495
+Flow,DATA_F4a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link44', 'link57', 'link60', 'link67'],0.06090000000000001
+Flow,DATA_F4a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link40', 'link56', 'link57', 'link65'],0.06100000000000001
+Flow,DATA_F4a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link41', 'link44', 'link49', 'link56', 'link67'],0.061200000000000004
+Flow,DATA_F4a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link36', 'link41', 'link60', 'link61', 'link65'],0.061399999999999996
+Flow,DATA_F1a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.09926666666666666
+Flow,DATA_F1a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.10156666666666665
+Flow,DATA_F1b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link47', 'link58', 'link63', 'link68'],0.11216666666666665
+Flow,DATA_F1b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link39', 'link42', 'link51', 'link54', 'link68'],0.11446666666666665
+Flow,DATA_F1a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.12876666666666664
+Flow,DATA_F1a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.13106666666666664
+Flow,DATA_F2a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.13336666666666663
+Flow,DATA_F1b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link35', 'link42', 'link55', 'link58', 'link66'],0.14166666666666664
+Flow,DATA_F1b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link43', 'link54', 'link59', 'link66'],0.14396666666666663
+Flow,DATA_F2b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link34', 'link39', 'link50', 'link59', 'link68'],0.14626666666666663
+Flow,DATA_F3a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.14856666666666662
+Flow,DATA_F3a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.15086666666666662
+Flow,DATA_F4a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.15596666666666664
+Flow,DATA_F1b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.15826666666666664
+Flow,DATA_F4a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.16056666666666664
+Flow,DATA_F3b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link42', 'link47', 'link50', 'link59', 'link68'],0.16146666666666662
+Flow,DATA_F3b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link42', 'link43', 'link50', 'link59', 'link66'],0.16376666666666662
+Flow,DATA_F1b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.1660666666666666
+Flow,DATA_F4b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link47', 'link51', 'link54', 'link68'],0.16886666666666664
+Flow,DATA_F1b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link40', 'link45', 'link53', 'link64', 'link67'],0.17116666666666663
+Flow,DATA_F4b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link43', 'link46', 'link50', 'link63', 'link68'],0.17346666666666663
+Flow,DATA_F2a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.17576666666666663
+Flow,DATA_F2a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.17806666666666662
+Flow,DATA_F1b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link40', 'link41', 'link49', 'link56', 'link67'],0.1789666666666666
+Flow,DATA_F2a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.18316666666666664
+Flow,DATA_F3a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.18776666666666664
+Flow,DATA_F2b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link35', 'link46', 'link54', 'link59', 'link68'],0.18866666666666662
+Flow,DATA_F2b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link34', 'link43', 'link55', 'link58', 'link66'],0.19096666666666662
+Flow,DATA_F3a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.19326666666666661
+Flow,DATA_F2b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link46', 'link47', 'link55', 'link58', 'link68'],0.19606666666666664
+Flow,DATA_F2b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.19836666666666664
+Flow,DATA_F3b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link35', 'link38', 'link51', 'link62', 'link68'],0.20066666666666663
+Flow,DATA_F1b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.20296666666666663
+Flow,DATA_F4a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.20526666666666663
+Flow,DATA_F3b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link43', 'link46', 'link54', 'link59', 'link66'],0.2061666666666666
+Flow,DATA_F4a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.21036666666666665
+Flow,DATA_F2b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link45', 'link48', 'link49', 'link56', 'link65'],0.21126666666666663
+Flow,DATA_F1b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.21496666666666664
+Flow,DATA_F1b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link48', 'link49', 'link60', 'link67'],0.21586666666666662
+Flow,DATA_F4b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link42', 'link47', 'link50', 'link63', 'link68'],0.21816666666666662
+Flow,DATA_F4b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link38', 'link47', 'link58', 'link63', 'link68'],0.22326666666666664
+Flow,DATA_F3b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.22556666666666664
+Flow,DATA_F1b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link49', 'link64', 'link67'],0.22786666666666663
+Flow,DATA_F1b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.23246666666666663
+Flow,DATA_F1b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.23756666666666665
+Flow,DATA_F3b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link44', 'link45', 'link53', 'link64', 'link67'],0.23846666666666663
+Flow,DATA_F3b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.24216666666666664
+Flow,DATA_F2b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.24446666666666664
+Flow,DATA_F2b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.24766666666666662
+Flow,DATA_F3b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.25276666666666664
+Flow,DATA_F3b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link40', 'link57', 'link60', 'link65'],0.2550666666666666
+Flow,DATA_F2b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link44', 'link45', 'link52', 'link61', 'link67'],0.25736666666666663
+Flow,DATA_B1b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.26436666666666664
+Flow,DATA_F3b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link36', 'link37', 'link49', 'link52', 'link65'],0.26566666666666666
+Flow,DATA_F1b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.26936666666666664
+Flow,DATA_B1b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.26946666666666663
+Flow,DATA_F4b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.27166666666666667
+Flow,DATA_B2b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.27956666666666663
+Flow,DATA_F4b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.2799666666666667
+Flow,DATA_F5a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.2836666666666667
+Flow,DATA_B1b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link47', 'link51', 'link58', 'link66'],0.28430877192982457
+Flow,DATA_F4b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link44', 'link45', 'link53', 'link60', 'link65'],0.2845666666666667
+Flow,DATA_F1b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.2868666666666667
+Flow,DATA_B1b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link43', 'link58', 'link59', 'link68'],0.28938717948717946
+Flow,DATA_F3b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.2907666666666666
+Flow,DATA_F5a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.2919666666666667
+Flow,DATA_F4b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link41', 'link48', 'link53', 'link60', 'link67'],0.2928666666666667
+Flow,DATA_F6a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.2956666666666667
+Flow,DATA_F5a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link40', 'link45', 'link57', 'link60', 'link67'],0.2965666666666667
+Flow,DATA_F2b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.2988666666666667
+Flow,DATA_B2b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link46', 'link47', 'link51', 'link62', 'link66'],0.29948717948717946
+Flow,DATA_B1b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.3012666666666667
+Flow,DATA_F6a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.3039666666666667
+Flow,DATA_F5a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link61', 'link64', 'link65'],0.30486666666666673
+Flow,DATA_F3b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.30716666666666675
+Flow,DATA_F7a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.3076666666666667
+Flow,DATA_F6a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link36', 'link37', 'link53', 'link56', 'link67'],0.3086666666666667
+Flow,DATA_F2b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link40', 'link41', 'link57', 'link64', 'link67'],0.3118030900723209
+Flow,DATA_F7a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.31596666666666673
+Flow,DATA_F6a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link44', 'link53', 'link56', 'link67'],0.31686666666666674
+Flow,DATA_B1b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.31876666666666675
+Flow,DATA_F2b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.31916666666666677
+Flow,DATA_F7a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link41', 'link48', 'link49', 'link60', 'link67'],0.32057679324894517
+Flow,DATA_B1b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link46', 'link47', 'link51', 'link62', 'link68'],0.3211871794871795
+Flow,DATA_B3b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.32270877192982456
+Flow,DATA_F4b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.32296666666666674
+Flow,DATA_F3b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.3261030900723209
+Flow,DATA_F7a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link36', 'link45', 'link49', 'link60', 'link67'],0.32886666666666675
+Flow,DATA_F2b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link40', 'link41', 'link53', 'link56', 'link65'],0.33207679324894523
+Flow,DATA_B1b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link55', 'link62', 'link66'],0.33867679324894523
+Flow,DATA_B3b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.33907679324894524
+Flow,DATA_B3b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link43', 'link46', 'link51', 'link54', 'link66'],0.3426168527379054
+Flow,DATA_F4b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.3431666666666668
+Flow,DATA_F2b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.34637679324894527
+Flow,DATA_F4b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.3543157445598067
+Flow,DATA_B4b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.35487474747474756
+Flow,DATA_F5a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.3551666666666668
+Flow,DATA_B2b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.3556767932489453
+Flow,DATA_F4b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link40', 'link52', 'link61', 'link65'],0.3560802259887007
+Flow,DATA_B3b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.35802360289283375
+Flow,DATA_B3b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link42', 'link47', 'link54', 'link55', 'link66'],0.35901574455980667
+Flow,DATA_F3b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.3615903525709792
+Flow,DATA_F5a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.36619035257097926
+Flow,DATA_F5a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.3663157445598067
+Flow,DATA_F6a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.3671666666666668
+Flow,DATA_F4b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link36', 'link41', 'link56', 'link57', 'link65'],0.3672666666666668
+Flow,DATA_F5a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link48', 'link52', 'link53', 'link65'],0.3681802259887007
+Flow,DATA_B1b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.37089035257097924
+Flow,DATA_F3b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link36', 'link45', 'link52', 'link61', 'link67'],0.37453245783413713
+Flow,DATA_B4b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link42', 'link43', 'link54', 'link59', 'link68'],0.37483628593628604
+Flow,DATA_B2a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link40', 'link45', 'link60', 'link61', 'link65'],0.37558696164023364
+Flow,DATA_F2b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.37683245783413716
+Flow,DATA_B3b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link43', 'link46', 'link50', 'link63', 'link68'],0.3779441157133466
+Flow,DATA_B2b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.3782903525709792
+Flow,DATA_F6a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.3783157445598067
+Flow,DATA_F5b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link35', 'link38', 'link62', 'link63', 'link68'],0.3791324578341372
+Flow,DATA_F7a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.3791666666666668
+Flow,DATA_F5a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link36', 'link41', 'link53', 'link64', 'link67'],0.3792666666666668
+Flow,DATA_F6a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link40', 'link41', 'link61', 'link64', 'link65'],0.3800802259887007
+Flow,DATA_B1b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.3803157445598067
+Flow,DATA_B1b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.38948022598870075
+Flow,DATA_F7a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.3903157445598067
+Flow,DATA_B1a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link41', 'link44', 'link61', 'link64', 'link67'],0.3908098647661012
+Flow,DATA_F6a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link44', 'link60', 'link61', 'link67'],0.3912666666666668
+Flow,DATA_F7a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link40', 'link60', 'link61', 'link67'],0.3921802259887007
+Flow,DATA_B2b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link35', 'link50', 'link51', 'link66'],0.3983666666666668
+Flow,DATA_B1a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link61', 'link64', 'link67'],0.40022930388184064
+Flow,DATA_B1b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.40252930388184066
+Flow,DATA_F8a_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.4028098647661012
+Flow,DATA_F7a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link40', 'link45', 'link49', 'link64', 'link65'],0.4032172816441972
+Flow,DATA_F4b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.40648022598870076
+Flow,DATA_B3b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.40717920578960803
+Flow,DATA_B2b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.40878960069128
+Flow,DATA_B1a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link44', 'link45', 'link57', 'link64', 'link65'],0.4094157445598067
+Flow,DATA_F8a_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.41222930388184065
+Flow,DATA_F8a_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link40', 'link45', 'link49', 'link56', 'link65'],0.4157132120464359
+Flow,DATA_B3b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.4157802259887008
+Flow,DATA_F8a_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.42141574455980674
+Flow,DATA_B1a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link36', 'link45', 'link52', 'link57', 'link67'],0.42245688144971544
+Flow,DATA_F4b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.4239997272735585
+Flow,DATA_F8a_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link37', 'link44', 'link57', 'link60', 'link67'],0.42514286320387457
+Flow,DATA_B3a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link40', 'link49', 'link60', 'link67'],0.427103240124372
+Flow,DATA_F5a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.4274428632038746
+Flow,DATA_B2b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link39', 'link42', 'link51', 'link54', 'link68'],0.4286997272735585
+Flow,DATA_F8a_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link44', 'link60', 'link61', 'link67'],0.4343214999554902
+Flow,DATA_F8a_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.43445688144971545
+Flow,DATA_B3a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link52', 'link61', 'link65'],0.4356875654382421
+Flow,DATA_B2b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.43798756543824213
+Flow,DATA_B4b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.4384223312518587
+Flow,DATA_B4b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.44028756543824216
+Flow,DATA_F5b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link39', 'link59', 'link62', 'link66'],0.44034573058738713
+Flow,DATA_F5b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.4429997272735585
+Flow,DATA_F8a_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link37', 'link44', 'link49', 'link56', 'link67'],0.44736535113210235
+Flow,DATA_B3b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.45229972727355855
+Flow,DATA_F5b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link36', 'link52', 'link57', 'link65'],0.4559047587200994
+Flow,DATA_B4b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.45592024009407134
+Flow,DATA_B2a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link37', 'link48', 'link49', 'link64', 'link65'],0.45789837624905294
+Flow,DATA_B4b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link35', 'link42', 'link54', 'link63', 'link68'],0.4583331420626695
+Flow,DATA_F6a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.4590570868443561
+Flow,DATA_B4a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link40', 'link56', 'link61', 'link65'],0.4602272216424887
+Flow,DATA_B2b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.4686830606068919
+Flow,DATA_F6b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link39', 'link46', 'link58', 'link63', 'link68'],0.4719638095334317
+Flow,DATA_B3a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link36', 'link60', 'link61', 'link65'],0.47221536023872424
+Flow,DATA_F5a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.47452722164248873
+Flow,DATA_B4b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link42', 'link43', 'link51', 'link58', 'link66'],0.4758347197320804
+Flow,DATA_F4b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.47682722164248875
+Flow,DATA_F2b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.4791272216424888
+Flow,DATA_F6a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.48392516587004986
+Flow,DATA_F5b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.48651536023872427
+Flow,DATA_F5b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link46', 'link47', 'link50', 'link51', 'link68'],0.4874384540917867
+Flow,DATA_B2a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link56', 'link57', 'link67'],0.48862516587004984
+Flow,DATA_F6b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link39', 'link46', 'link54', 'link63', 'link66'],0.49683324667813067
+Flow,DATA_F5b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link33', 'link36', 'link56', 'link57', 'link67'],0.49942659268802225
+Flow,DATA_B4b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.5013334231928763
+Flow,DATA_F7a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.5052251658700498
+Flow,DATA_B4b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.5087334231928763
+Flow,DATA_B2a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.5099251658700499
+Flow,DATA_B2b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.5110334231928764
+Flow,DATA_F7a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.5111332466781306
+Flow,DATA_B4b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.5145251658700499
+Flow,DATA_F6a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.5165755284560342
+Flow,DATA_F7b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link38', 'link43', 'link50', 'link59', 'link68'],0.5181416526217673
+Flow,DATA_F6b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.5204416526217672
+Flow,DATA_B4a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link37', 'link44', 'link49', 'link52', 'link67'],0.5212755284560342
+Flow,DATA_F7b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link35', 'link38', 'link54', 'link55', 'link66'],0.5240499099445938
+Flow,DATA_B4b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link39', 'link46', 'link58', 'link59', 'link68'],0.5286499099445937
+Flow,DATA_F6b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link38', 'link43', 'link50', 'link63', 'link66'],0.5294836877566655
+Flow,DATA_B2a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link35', 'link38', 'link51', 'link62', 'link66'],0.5298672711332078
+Flow,DATA_B2b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link47', 'link50', 'link55', 'link68'],0.5309499099445938
+Flow,DATA_F5b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.5324416526217672
+Flow,DATA_F6b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link36', 'link37', 'link49', 'link52', 'link67'],0.5333755284560342
+Flow,DATA_B4a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link41', 'link48', 'link56', 'link61', 'link67'],0.5344672711332078
+Flow,DATA_F6b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.5356755284560342
+Flow,DATA_F5b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link36', 'link57', 'link60', 'link65'],0.5453552119438011
+Flow,DATA_F6b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link40', 'link45', 'link56', 'link61', 'link65'],0.5485882268687325
+Flow,DATA_F7a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.5508882268687325
+Flow,DATA_B1a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.5618692744390882
+Flow,DATA_F7b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.5628882268687325
+Flow,DATA_F7b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link43', 'link46', 'link55', 'link62', 'link68'],0.5638303321318904
+Flow,DATA_F8a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.5661303321318903
+Flow,DATA_F7b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link37', 'link40', 'link49', 'link52', 'link67'],0.5758049998860525
+Flow,DATA_F7b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.5781303321318904
+Flow,DATA_F8b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link38', 'link39', 'link51', 'link58', 'link66'],0.579057918338787
+Flow,DATA_B1a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link47', 'link50', 'link59', 'link66'],0.5817860474564082
+Flow,DATA_B3a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.5890384496867791
+Flow,DATA_F7b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link33', 'link44', 'link61', 'link64', 'link65'],0.5910394545909881
+Flow,DATA_B4b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.5913384496867791
+Flow,DATA_F6b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.5933579183387869
+Flow,DATA_B2b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.5937320547709363
+Flow,DATA_B2a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.5971049998860525
+Flow,DATA_F5b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.5975299160767436
+Flow,DATA_F6b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link44', 'link45', 'link52', 'link57', 'link65'],0.6062708292772209
+Flow,DATA_B2a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6068299160767435
+Flow,DATA_B3a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link39', 'link59', 'link62', 'link68'],0.6089479734963029
+Flow,DATA_B4a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link37', 'link44', 'link53', 'link64', 'link65'],0.6113033145516439
+Flow,DATA_F5a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.6127504288972564
+Flow,DATA_B2a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link36', 'link56', 'link57', 'link67'],0.6136969196358011
+Flow,DATA_B3a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.615996919635801
+Flow,DATA_F3b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.6173504288972563
+Flow,DATA_B4a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.6220504288972564
+Flow,DATA_F7b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.6232479734963029
+Flow,DATA_F5b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link35', 'link38', 'link54', 'link55', 'link66'],0.6256639882192903
+Flow,DATA_B2a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link47', 'link50', 'link51', 'link66'],0.6267532436925239
+Flow,DATA_F8b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.6279969196358011
+Flow,DATA_B5b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6294504288972564
+Flow,DATA_F6a_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.6325925341604142
+Flow,DATA_B3a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link43', 'link54', 'link63', 'link66'],0.635918485746199
+Flow,DATA_F7b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link36', 'link53', 'link56', 'link65'],0.6361643000269152
+Flow,DATA_F8b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link33', 'link44', 'link53', 'link60', 'link65'],0.6409132461664133
+Flow,DATA_B4a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link46', 'link47', 'link58', 'link63', 'link68'],0.6419612397080672
+Flow,DATA_F6b_DP2_PP3_TP0_Rank14_Rank2,path_selected,['link6', 'link29', 'link34', 'link39', 'link59', 'link62', 'link66'],0.6455088606910264
+Flow,DATA_B3b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.6492925341604142
+Flow,DATA_B5b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link39', 'link54', 'link55', 'link68'],0.6493695415252428
+Flow,DATA_F6b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.6504643000269151
+Flow,DATA_F7a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.6527643000269151
+Flow,DATA_B3a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.6548088606910264
+Flow,DATA_F5b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.6562612397080672
+Flow,DATA_F7b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link39', 'link46', 'link50', 'link63', 'link68'],0.6656744266091936
+Flow,DATA_B1a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.6668088606910264
+Flow,DATA_B3b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link47', 'link50', 'link51', 'link68'],0.6692035406774308
+Flow,DATA_B1a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.6784713662903457
+Flow,DATA_B1a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.6807713662903456
+Flow,DATA_B6b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.682395468858084
+Flow,DATA_B1a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.6830713662903456
+Flow,DATA_F8a_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.6835035406774308
+Flow,DATA_F8a_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.6881035406774307
+Flow,DATA_B5b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.6881713662903457
+Flow,DATA_B4a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.6928035406774308
+Flow,DATA_F8b_DP3_PP3_TP0_Rank15_Rank3,path_selected,['link8', 'link31', 'link35', 'link42', 'link58', 'link59', 'link66'],0.696441968625029
+Flow,DATA_B3a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.6974035406774307
+Flow,DATA_B1a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link43', 'link50', 'link63', 'link66'],0.6983866529145495
+Flow,DATA_F7b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.698741968625029
+Flow,DATA_B1a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link39', 'link46', 'link58', 'link63', 'link68'],0.7006849256123795
+Flow,DATA_F8b_DP0_PP3_TP0_Rank12_Rank0,path_selected,['link2', 'link25', 'link42', 'link47', 'link50', 'link51', 'link66'],0.7010085721239716
+Flow,DATA_B6b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link35', 'link46', 'link55', 'link62', 'link66'],0.7023035496661648
+Flow,DATA_B1a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link42', 'link43', 'link50', 'link63', 'link68'],0.7029918791108585
+Flow,DATA_F6b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.7034085721239716
+Flow,DATA_B5b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link43', 'link50', 'link63', 'link66'],0.7081085721239716
+Flow,DATA_B4a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.7150188273016346
+Flow,DATA_B3a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link47', 'link55', 'link62', 'link66'],0.7173456459405886
+Flow,DATA_F8b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.7224085721239716
+Flow,DATA_B2a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.7256217868634887
+Flow,DATA_B7b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.7306767512337247
+Flow,DATA_F5b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.7316456459405886
+Flow,DATA_B5b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.7317085721239716
+Flow,DATA_B3a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.7340085721239715
+Flow,DATA_B4a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link54', 'link63', 'link68'],0.7349609325647924
+Flow,DATA_B6b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.7353217868634887
+Flow,DATA_F6b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.7408381133941009
+Flow,DATA_B4a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.7409456459405885
+Flow,DATA_B2a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link43', 'link46', 'link51', 'link54', 'link66'],0.7455381133941009
+Flow,DATA_B7b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link35', 'link42', 'link50', 'link55', 'link68'],0.7505812205074677
+Flow,DATA_B5a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link36', 'link37', 'link52', 'link57', 'link65'],0.7516501152143316
+Flow,DATA_F6b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.7528319134457672
+Flow,DATA_B8b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.7543232821664044
+Flow,DATA0_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],0.7543232821664044
+Flow,DATA_B6b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link43', 'link46', 'link50', 'link55', 'link68'],0.7552319134457672
+Flow,DATA_B4a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.7575319134457672
+Flow,DATA_F8a_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.7598381133941009
+Flow,DATA_B4a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link46', 'link47', 'link54', 'link55', 'link68'],0.7608506773871294
+Flow,DATA_F7b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.7621381133941009
+Flow,DATA_B2a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.7631506773871294
+Flow,DATA_B5b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.7635501152143316
+Flow,DATA_F6b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link36', 'link45', 'link49', 'link60', 'link65'],0.76575242626628
+Flow,DATA_B6b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.7727431448406418
+Flow,DATA_F8b_DP1_PP3_TP0_Rank13_Rank1,path_selected,['link4', 'link27', 'link43', 'link46', 'link58', 'link59', 'link66'],0.7727548864114209
+Flow,DATA_B8b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link43', 'link46', 'link54', 'link59', 'link66'],0.7750333450594862
+Flow,DATA0_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],0.7750333450594862
+Flow,DATA_B4a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link43', 'link62', 'link63', 'link66'],0.7774376688414507
+Flow,DATA_F7b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.78005242626628
+Flow,DATA_B5b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link35', 'link42', 'link51', 'link58', 'link66'],0.7834706280348445
+Flow,DATA_F7b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.7893333450594862
+Flow,DATA_B2a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.78935242626628
+Flow,DATA_B3b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.79165242626628
+Flow,DATA_B6b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link35', 'link38', 'link58', 'link63', 'link68'],0.7926852501037996
+Flow,DATA_F7b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link40', 'link45', 'link56', 'link57', 'link65'],0.7929735771216455
+Flow,DATA_B7b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.7940586262146138
+Flow,DATA_F5b_DP2_PP0_TP0_Rank2_Rank6,path_selected,['link5', 'link14'],0.7952735771216455
+Flow,DATA_B5a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.7987376688414507
+Flow,DATA_B1a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.8047706280348444
+Flow,DATA_B1a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.8073105741218679
+Flow,DATA_F5b_DP2_PP1_TP0_Rank6_Rank10,path_selected,['link13', 'link22', 'link37', 'link44', 'link53', 'link64', 'link67'],0.8081891470938419
+Flow,DATA_B2a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link47', 'link55', 'link58', 'link68'],0.81005242626628
+Flow,DATA_F6b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.8104891470938419
+Flow,DATA_B3a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link48', 'link61', 'link64', 'link67'],0.8115560792343165
+Flow,DATA_B7b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link43', 'link46', 'link50', 'link55', 'link68'],0.8147586262146138
+Flow,DATA_B5a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link42', 'link43', 'link58', 'link63', 'link66'],0.8194376688414508
+Flow,DATA_B7b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.8212444049673203
+Flow,DATA_F7b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],0.8265314488045729
+Flow,DATA_B7b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link35', 'link38', 'link50', 'link55', 'link66'],0.841147752247655
+Flow,DATA_B6b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.8432314488045729
+Flow,DATA_B4a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.848744024378938
+Flow,DATA_F5b_DP2_PP2_TP0_Rank10_Rank14,path_selected,['link21', 'link30'],0.8511222149533674
+Flow,DATA_B7b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.8584440243789381
+Flow,DATA_B6b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link35', 'link50', 'link55', 'link68'],0.863931448804573
+Flow,DATA_B3a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.8662314488045729
+Flow,DATA_F8b_DP0_PP0_TP0_Rank0_Rank4,path_selected,['link1', 'link10'],0.8736473716592728
+Flow,DATA_B1a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.8741621623909495
+Flow,DATA_B7b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.8764621623909494
+Flow,DATA_B7b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link43', 'link59', 'link62', 'link66'],0.8783473716592728
+Flow,DATA_B5b_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],0.8838621623909495
+Flow,DATA_B4a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.8852314488045729
+Flow,DATA_F8b_DP0_PP1_TP0_Rank4_Rank8,path_selected,['link9', 'link18', 'link45', 'link48', 'link57', 'link64', 'link67'],0.8865699937672419
+Flow,DATA_B3a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link39', 'link59', 'link62', 'link68'],0.886931448804573
+Flow,DATA_B6b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.8892314488045729
+Flow,DATA_B5b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.8915314488045729
+Flow,DATA_B7a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link33', 'link40', 'link49', 'link52', 'link67'],0.896366182491452
+Flow,DATA_B6b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.8996473716592728
+Flow,DATA_B3a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9019473716592727
+Flow,DATA_B5b_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link39', 'link46', 'link54', 'link59', 'link68'],0.9045621623909496
+Flow,DATA_F8b_DP3_PP0_TP0_Rank3_Rank7,path_selected,['link7', 'link16'],0.9067359180783159
+Flow,DATA_B6b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.908231448804573
+Flow,DATA_B6a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link37', 'link48', 'link60', 'link61', 'link65'],0.909135918078316
+Flow,DATA_B5a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link40', 'link49', 'link56', 'link65'],0.9114359180783159
+Flow,DATA_B2a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9176661824914519
+Flow,DATA_B6a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link41', 'link48', 'link53', 'link56', 'link65'],0.9195473716592728
+Flow,DATA_F8b_DP3_PP1_TP0_Rank7_Rank11,path_selected,['link15', 'link24', 'link37', 'link40', 'link49', 'link56', 'link67'],0.9196564308988288
+Flow,DATA_F8b_DP0_PP2_TP0_Rank8_Rank12,path_selected,['link17', 'link26'],0.9280359180783159
+Flow,DATA_B6a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link41', 'link44', 'link49', 'link64', 'link65'],0.928235918078316
+Flow,DATA_B7b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9327359180783159
+Flow,DATA_B2a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9409564308988287
+Flow,DATA_B6b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9457285711481342
+Flow,DATA_F8b_DP1_PP0_TP0_Rank1_Rank5,path_selected,['link3', 'link12'],0.9479359180783159
+Flow,DATA_B7a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.9502475122812144
+Flow,DATA_B7a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link40', 'link52', 'link53', 'link67'],0.9526359180783159
+Flow,DATA_F8b_DP3_PP2_TP0_Rank11_Rank15,path_selected,['link23', 'link32'],0.9561564308988287
+Flow,DATA_B8b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],0.9572359180783159
+Flow,DATA0_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],0.9572359180783159
+Flow,DATA_B3a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.9595359180783158
+Flow,DATA_B8b_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],0.9599475122812144
+Flow,DATA0_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],0.9599475122812144
+Flow,DATA_F8b_DP1_PP1_TP0_Rank5_Rank9,path_selected,['link11', 'link20', 'link33', 'link40', 'link49', 'link60', 'link67'],0.9608564308988288
+Flow,DATA_B6a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link40', 'link45', 'link52', 'link57', 'link67'],0.9656285711481343
+Flow,DATA_B7a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link43', 'link55', 'link62', 'link68'],0.9709475122812145
+Flow,DATA_B5b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9739359180783159
+Flow,DATA_B8a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link37', 'link44', 'link52', 'link61', 'link65'],0.9779359180783159
+Flow,DATA0_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],0.9779359180783159
+Flow,DATA_B8b_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link35', 'link62', 'link63', 'link66'],0.9806475122812145
+Flow,DATA0_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],0.9806475122812145
+Flow,DATA_B4a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.9829475122812145
+Flow,DATA_B5a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.9869285711481343
+Flow,DATA_B8b_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],0.9888766840633857
+Flow,DATA0_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],0.9888766840633857
+Flow,DATA_B6a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],0.9892285711481342
+Flow,DATA_B7b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],0.9922475122812144
+Flow,DATA_B5a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link44', 'link57', 'link64', 'link65'],0.993835918078316
+Flow,DATA_B7b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],0.9961359180783159
+Flow,DATA_B5a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],0.9992359180783159
+Flow,DATA_B6a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],1.0019475122812145
+Flow,DATA_B6a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],1.0051610716032482
+Flow,DATA_B5a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link38', 'link43', 'link51', 'link54', 'link66'],1.007655689792202
+Flow,DATA_B8b_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link43', 'link51', 'link58', 'link68'],1.0095766840633857
+Flow,DATA0_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.0095766840633857
+Flow,DATA_B6a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link35', 'link50', 'link63', 'link66'],1.009955689792202
+Flow,DATA_B7a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link37', 'link40', 'link56', 'link57', 'link67'],1.0121475122812145
+Flow,DATA_B7a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],1.015135918078316
+Flow,DATA_B7a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link33', 'link48', 'link61', 'link64', 'link65'],1.0160564308988287
+Flow,DATA_B6a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link38', 'link43', 'link50', 'link55', 'link66'],1.0226475122812144
+Flow,DATA_B6a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link38', 'link47', 'link58', 'link63', 'link66'],1.0258610716032481
+Flow,DATA_B8b_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.0334475122812143
+Flow,DATA0_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.0334475122812143
+Flow,DATA_B7a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link35', 'link38', 'link51', 'link58', 'link68'],1.0358359180783159
+Flow,DATA_B7a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.0381359180783158
+Flow,DATA_F8b_DP1_PP2_TP0_Rank9_Rank13,path_selected,['link19', 'link28'],1.040161071603248
+Flow,DATA_B8a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],1.0404359180783158
+Flow,DATA_B5b_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.0439475122812143
+Flow,DATA1_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.0450123619923564
+Flow,DATA_B5a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],1.049461071603248
+Flow,DATA_B6a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],1.051761071603248
+Flow,DATA_B8a_DP0_PP0_TP0_Rank0_Rank12,path_selected,['link1', 'link26', 'link33', 'link36', 'link52', 'link61', 'link65'],1.0541475122812143
+Flow,DATA0_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.0541475122812143
+Flow,DATA_B8b_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.0571359180783158
+Flow,DATA0_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.0571359180783158
+Flow,DATA_B8a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link39', 'link54', 'link55', 'link66'],1.0611359180783158
+Flow,DATA_B5a_DP2_PP0_TP0_Rank2_Rank14,path_selected,['link5', 'link30', 'link33', 'link44', 'link49', 'link52', 'link67'],1.0646475122812142
+Flow,DATA_B7a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],1.0669475122812142
+Flow,DATA_B5a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link39', 'link58', 'link63', 'link66'],1.070161071603248
+Flow,DATA1_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.070261071603248
+Flow,DATA_B6a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link34', 'link43', 'link58', 'link63', 'link68'],1.0716610716032478
+Flow,DATA_B8b_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],1.0729452821295637
+Flow,DATA0_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.0729452821295637
+Flow,DATA_B7a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.0754475122812142
+Flow,DATA_B8a_DP3_PP0_TP0_Rank3_Rank15,path_selected,['link7', 'link32', 'link36', 'link41', 'link53', 'link56', 'link67'],1.0778359180783157
+Flow,DATA0_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.0778359180783157
+Flow,DATA_B7a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],1.0801359180783157
+Flow,DATA_B5a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.0824359180783156
+Flow,DATA_B6a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.0859475122812141
+Flow,DATA_B7a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link34', 'link39', 'link55', 'link58', 'link66'],1.0876475122812141
+Flow,DATA_B8b_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link35', 'link46', 'link54', 'link55', 'link68'],1.0936452821295637
+Flow,DATA0_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.0936452821295637
+Flow,DATA_B8a_DP0_PP3_TP0_Rank12_Rank8,path_selected,['link18', 'link25'],1.0991359180783156
+Flow,DATA_B7a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link34', 'link47', 'link54', 'link63', 'link66'],1.1016359180783155
+Flow,DATA_B5a_DP2_PP3_TP0_Rank14_Rank10,path_selected,['link22', 'link29'],1.108947512281214
+Flow,DATA_B6a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.111247512281214
+Flow,DATA_B6a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.1149452821295636
+Flow,DATA_B6a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.1172452821295635
+Flow,DATA_B8a_DP0_PP2_TP0_Rank8_Rank4,path_selected,['link10', 'link17', 'link42', 'link47', 'link51', 'link58', 'link66'],1.1206359180783154
+Flow,DATA_B8a_DP3_PP3_TP0_Rank15_Rank11,path_selected,['link24', 'link31'],1.1229359180783154
+Flow,DATA_B5a_DP2_PP2_TP0_Rank10_Rank6,path_selected,['link14', 'link21', 'link38', 'link39', 'link58', 'link63', 'link66'],1.129647512281214
+Flow,DATA_B8b_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.1419359180783153
+Flow,DATA0_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.1419359180783153
+Flow,DATA_B8a_DP3_PP2_TP0_Rank11_Rank7,path_selected,['link16', 'link23', 'link34', 'link43', 'link54', 'link55', 'link68'],1.1444359180783152
+Flow,DATA_B8a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.1467359180783152
+Flow,DATA_B5a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.1581016964551096
+Flow,DATA_B8a_DP1_PP0_TP0_Rank1_Rank13,path_selected,['link3', 'link28', 'link41', 'link48', 'link61', 'link64', 'link67'],1.1626359180783152
+Flow,DATA0_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.1626359180783152
+Flow,DATA_B7a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.1760481371330758
+Flow,DATA_B8a_DP3_PP1_TP0_Rank7_Rank3,path_selected,['link8', 'link15'],1.183935918078315
+Flow,DATA_B7a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.1872721004680897
+Flow,DATA_B8a_DP0_PP1_TP0_Rank4_Rank0,path_selected,['link2', 'link9'],1.1990481371330757
+Flow,DATA_B8a_DP1_PP3_TP0_Rank13_Rank9,path_selected,['link20', 'link27'],1.2013481371330756
+Flow,DATA_B5a_DP2_PP1_TP0_Rank6_Rank2,path_selected,['link6', 'link13'],1.2102721004680896
+Flow,DATA_B8a_DP1_PP2_TP0_Rank9_Rank5,path_selected,['link12', 'link19', 'link42', 'link47', 'link51', 'link58', 'link68'],1.2220481371330756
+Flow,DATA1_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.2467143833851098
+Flow,DATA1_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],1.2474822586973053
+Flow,DATA_B8a_DP1_PP1_TP0_Rank5_Rank1,path_selected,['link4', 'link11'],1.2593481371330755
+Flow,DATA1_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.2657447562173734
+Flow,DATA1_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],1.2699682281767974
+Flow,DATA1_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.3215816491511159
+Flow,DATA1_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.3401463528609245
+Flow,DATA1_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.4387631017004026
+Flow,DATA1_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.4588315002291135
+Flow,DATA1_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],1.4628329488668426
+Flow,DATA1_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],1.4850844554309963
+Flow,DATA1_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.5028254514681352
+Flow,DATA1_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.516937644561267
+Flow,DATA1_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.5298258227598018
+Flow,DATA1_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],1.548896705201182
+Flow,DATA2_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],1.555488372443989
+Flow,DATA2_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],1.575161231669828
+Flow,DATA2_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],1.6228387425427562
+Flow,DATA2_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],1.635257603782074
+Flow,DATA2_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],1.6423881282232433
+Flow,DATA2_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],1.6576263418038968
+Flow,DATA2_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],1.7058037359554588
+Flow,DATA2_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],1.7246215290310534
+Flow,DATA2_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.8147874608580488
+Flow,DATA2_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],1.8353748722349836
+Flow,DATA2_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],1.8505082939516109
+Flow,DATA2_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],1.872642569058096
+Flow,DATA2_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],1.913947909564145
+Flow,DATA2_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],1.9332718813713106
+Flow,DATA3_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],1.9989131017004025
+Flow,DATA2_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],2.0102625304922817
+Flow,DATA2_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],2.018814057452706
+Flow,DATA3_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],2.018981500229114
+Flow,DATA3_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],2.0229829488668427
+Flow,DATA3_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],2.0452344554309967
+Flow,DATA3_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],2.0629754514681355
+Flow,DATA3_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],2.077087644561267
+Flow,DATA3_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],2.089975822759802
+Flow,DATA3_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],2.109046705201182
+Flow,DATA3_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],2.190761820015695
+Flow,DATA3_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.2118682442408537
+Flow,DATA3_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],2.2381336390363793
+Flow,DATA3_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],2.2601506826851954
+Flow,DATA3_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],2.298019996368488
+Flow,DATA3_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],2.3175970575414393
+Flow,DATA4_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],2.374937460858049
+Flow,DATA4_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],2.395524872234984
+Flow,DATA4_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],2.4106582939516112
+Flow,DATA4_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],2.4327925690580963
+Flow,DATA4_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],2.4740979095641453
+Flow,DATA4_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],2.4934218813713107
+Flow,DATA3_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],2.517649609516428
+Flow,DATA3_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],2.520640470344145
+Flow,DATA4_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],2.5666861791733413
+Flow,DATA4_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],2.570412530492282
+Flow,DATA4_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],2.578964057452706
+Flow,DATA4_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],2.588311616246724
+Flow,DATA4_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],2.6257089841211476
+Flow,DATA4_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],2.6476087963122947
+Flow,DATA4_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],2.6820420831728313
+Flow,DATA4_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],2.701872233711568
+Flow,DATA5_F999_DP4_PP1_TP0_Rank7_Rank4,path_selected,['link10', 'link15'],2.7509118200156957
+Flow,DATA5_F999_DP0_PP0_TP0_Rank3_Rank0,path_selected,['link2', 'link7'],2.772018244240854
+Flow,DATA5_F999_DP12_PP3_TP0_Rank13_Rank14,path_selected,['link27', 'link30'],2.79828363903638
+Flow,DATA5_F999_DP8_PP2_TP0_Rank9_Rank10,path_selected,['link19', 'link22'],2.8203006826851955
+Flow,DATA5_F999_DP4_PP1_TP0_Rank5_Rank6,path_selected,['link11', 'link14'],2.8581699963684883
+Flow,DATA5_F999_DP0_PP0_TP0_Rank1_Rank2,path_selected,['link3', 'link6'],2.8777470575414394
+Flow,DATA5_F999_DP4_PP1_TP0_Rank4_Rank5,path_selected,['link9', 'link12'],2.942560538330987
+Flow,DATA5_F999_DP0_PP0_TP0_Rank0_Rank1,path_selected,['link1', 'link4'],2.964704988252594
+Flow,DATA5_F999_DP12_PP3_TP0_Rank14_Rank15,path_selected,['link29', 'link32'],3.0132343292059156
+Flow,DATA4_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],3.0224168832355844
+Flow,DATA4_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],3.030812868207904
+Flow,DATA5_F999_DP8_PP2_TP0_Rank10_Rank11,path_selected,['link21', 'link24'],3.035016909939394
+Flow,DATA5_F999_DP4_PP1_TP0_Rank6_Rank7,path_selected,['link13', 'link16'],3.0660141699771746
+Flow,DATA5_F999_DP0_PP0_TP0_Rank2_Rank3,path_selected,['link5', 'link8'],3.086097409881697
+Flow,DATA5_F999_DP8_PP2_TP0_Rank11_Rank8,path_selected,['link18', 'link23'],3.1264640307488967
+Flow,DATA5_F999_DP12_PP3_TP0_Rank15_Rank12,path_selected,['link26', 'link31'],3.1363720434929445
+Flow,DATA5_F999_DP8_PP2_TP0_Rank8_Rank9,path_selected,['link17', 'link20'],3.4784697357222725
+Flow,DATA5_F999_DP12_PP3_TP0_Rank12_Rank13,path_selected,['link25', 'link28'],3.4853536929228635

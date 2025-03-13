@@ -1,3 +1,9 @@
+## 可视化文件说明
+- `read_finish.py` 生成 `finish_time_plot.png`
+- `show_finish.sh` 生成 `scatter_plot.png`
+- `visual.sh` 生成 `link_num_4_bandwidth_400_delay_2_route_random_ultra_wide_visualization.html`这类文件
+
+
 # 更新日志
 
 ## [日期: 2025-03-07]
