@@ -1,0 +1,14 @@
+python 1024-rack-simulate.py 2 100 random
+python 1024-rack-simulate.py 2 100 min_max_flows
+
+
+# python 1024-rack-simulate.py 4 400 random
+# python 1024-rack-simulate.py 4 400 min_max_flows
+# python 1024-rack-simulate.py 4 25 random
+# python 1024-rack-simulate.py 4 25 min_max_flows
+# python 1024-rack-simulate.py 4 10 random
+# python 1024-rack-simulate.py 4 10 min_max_flows
+# python 1024-rack-simulate.py 2 10 random
+# python 1024-rack-simulate.py 2 10 min_max_flows
+# python 1024-rack-simulate.py 1 10 random
+# python 1024-rack-simulate.py 1 10 min_max_flows

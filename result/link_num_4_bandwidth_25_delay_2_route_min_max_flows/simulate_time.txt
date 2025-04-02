@@ -1,0 +1,13 @@
+simulate_time:2.7359778881073
+simulate_time:11.904023885726929s
+simulate_time:7.241368055343628s
+simulate_time:5.002621412277222s
+simulate_time:8.614520788192749s
+simulate_time:8.474557161331177s
+simulate_time:7.148521661758423s
+simulate_time:3.1206271648406982s
+simulate_time:4.430817127227783s
+simulate_time:3.7793996334075928s
+simulate_time:15.441193103790283s
+simulate_time:34.85004258155823s, isdebug:True
+simulate_time:12.365314722061157s, isdebug:True

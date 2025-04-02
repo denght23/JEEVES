@@ -3,6 +3,8 @@ from collections import defaultdict
 import random
 import re
 from collections import deque
+from datetime import datetime
+import time
 
 class Link:
     def __init__(self, bandwidth, delay):
@@ -87,7 +89,7 @@ class Simulator:
         self.event_dependencies = defaultdict(list)  # 事件到依赖者的映射
         self.path_selection_method = path_selection_method
         self.file_name = file_name
-        self.debug = False
+        self.debug = True
         self.object_dependencies = {}  # 对象到其依赖列表的映射
         self.completed_deps = defaultdict(set)  # 对象到已完成的依赖事件的集合
         self.enable_rank_queue = enable_rank_queue
@@ -225,6 +227,7 @@ class Simulator:
             f.write(f"{log_data}\n")
             
     def update_flow_rates(self):
+        simulate_start_time = time.time() # 记录每次更新调度的开始时间戳
         active_flows = set()
         flow_end_time = {}
         for link in self.links.values():
@@ -241,6 +244,7 @@ class Simulator:
         remaining_bandwidth = {link: link.bandwidth for link in self.links.values()}
         remaining_flows_count = {link: len(link.active_flows) for link in self.links.values()}
         allocated = {flow: False for flow in active_flows}
+         
         
         # 分配速率
         while True:
@@ -321,14 +325,24 @@ class Simulator:
                 for link in bottleneck_links:
                     related_flows.extend(f.flow_id for f in link.active_flows if f != flow)
                 bottleneck_dict[flow.flow_id] = list(set(related_flows))
+        if self.debug:
+            # 记录速率和瓶颈信息
+            if rate_record:
+                with open(f"result/{self.file_name}/rate_record.txt", "a") as file:
+                    file.write(f"{ {'time': self.current_time, 'flow': rate_record} }\n")
+            if bottleneck_dict:
+                with open(f"result/{self.file_name}/bottleneck_flows.txt", "a") as file:
+                    file.write(f"{ {'time': self.current_time, 'bottleneck_flows': bottleneck_dict} }\n")
+        if self.debug:  
+            # 记录更新调度的活跃流数量
+            with open(f"result/{self.file_name}/active_flows_num.txt", "a") as f:
+                f.write(f"{ {'time': self.current_time, 'active_flows_num': len(active_flows)} }\n")
+            # 记录更新调度实际耗时
+            simulate_end_time = time.time()
+            with open(f"result/{self.file_name}/flow_update_time.txt", "a") as f:
+                f.write(f"{ {'time': self.current_time, 'duraion': simulate_end_time-simulate_start_time} }\n")
         
-        # 记录速率和瓶颈信息
-        if rate_record:
-            with open(f"result/{self.file_name}/rate_record.txt", "a") as file:
-                file.write(f"{ {'time': self.current_time, 'flow': rate_record} }\n")
-        if bottleneck_dict:
-            with open(f"result/{self.file_name}/bottleneck_flows.txt", "a") as file:
-                file.write(f"{ {'time': self.current_time, 'bottleneck_flows': bottleneck_dict} }\n")
+
 
 
     # def _calculate_rates(self, candidate_links):
@@ -504,6 +518,9 @@ class Simulator:
 
         
     def handle_flow_start(self, flow):
+        # 这里设置流的开始时间？
+        flow.start_time = self.current_time
+        
         if flow.path is None:
             if self.path_selection_method == 'random':
                 if self.random_seed is not None:
@@ -524,40 +541,43 @@ class Simulator:
                 flow.path = selected_path
             else:
                 raise ValueError("Invalid path selection method")
-                
-        # 将路径信息写入records.txt
-        path_ids = [link_id for link_id, link in self.links.items() if link in flow.path]
-        with open(f"result/{self.file_name}/flow_path_record.txt", "a") as file:
-            file.write(
-                f"Flow,{flow.flow_id},path_selected,{path_ids},{self.current_time}\n"
-            )
         
-        """处理流开始事件"""
-        # 记录流开始日志
-        with open(f"result/{self.file_name}/records.txt", "a") as file:
-            file.write(f"Flow,{flow.flow_id},begin,{self.current_time}\n")
-        
-        # 记录链路负载变化
-        with open(f"result/{self.file_name}/link_load.txt", "a") as file:
-            load_dict = {
-                "time": self.current_time,
-                "link": {link_id: link.calculate_load() for link_id, link in self.links.items()}
-            }
-            file.write(f"{load_dict}\n")
-        
-        # 记录链路利用率变化
-        with open(f"result/{self.file_name}/link_util.txt", "a") as file:
-            load_dict = {
-                "time": self.current_time,
-                "link": {link_id: link.calculate_load() / link.bandwidth for link_id, link in self.links.items()}
-            }
-            file.write(f"{load_dict}\n")
-        with open(f"result/{self.file_name}/link_flow_num.txt", "a") as file:
-            flow_num_dict = {
-                "time": self.current_time,
-                "link": {link_id: len(link.active_flows) for link_id, link in self.links.items()}
-            }
-            file.write(f"{flow_num_dict}\n")
+        if self.debug:       
+            # 将路径信息写入records.txt
+            path_ids = [link_id for link_id, link in self.links.items() if link in flow.path]
+            with open(f"result/{self.file_name}/flow_path_record.txt", "a") as file:
+                file.write(
+                    f"Flow,{flow.flow_id},path_selected,{path_ids},{self.current_time}\n"
+                )
+            
+            """处理流开始事件"""
+        if self.debug:  
+            # 记录流开始日志
+            # 这里的self.current_time就是流的开始时间?
+            with open(f"result/{self.file_name}/records.txt", "a") as file:
+                file.write(f"Flow,{flow.flow_id},begin,{self.current_time}\n")
+        if self.debug:  
+            # 记录链路负载变化
+            with open(f"result/{self.file_name}/link_load.txt", "a") as file:
+                load_dict = {
+                    "time": self.current_time,
+                    "link": {link_id: link.calculate_load() for link_id, link in self.links.items()}
+                }
+                file.write(f"{load_dict}\n")
+        if self.debug:  
+            # 记录链路利用率变化
+            with open(f"result/{self.file_name}/link_util.txt", "a") as file:
+                load_dict = {
+                    "time": self.current_time,
+                    "link": {link_id: link.calculate_load() / link.bandwidth for link_id, link in self.links.items()}
+                }
+                file.write(f"{load_dict}\n")
+            with open(f"result/{self.file_name}/link_flow_num.txt", "a") as file:
+                flow_num_dict = {
+                    "time": self.current_time,
+                    "link": {link_id: len(link.active_flows) for link_id, link in self.links.items()}
+                }
+                file.write(f"{flow_num_dict}\n")
 
         # 添加流到所有路径链路
         if self.debug:
@@ -588,20 +608,23 @@ class Simulator:
                 
         flow.end_time = self.current_time
         flow.remaining_size = 0
-
-        # 记录链路负载变化
-        with open(f"result/{self.file_name}/link_load.txt", "a") as file:
-            load_dict = {
-                "time": self.current_time,
-                "link": {link_id: link.calculate_load() for link_id, link in self.links.items()}
-            }
-            file.write(f"{load_dict}\n")
-        with open(f"result/{self.file_name}/link_flow_num.txt", "a") as file:
-            flow_num_dict = {
-                "time": self.current_time,
-                "link": {link_id: len(link.active_flows) for link_id, link in self.links.items()}
-            }
-            file.write(f"{flow_num_dict}\n")
+        if self.debug:  
+            # 记录链路负载变化
+            with open(f"result/{self.file_name}/link_load.txt", "a") as file:
+                load_dict = {
+                    "time": self.current_time,
+                    "link": {link_id: link.calculate_load() for link_id, link in self.links.items()}
+                }
+                file.write(f"{load_dict}\n")
+            with open(f"result/{self.file_name}/link_flow_num.txt", "a") as file:
+                flow_num_dict = {
+                    "time": self.current_time,
+                    "link": {link_id: len(link.active_flows) for link_id, link in self.links.items()}
+                }
+                file.write(f"{flow_num_dict}\n")
+            # 记录流的开始和完成时间
+            with open(f"result/{self.file_name}/flow_start_end.txt", "a") as file:
+                file.write(f"{ {'flow_id': flow.flow_id, 'start_time':flow.start_time, 'end_time': flow.end_time, 'time':(flow.end_time-flow.start_time)*1000}}\n")
 
         # 从链路移除流
         if self.debug:
@@ -690,8 +713,9 @@ class Simulator:
             self.current_rank_tasks[rank] = task
         else:
             pass
-        with open(f"result/{self.file_name}/records.txt", "a") as file:
-            file.write(f"Task,{task.task_id},begin,{self.current_time}\n")
+        if self.debug:
+            with open(f"result/{self.file_name}/records.txt", "a") as file:
+                file.write(f"Task,{task.task_id},begin,{self.current_time}\n")
         
         # 计算结束时间并调度
         task.start_time = self.current_time
@@ -702,9 +726,10 @@ class Simulator:
         """处理任务结束事件（完整逻辑）"""
         task.end_time = self.current_time
 
-        # 记录任务结束日志
-        with open(f"result/{self.file_name}/records.txt", "a") as file:
-            file.write(f"Task,{task.task_id},finish,{self.current_time}\n")
+        if self.debug:
+            # 记录任务结束日志
+            with open(f"result/{self.file_name}/records.txt", "a") as file:
+                file.write(f"Task,{task.task_id},finish,{self.current_time}\n")
 
         # 生成完成事件名称（格式必须与依赖列表中的名称一致）
         completed_event = f"task_end_{task.task_id}"
@@ -776,6 +801,9 @@ class Simulator:
                 self.handle_task_start(event.obj)
             elif event.event_type == 'task_end':
                 self.handle_task_end(event.obj)
+        
+        
+
 
 # # 示例测试
 # if __name__ == "__main__":

@@ -1,0 +1,10 @@
+python full_path_cal.py 4 400 random
+python full_path_cal.py 4 400 min_max_flows
+python full_path_cal.py 4 25 random
+python full_path_cal.py 4 25 min_max_flows
+python full_path_cal.py 4 10 random
+python full_path_cal.py 4 10 min_max_flows
+python full_path_cal.py 2 10 random
+python full_path_cal.py 2 10 min_max_flows
+python full_path_cal.py 1 10 random
+python full_path_cal.py 1 10 min_max_flows

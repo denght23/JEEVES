@@ -4,6 +4,9 @@ import json
 import random
 import sys
 import os
+from datetime import datetime
+import time
+
 
 
 def calculate_flow_standard_time(flow_id, flow_name_path, simulator, standard_file):
@@ -17,8 +20,8 @@ def calculate_flow_standard_time(flow_id, flow_name_path, simulator, standard_fi
             bandwidth = link_bandwidth
     flow_size = simulator.flows[flow_id].size #MB
     standard_time = flow_size / bandwidth * 8 + latency
-    with open(standard_file, "a") as file:
-        file.write(f"{flow_id},{latency},{bandwidth},{flow_size},{standard_time}\n")
+    with open(standard_file, "a") as file:  
+        file.write(f"{ {'flow_id':flow_id,'latency':latency,'bandwidth':bandwidth,'flow_size':flow_size,'standard_time':standard_time}}\n")
 
 def set_16_rank_topo(simulator, topo, num, bandwidth, delay, core_links_file):
     link_id = 1
@@ -102,6 +105,8 @@ def set_16_rank_topo(simulator, topo, num, bandwidth, delay, core_links_file):
 
 
 if __name__ == "__main__":
+    # 记录模拟开始的现实时间戳
+    start_time = time.time()
     # 清空 link_load.txt 和 records.txt
     if len(sys.argv) != 4:
         print("Usage: python 16-rack-simulate.py <num> <bandwidth> <random/min_max_flows>")
@@ -129,6 +134,11 @@ if __name__ == "__main__":
     error_file = f'result/{file_name}/error.txt'
     bottleneck_file = f'result/{file_name}/bottleneck_flows.txt'
     
+    simulate_time_file = f'result/{file_name}/simulate_time.txt'        # 实际模拟时间
+    flow_start_end_file = f'result/{file_name}/flow_start_end.txt'      # 单次模拟的所有流的开始和结束时间
+    flow_update_time_file = f'result/{file_name}/flow_update_time.txt'  # 单次模拟的所有流的更新时间(实际耗时)
+    active_flows_num_file = f'result/{file_name}/active_flows_num.txt'  # 单次模拟的流更新时刻的活跃流数量
+    
     open(link_load_file, 'w').close()
     open(link_util_file, 'w').close()
     open(link_flow_num_file, 'w').close()
@@ -139,17 +149,25 @@ if __name__ == "__main__":
     open(error_file, 'w').close()
     open(bottleneck_file, 'w').close()
     
-    with open(standard_time_file, 'w') as file:
-        file.write("flow_id,path_latency(ms),bandwidth(Gbps),flow_size(MB),standard_time(ms)\n")
+    open(standard_time_file, 'w').close()
+    open(flow_start_end_file, 'w').close()
+    open(flow_update_time_file, 'w').close()
+    open(active_flows_num_file, 'w').close()
+    # with open(standard_time_file, 'w') as file:
+    #     file.write("flow_id,path_latency(ms),bandwidth(Gbps),flow_size(MB),standard_time(ms)\n")
     
     # 创建仿真器
     simulator = Simulator(file_name, path_selection_method)
     topo = Topology()
     link_dict = set_16_rank_topo(simulator, topo, num, bandwidth, delay, core_links_file)
     # 添加流
-    workload_file = "/home/denghaotian/research/LLM_planning/simulate/easy_simulate/data/change_data.json"
+    workload_file = "./data/change_data.json"
     with open(workload_file, 'r') as f:
         workload = json.load(f)
+
+    
+    
+
         
     task_num = 0
     flow_num = 0
@@ -202,6 +220,13 @@ if __name__ == "__main__":
                 calculate_flow_standard_time(flow_id, flow_name_path, simulator, standard_time_file)
                 flow_num += 1
     simulator.run()
+    
+    # 记录模拟结束的现实时间戳并写入文件
+    end_time = time.time()
+    with open(simulate_time_file, "a") as file:
+        file.write(f"simulate_time:{end_time - start_time}s, isdebug:{simulator.debug}\n")
+
+
     print(f"task_num: {task_num}, flow_num: {flow_num}, total_num: {task_num + flow_num}")
     # 读取 records.txt，并且print最后一行
                     
